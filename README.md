@@ -440,6 +440,78 @@ tareas para los User Personas previamente definidos.
     </td>
   </tr>
 
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping.
+### Usuario (Cliente): 
+<br>
+<table>
+  <tr>
+    <th><strong>Fases</strong></th>
+    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
+    <th style="text-align: justify;"><strong>Ganar puntaje</strong></th>
+    <th style="text-align: justify;"><strong>Ver puntaje</strong></th>
+    <th style="text-align: justify;"><strong>Reclamar Puntos</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Hace</strong></td>
+    <td style="text-align: justify;">Si el usuario, abre el sitio web tendrá que registrarse, seguidamente se mostrará la interfaz principal. En caso ya se encuentre registrado, se muestra la interfaz principal.</td>
+    <td style="text-align: justify;">Realiza compras de licores, de esta manera el cliente generará puntaje a medida que compre licor.</td>
+    <td style="text-align: justify;">Verifica sus puntos obtenidos en el sitio web, el cual se mostrará en una barra y consulta al personal del bar.</td>
+    <td style="text-align: justify;">Consulta al personal sobre el proceso de reclamo de puntos cuando la barra de puntaje haya llegado al máximo.</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Piensa</strong></td>
+    <td style="text-align: justify;">“Me agrada no esperar mucho tiempo al ingresar al sitio web”</td>
+    <td style="text-align: justify;">“¡Vaya!, estoy ganando muchos puntos, lo reclamaré cuando la barra se llene por completo"</td>
+    <td style="text-align: justify;">Me gusta poder ver mi puntaje y poder saber qué productos puedo reclamar, la visualización por forma de barra es atractiva.</td>
+    <td style="text-align: justify;">Me agrada poder canjear mis puntos de manera sencilla con la dependienta del bar.</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Siente</strong></td>
+    <td style="text-align: justify;">Siente satisfacción porque el registro de usuario es sencillo y no toma mucho tiempo.</td>
+    <td style="text-align: justify;">El usuario se siente contento por conocer su puntaje y saber que puede reclamar tragos.</td>
+    <td style="text-align: justify;">El usuario siente satisfacción porque la barra se visualiza muy bien y entendible.</td>
+    <td style="text-align: justify;">Se siente contento porque puede reclamar productos con los puntos obtenidos.</td>
+  </tr>
+</table>
+
+---
+<br>
+
+### Empresa (Dueño del Bar):
+<table>
+  <tr>
+    <th><strong>Fases</strong></th>
+    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
+    <th style="text-align: justify;"><strong>Ver puntaje</strong></th>
+    <th style="text-align: justify;"><strong>Reclamar puntos</strong></th>
+    <th style="text-align: justify;"><strong>Control de inventario</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Hace</strong></td>
+    <td style="text-align: justify;">El empresario se registra como empresario y se muestra una interfaz distinta a la del usuario</td>
+    <td style="text-align: justify;">Los encargados del bar en el sector del sitio web visualizan los puntajes de cada cliente</td>
+    <td style="text-align: justify;">El usuario se acerca a ver sus puntos, el empresario pide el nombre del cliente y lo busca en el sitio web, en el que puede observar su puntaje y poder reclamar por los productos disponibles.</td>
+    <td style="text-align: justify;">Usa nuestro sitio web, en la interfaz de empresario, existe una sección para controlar inventario, el empresario ingresa a dicha sección y puede controlar sus productos.</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Piensa</strong></td>
+    <td style="text-align: justify;">“Que satisfacción ingresar a un sitio web de manera rápida”</td>
+    <td style="text-align: justify;">Me parece un sistema entendible, en el que puedo ver los puntos de cada cliente de manera ordenada. </td>
+    <td style="text-align: justify;">Me parece muy bien poder hacer esta operación de manera automática, es un sistema innovador. </td>
+    <td style="text-align: justify;">Me gusta la eficiencia y la reducción de errores en el control de inventario.</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Siente</strong></td>
+    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
+    <td style="text-align: justify;">El encargado siente satisfacción por la facilidad de entender rápidamente el sitio web.</td>
+    <td style="text-align: justify;">Se siente contento porque de esta manera los clientes crean una fidelización con el bar, haciendo que los clientes vuelvan de manera continua.  </td>
+    <td style="text-align: justify;">Siente felicidad porque observa una reducción de problemas relacionados con el stock del producto.</td>
+  </tr>
+</table>
+
+---
+
   ## 3.2. User Stories.
 
 <table>
