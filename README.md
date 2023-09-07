@@ -265,6 +265,13 @@ Ademas, en el Perú muy pocas personas utilizan una website para reservar espaci
   </tr>
 <br>
 
+### 1.2.2 Lean UX Proccess
+
+#### 1.2.2.1 Lean UX Problem Statements
+Después de analizar la problemática y los factores que la ocasionan, podemos tener un panorama de cómo solucionar la necesidad del usuario declarando supuestos, lo cual corresponde al siguiente paso de la Lean UX. Por ello, es necesario tener un conocimiento previo de las empresas que tienen características similares a las nuestras y cómo estas se han desarrollado con el paso del tiempo.
+Con una investigación rigurosa que hicimos podemos declarar que existe una competencia indirecta. Esta competencia vendrían a ser las apps sobre la gestión online de bares.
+
+
 #### 1.2.2.2. Lean UX Assumptions.
 ##### ***<u>FEATURES</u>***
 -	Registro de los clientes hacia la website para tener la facilidad de poder supervisar los puntos acumulados, además de visualizar el catálogo de productos con los que pueden ser canjeados.
