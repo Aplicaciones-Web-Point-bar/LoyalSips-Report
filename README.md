@@ -89,3 +89,9 @@ tareas para los User Personas previamente definidos.
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1148008883084853418/Eisenhower_Matrix.jpg?width=1301&height=600"width="1301" height="600">
     </td>
   </tr>
+
+
+  ## 4.2. Information Architecture.
+
+En esta seccion se enfoca en la organizacion del contenido de la website LoyalSips en buscar el 100% de satisfacion en nuestros clientes durante la navegacion de nuestra website.
+A continuacion, podemos ver los topicos de Labelling Systems, Organization Systems, Seo Tags and Meta Tags, Searching Systems y Navigation Systems.
