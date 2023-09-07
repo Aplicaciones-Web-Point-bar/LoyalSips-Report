@@ -1,6 +1,22 @@
 # LoyalSips-TB1-Origin
-## This is Develop branch
 
+
+## This is Develop branch
+# Capitulo 1: Introducción
+
+## 1.1 Startup Profile
+
+### 1.1.1 Descripción de la Startup
+
+
+#### Misión
+
+La misión de nuestra App es generar facilidad de interacción entre clientes y bares, como también mejorar las herrramientas de gestión para-ambos sectores.  
+
+#### Visión
+
+Nuestra visión es que la aplicación que desarrollemos marque un nuevo hito entre las aplicaciones similares que existen y que nuestros usuarios nos respaldan considerando a ésta una de las mejores del rubro. 
+ 
 ## 1.2. Solution Profile
 
 Nuestra solucion ante la problemática que explicaremos mediante el uso de las 5"W" y 2"H" será la creacion de una website, cuando nuestros clientes quieran salir a tomar podran usar nuestra aplicacion y podran generar puntos en la app para tener descuentos, asi se motivara a seguir comprando por nuestra app.
