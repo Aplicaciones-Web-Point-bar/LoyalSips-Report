@@ -757,3 +757,64 @@ tareas para los User Personas previamente definidos.
 
 En esta seccion se enfoca en la organizacion del contenido de la website LoyalSips en buscar el 100% de satisfacion en nuestros clientes durante la navegacion de nuestra website.
 A continuacion, podemos ver los topicos de Labelling Systems, Organization Systems, Seo Tags and Meta Tags, Searching Systems y Navigation Systems.
+
+### 4.2.1. Organization Systems.
+
+En la organizacion visual tenemos:
+
+* Fomar jerarquica:
+  Esta forma de organización se implementará en la pantalla de inicio del usuario, para
+  esto la secciones de “Revervacion de mesas” y “Ofertas de bebidas” poseen una mayor jerarquía por ser de importancia para el usuario, por otro lado, “Registro de compras” tendrán una menor jerarquía en el inicio. Esta manera de organización se mantendran segmentadas.<br><br>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1148313906264150197/Untitled_1.jpg?width=475&height=592"width="475" height="592">
+    </td>
+  </tr>
+<br>
+
+
+
+* Organizacion matricial
+  
+  La organizacion matricial se incluira a travez de las Bedidas mas compradas y el Registro de compras.
+
+* Esquemas de Organizacion
+   
+   En nuestra aplicacion habra una organizacion separada por todos los usuarios.
+
+   En la segmentacion de los usuarios: En el apartado de las Bebidas mas compradas se organizara de acuerdo al precio del mas alto al mas bajo. Para el Registro de las compras, esta organizacion se dara cada vez que el usuario compre una bebida mediante la app asi su podra generar puntos y podra canjear una bebida gratis. Ademas el usuario tendra todo su registro guardado para que no tenga ningun confusion.
+
+
+
+### 4.2.2. Labeling Systems.
+
+Para el sistema de etiquetado hemos utilizado, en su mayoría, un lenguaje formal de
+fácil identificación para los usuarios. Tenemos: 
+
+<table>
+  <tr>
+    <th><strong>Apartados</strong></th>
+    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Login</strong></td>
+    <td style="text-align: justify;">El empresario se registra como empresario y se muestra una interfaz distinta a la del usuario</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Reservacion de mesas</strong></td>
+    <td style="text-align: justify;">“Que satisfacción ingresar a un sitio web de manera rápida”</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Ofertas de bebidas</strong></td>
+    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
+  </tr>
+    <tr>
+    <td style="text-align: justify;"><strong>Bebidas mas compradas</strong></td>
+    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
+  </tr>
+    <tr>
+    <td style="text-align: justify;"><strong>Registro de compras</strong></td>
+    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
+  </tr>
+</table>
