@@ -141,7 +141,7 @@
 ## 1.1 Startup Profile
 
 ### 1.1.1 Descripción de la Startup
-Nuestra aplicacación **"POINT BAR"** de nuestro equipo **"TechSolutions"** ha sido creado con la finalidad de mejorar el sistema de administracion para el sector de bares y mejorar la experiencia del cliente por medio de  beneficios como descuentos, y promociones. 
+Nuestra aplicacación **"LOYALSIPS"** de nuestro equipo **"TechSolutions"** ha sido creado con la finalidad de mejorar el sistema de administracion para el sector de bares y mejorar la experiencia del cliente por medio de  beneficios como descuentos, y promociones. 
 
  #### Misión
 
@@ -188,7 +188,7 @@ Nuestra visión es que la aplicación que desarrollemos marque un nuevo hito ent
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://media.discordapp.net/attachments/1146639921830973515/1149466066397962350/image.png?width=316&height=485" alt="Foto 4" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Alfaro Coveñas</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy una persona que le fascina la tecnología en sus múltiples aspectos y, además, le gusta trabajar en equipo. En base a mis skills, destacan el tema de liderazgo, conocimientos de marcos de trabajos ágiles, programación en lenguajes tales como C++, HTML, CSS y manejo de base de datos como MySQL, SQL Server y MongoDB.</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202110458</td>
   </tr>
@@ -196,7 +196,7 @@ Nuestra visión es que la aplicación que desarrollemos marque un nuevo hito ent
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://media.discordapp.net/attachments/1146639921830973515/1149466156269309983/image.png?width=298&height=434" alt="Foto 5" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Leonardo</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Leonardo Paul Lopez Huarcaya</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualmente estudiando la carrera de Ingeniería de Software. Yo como estudiante de esta carrera hasta el momento ya sé manejar el código en C++, python y un poco de java, manejando estructuras, ciclos repetitivos y más. Soy entusiasta, perseverante y gracias a ello podré siempre mantener al equipo unido para cumplir con todas las actividades a tiempo.</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201b895</td>
   </tr>
