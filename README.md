@@ -76,3 +76,16 @@ en el análisis de entrevistas y de la competencia.
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1147997558657007706/User_Person_Empresario.png?width=419&height=592"width="403" height="569">
     </td>
   </tr>
+
+### 2.3.2. User Task Matrix.
+
+Esta sección llamada User Task Matrix es una herramienta que nos sirve para
+poder entender las tareas y objetivos que cada User Persona desea lograr a la
+hora de utilizar nuestro producto. En esta sección, se presentarán las matrices de
+tareas para los User Personas previamente definidos.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1148008883084853418/Eisenhower_Matrix.jpg?width=1301&height=600"width="1301" height="600">
+    </td>
+  </tr>
