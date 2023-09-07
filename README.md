@@ -48,3 +48,9 @@ Ademas, en el Perú muy pocas personas utilizan una website para reservar espaci
     </td>
   </tr>
 <br>
+
+## 2.3. Needfinding.
+
+<div align='justify'>
+En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin, Empathy Mapping y As-Is Scenario Mapping. 
+</div>
