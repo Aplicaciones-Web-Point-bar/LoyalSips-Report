@@ -745,3 +745,8 @@ tareas para los User Personas previamente definidos.
   <td style="text-align: justify;">Epic 4</td>
   </tr>
 </table>
+
+## 4.2. Information Architecture.
+
+En esta seccion se enfoca en la organizacion del contenido de la website LoyalSips en buscar el 100% de satisfacion en nuestros clientes durante la navegacion de nuestra website.
+A continuacion, podemos ver los topicos de Labelling Systems, Organization Systems, Seo Tags and Meta Tags, Searching Systems y Navigation Systems.
