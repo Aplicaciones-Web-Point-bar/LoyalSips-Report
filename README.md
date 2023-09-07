@@ -265,6 +265,100 @@ Ademas, en el Perú muy pocas personas utilizan una website para reservar espaci
   </tr>
 <br>
 
+#### 1.2.2.2. Lean UX Assumptions.
+##### ***<u>FEATURES</u>***
+-	Registro de los clientes hacia la website para tener la facilidad de poder supervisar los puntos acumulados, además de visualizar el catálogo de productos con los que pueden ser canjeados.
+-	Bonificar a los clientes de un respectivo bar a través de puntos que los clientes irán ganando por cada cierta compra de productos al bar, este acuerdo lo define el bar.
+-	Los clientes tendrán la facilidad de recibir correos electrónicos para que se mantengan informados sobre los puntos que van acumulando u ofertas.
+-	Existirá un área donde el cliente podrá calificar nuestro website, esto nos ayudará a mejorar nuestro servicio.
+-	El servicio también proporcionará al bar un sistema de control de inventario que podrá controlar que productos están agotándose, de tal manera que el encargado solicite nuevos productos por medio de la revisión del website que nosotros implementemos.
+
+##### ***<u>BUSINESS OUTCOMES</u>***
+1.	**¿Qué estamos tratando de lograr?**
+
+Incrementar las ganancias de los bares por medio de que los clientes sean más fieles al bar, de tal forma que las ventas del bar sean mayores.
+
+2.	**¿Qué tipo de objetivos tienen?**
+
+El objetivo principal es facilitar al bar a incrementar sus ganancias y de la misma forma apoyar en el control de inventario para facilitar el trabajo de los encargados en dicho rubro. Además, se tiene como objetivo secundario, que no solo 1 bar use nuestro servicio, sino muchos.
+
+3.	**¿Qué tipos de usuarios necesita?**
+
+Nuestros usuarios serán los empresarios de los bares, e indirectamente los clientes de los bares, que consumirán nuestro servicio.
+
+##### ***<u>USER BENEFITS</u>***
+-	Facilidad y flexibilidad del sitio web para el beneficio del usuario.
+-	Notificar por medio de correo electrónico al usuario sobre sus puntos ganados y posibles canjes.
+
+##### ***<u>SUPUESTOS DEL NEGOCIO</u>***
+
+1.	**Creemos que nuestros clientes necesitan:** Recibir ofertas o eventos que se realizarán en el bar para que puedan motivarse a ir.
+
+2.	**Creemos que podemos solucionar con:** Envío de notificaciones a los clientes por medio de sus correos electrónicos o números de celular.
+3.	**Mis clientes iniciales son (o serán):** Empresarios de bares, e indirectamente, los clientes de los bares, es decir, personas mayores de 18 años.
+
+4.	**El valor #1 que un cliente quiere de mi servicio es:** Que nuestro servicio sea sencillo de entender y usar.
+
+5.	**Voy a adquirir la mayoría de mis clientes a través de:** Recomendación de los empresarios por nuestro servicio útil, además con el uso de anuncios en internet.
+
+6.	**Mi competencia principal del mercado será:** Sitios web dedicadas a facilitar la venta del sector de bares.
+
+7.	**Lo venceremos por medio de:** Nuestro sitio web se diferenciará porque además de proporcionar puntos al cliente por cada compra realizada, proporcionará al bar un servicio de control de inventario, por lo que la empresa del bar estará ligada a nuestro servicio, sirviéndoles de gran apoyo.
+
+8.	**Nuestro principal riesgo de producto es:** que el sitio web sea algo confuso de entender para los clientes que no están acostumbrados a la tecnología de hoy en día.
+
+9.	**Lo resolveremos a través de:** Implementar un sitio web amigable y sencillo de usar para el usuario y empresario.
+
+10.	**Creemos que:** Nuestro servicio será de gran ayuda en generar más ganancias a las empresas de licorería, como son los bares, lo cual motivará a los clientes a consumir más en dicho bar. 
+
+##### ***<u>SUPUESTOS DEL USUARIO</u>***
+1.	**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Creemos que nuestro proyecto aporta de manera esencial a las empresas de licorería que deseen generar más ganancias por medio de que los clientes preferirán el bar por el sitio web de puntos de bonificación.
+
+2.	**¿Qué problemas tiene nuestro producto y como se pueden resolver?**
+
+Un problema de nuestro proyecto es que en algún momento exista una saturación por exceso de usuarios usando la aplicación en simultáneo, lo cual lo resolveremos aumentando nuestro servicio cloud en los meses de uso más frecuentes.
+
+
+##### ***<u>USUARIO</u>***
+
+1.	**¿Quién es el usuario?**
+
+Los empresarios de los bares, y todas las personas mayores de 18 años.
+
+2.	**¿Cuándo y cómo será usado nuestro producto?**
+
+Nuestro producto será usado diariamente, porque es cierto que los bares tienen clientes de manera diaria, es por eso que mientras el bar esté en funcionamiento, por ende, estarán usando nuestro servicio, de tal forma que el usuario podrá visualizar en el sitio web sus puntos y poder ver qué productos pueden ser canjeados por dichos puntos.
+
+##### ***<u>CARACTERÍSITCAS</u>***
+
+1.	**¿Qué características son importantes?**
+
+Que el sitio web sea sencillo, interactivo y fácil de usar, de tal forma que las funciones no sean recargadas y cumplan el objetivo principal que es el acumulador de puntos y servicio de control.
+
+2.	**¿Cómo debe verse nuestro producto y como debe comportarse?**
+
+Debe tener un diseño minimalista, pero a la vez atractivo, con colores que combinen con el propósito del servicio, el comportamiento debe ser sencillo y eficaz, sin tanto rodeo, para evitar confundir al cliente.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.  
+
+**Hipótesis 1:**
+
+**Creemos que** implementando un sitio web, este podrá ser usado tanto en dispositivos Android como IOS, sin la necesidad de crear una aplicación para cada sistema operativo. Por parte de las empresas tendrán la misma facilidad con el control de inventario.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer trimestre de ser lanzado nuestro servicio, la empresa obtenga mejoras considerables en las ganancias.
+
+
+**Hipótesis 2:**
+**Creemos que** implementar un sistema de control de inventario para la empresa, ayudará a esta misma a facilitar el trabajo de los encargados, de tal forma que sea más fácil llevar un control.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por más empresas de licorería, de tal forma que sea un producto que favorezca al incremento de ganancias para muchos bares y no solo a uno.
+
 ## 2.3. Needfinding.
 
 <div align='justify'>
