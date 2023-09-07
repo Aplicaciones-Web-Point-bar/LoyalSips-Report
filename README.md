@@ -54,3 +54,25 @@ Ademas, en el Perú muy pocas personas utilizan una website para reservar espaci
 <div align='justify'>
 En esta sección se presentan los artefactos del proceso de análisis de la información recopilada de nuestros segmentos objetivos. Se incluyen las secciones de User Personas, User Task Matrix, User Journey Mappin, Empathy Mapping y As-Is Scenario Mapping. 
 </div>
+
+### 2.3.1. User Personas.
+
+En esta sección presentaremos dos fichas de User Persona para nuestro producto,
+el cual se enfoca en el cliente que va consumir algun trago y en la Empresa. Estas
+fichas están basadas en las principales características y necesidades identificadas
+en el análisis de entrevistas y de la competencia.
+
+#### 2.3.1.1 Segmento Objetivo 1: Cliente
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1147987398639235173/User_Person_Cliente.png?width=419&height=592"width="403" height="569">
+    </td>
+  </tr>
+
+#### 2.3.1.2 Segmento Objetivo 1: Empresario
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1147997558657007706/User_Person_Empresario.png?width=419&height=592"width="403" height="569">
+    </td>
+  </tr>
