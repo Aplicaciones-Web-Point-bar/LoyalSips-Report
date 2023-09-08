@@ -601,6 +601,19 @@ fácil identificación para los usuarios. Tenemos:
   </tr>
 </table>
 
+## 4.8 Database Design
+
+El diseño de bases de datos para el sistema de gestión de datos de "LOYALSIPS" implica la creación de una estructura de base de datos que permita almacenar y gestionar eficientemente información relacionada con los bares, como menús, inventarios, pedidos, clientes y boletas. Esto implica la definición de tablas que representen entidades clave, como Tablas, Reservas, Mesas, Bar, Orden, Cliente, Boleta, Bebidas y Almacén, y la creación de relaciones entre estas tablas para reflejar cómo se relacionan los datos.
+
+En el diseño de bases de datos para bares, se deben considerar elementos como las claves primarias y foráneas para mantener la integridad de los datos, las restricciones de base de datos para garantizar la consistencia y la normalización de datos para evitar la duplicación innecesaria de información.
+
+### 4.8.1. Database Diagram
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/969784880017842216/1149495852549799956/Diagrama_de_Clases_Point_Bar-2023-09-07_19-00.png?width= "80" height=auto>
+    </td>
+</tr>
+
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 
 Para el desarrollo del Landing Page TechSolution se ha utilizado los siguientes lenguajes:
