@@ -1168,7 +1168,125 @@ En el diseño de bases de datos para bares, se deben considerar elementos como l
     </td>
 </tr>
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+## 5.1.3. Source Code Style Guide & Conventions.
+Utilizaremos la guía de estilos y convenciones de codificación en C#, que replicamos
+en JavaScript por su similitud, ofrecida por Microsoft.
+Y para el HTML/CSS utilizaremos la guía de estilos desarrollado por la fundación Mozilla:
+Asimismo, utilizaremos las siguientes tecnologías:
+
+• IDEs:
+
+➢ Visual Studio Enterprise 2022 (https://code.visualstudio.com/download )
+
+➢ VSCode (https://code.visualstudio.com/download )
+
+➢ WebStorm (https://www.jetbrains.com/eses/webstorm/download/#section=windows )
+
+• DevOps:
+
+➢ GitHub (https://docs.github.com/es )
+
+• Lenguajes:
+
+➢ C# (https://docs.microsoft.com/en-us/dotnet/csharp/ )
+
+➢ JavaScript (https://developer.mozilla.org/es/docs/Web/JavaScript )
+
+➢ CSS (https://developer.mozilla.org/es/docs/Web/CSS )
+
+➢ HTML (https://developer.mozilla.org/es/docs/Web/HTML )
+www.easycloud.ga
+113
+
+• Frameworks:
+
+➢ Vue2 (https://vuejs.org/guide/introduction.html )
+
+➢ Vite (https://vitejs.dev/guide/ )
+
+➢ASP.NET core (https://docs.microsoft.com/enus/aspnet/core/?view=aspnetcore-6.0 )
+
+• Librerías:
+
+Boostrap (https://getbootstrap.com/docs/4.1/gettingstarted/introduction/ )
+
+• Herramientas:
+
+➢ Figma (https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/ )
+
+➢ Pivotal Tracker (https://www.pivotaltracker.com/help/api/#top )
+
+➢ Microsoft Teams (https://www.microsoft.com/es-ww/microsoftteams/download-app )
+
+➢ NodeJS. (https://nodejs.org/es/download/ )
+
+También, las siguientes reglas:
+
+• Convenciones de idioma:
+
+➢Todo texto utilizado debe ser internalizado en español e inglés.
+
+➢ El nombre de variables, funciones y demás artefactos escritos en código deben ser inglés.
+
+• Tecnologías:
+
+➢ Seguiremos utilizando las tecnologías consideradas para el desarrollo de la
+aplicación durante los siguientes Sprints, como: C#, JavaScript, Html y CSS.
+
+• Herramientas:
+
+➢ Seguiremos utilizando las tecnologías consideradas para el desarrollo de la
+aplicación, durante los siguientes sprints, como: Rider, Visual Studio,
+Github, Git, WebStorm.
+
+## 5.2. Landing Page, Services & Applications Implementation.
+
+## 5.1.4. Software Deployment Configuration.
+
+Para la configuración del despliegue, utilizaremos lo siguiente:
+Landing Page:
+
+• Infraestructura
+
+•Proveedor: Azure
+
+• Servicio: Static Web App
+
+• DNS provider: freenom.com
+
+• Automatización: Git Actions
+
+• URL (Landing Page Desplegada): https://easycloud.tv/
+
+Backend:
+
+• Infraestructura
+
+• Proveedor: Azure
+
+• Servicio: Static Web App
+
+• DNS provider: freenom.com
+
+• Automatización: Git Actions
+
+• URL (Web App Desplegada): https://easycloud.tv/
+
+Frontend:
+
+• Infraestructura
+
+• Proveedor: Azure
+
+• Servicio: Static Web App
+
+• DNS provider: freenom.com
+
+• Automatización: Git Actions
+
+• URL (Web App Desplegada): https://easycloud.tv/
+
+### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 
 Para el desarrollo del Landing Page TechSolution se ha utilizado los siguientes lenguajes:
 
