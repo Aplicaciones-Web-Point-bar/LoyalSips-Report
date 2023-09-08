@@ -691,6 +691,26 @@ tareas para los User Personas previamente definidos.
     </td>
   </tr>
 
+### 2.3.3. User Journey Mapping.
+## Usuario Cliente
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149556210438246462/journey.JPG?width=1245&height=676"width="" height="">
+    </td>
+  </tr>
+
+## Usuario Empresario
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149557741933830155/usuario.JPG?width=1280&height=676"width="" height="">
+    </td>
+  </tr>
+
+Link de Miro -> https://miro.com/app/board/uXjVMnMLrn0=/?share_link_id=713054034361
+
+
 ### 2.3.5. As-Is Scenario Mapping.
 ### Usuario (Cliente):
 <br>
