@@ -896,6 +896,10 @@ Por otro lado Usamos el tipo de letra San Francisco.
     </td>
   </tr>
 
+## 4.1.2 Web Style Guidelines.
+
+Para el diseño de la web se establecieron los colores ya antes mencionados, Turquesa, negro y morado. El estilo de letra que se utilizará en la aplicación web es San Francisco. Para todo esto hemos tenido en cuenta que cada cliente tiene un distinto dispositivo, por esta razón hemos decidido hacer nuestra web con los principios responsive.
+
 ## 4.2. Information Architecture.
 
 En esta seccion se enfoca en la organizacion del contenido de la website LoyalSips en buscar el 100% de satisfacion en nuestros clientes durante la navegacion de nuestra website.
