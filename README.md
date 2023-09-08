@@ -1772,6 +1772,136 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 
   ---
 
+### 4.4.4. Web Applications User Flow Diagrams.
+En esta sección se muestra los user flows diagrams de los Mock-ups previamente creados anteriormente. A continuación, se mostrarán los flujos de la aplicación para el mayor entendimiento de todos.
+
+### El link del user Flow diagrams es el siguiente: https://overflow.io/s/RV6NU7NK 
+
+### Segmento objetivo Empresarios:
+
+**User Goal:** Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828110045429851/Captura_de_pantalla_2023-09-08_081316.png?width=688&height=222"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como empresario, quiero iniciar sesión con una cuenta previamente creada.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828260415422474/Captura_de_pantalla_2023-09-08_081915.png?width=659&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como empresario, ver mis datos en la aplicación.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828409493557329/Captura_de_pantalla_2023-09-08_082048.png?width=665&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como empresario, deseo buscar al cliente con un respectivo puntaje.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828670345723974/Captura_de_pantalla_2023-09-08_082603.png?width=688&height=294"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+
+***User Goal: Como empresario, deseo registrar un producto en el sistema para poder llevar un control del stock.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829025880080424/Captura_de_pantalla_2023-09-08_083350.png?width=688&height=293"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como empresario, deseo buscar un producto en el sistema para poder saber el stock y llevar un control seguro.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829280671481936/Captura_de_pantalla_2023-09-08_083841.png?width=688&height=288"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+### Segmento objetivo Usuarios:
+### Link para visualizar los wireframes diagrams: https://overflow.io/s/T9LJPXN7
+
+***User Goal: Como soy cliente consumidor, quiero elegir el sector de cliente y poder registrarme como cliente.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830044420677802/Captura_de_pantalla_2023-09-08_085230.png?width=688&height=292"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como cliente, quiero iniciar sesión con una cuenta previamente creada.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830239761997968/Captura_de_pantalla_2023-09-08_085338.png?width=655&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como cliente, deseo ver mis datos en la aplicación.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830398713532426/Captura_de_pantalla_2023-09-08_085432.png?width=636&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+  
+***User Goal: Como cliente, deseo elegir en que bar me encuentro para conocer sus ofertas y mi puntaje.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830572672299048/Captura_de_pantalla_2023-09-08_085716.png?width=686&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como cliente, deseo ver qué productos puedo canjear con respecto a mi puntaje acumulado.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830844194766988/Captura_de_pantalla_2023-09-08_085943.png?width=679&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como cliente, quiero elegir un producto que me guste para canjearlo.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831496916541470/Captura_de_pantalla_2023-09-08_090557.png?width=688&height=248"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***User Goal: Como cliente, deseo poder ver las ofertas de la semana del bar.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831610284376064/Captura_de_pantalla_2023-09-08_090645.png?width=658&height=617"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+---
+
 
 ## 4.5. Web Applications Prototyping.
 
