@@ -1737,7 +1737,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://github.com/Jeanpi-MF/Pictures/blob/main/Capture.PNG?raw=true" height="100">
+      <img src="https://github.com/Jeanpi-MF/Pictures/blob/main/Capture.PNG?raw=true" height="463">
     </td>
 </tr>
 
