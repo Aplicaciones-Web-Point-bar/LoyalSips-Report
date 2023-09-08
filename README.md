@@ -1115,6 +1115,54 @@ alfabéticamente, este resultado tendrá la información muy bien organizada com
 
 Nuestro landing page está dividido por secciones para que el usuario pueda ubicarse dentro de cada sección según sea su interés, cada sección provee información clara y concisa con imágenes que inviten al usuario a conocer más de nuestro servicio.
 
+## 4.2.5. Navigation Systems.
+4.5. Web Applications Prototyping. 
+
+ 
+
+https://drive.google.com/drive/folders/1KyxbFmw9g-YXJkQWpHuZ1PrXTx6BuIX1?usp=sharing  
+
+## 4.6. Domain-Driven Software Architecture.  
+
+En esta seccion, se presentarán los diagramas de arquitectura de software desarrollados para nuestra aplicacion web. Hemos considerado el enfoque Domain-Driven, de tal forma podemos reflejar la estructura del diseño empleado para nuestro proyecto. 
+
+ 
+
+### 4.6.1. Software Architecture Context Diagram.  
+
+En la seccion de Software Architecture Context Diagram, es una representación visual que muestra cómo un sistema de software interactúa con su entorno. Este diagrama ayuda a comprender las relaciones y dependencias del sistema en su entorno, siendo una herramienta clave en el diseño de la arquitectura de software. 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149676634962665502/structurizr-SystemContext-001.png?width=743&height=423"width="475" height="592">
+    </td>
+  </tr>
+
+### 4.6.2. Software Architecture Container Diagrams. - SANDRO 
+
+Sobre Software Architecture Container Diagrams, son representaciones visuales que muestran cómo un sistema de software se divide en contenedores, que son unidades lógicas de alto nivel que contienen componentes y servicios relacionados. Nos premite  comprender la estructura general de un sistema y cómo interactúan sus partes principales, siendo una parte importante de la documentación de la arquitectura de software. 
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149676634664882297/structurizr-Container-001_1.png?width=651&height=423"width="475" height="592">
+    </td>
+  </tr>
+
+### 4.6.3. Software Architecture Components Diagrams. - SANDRO 
+
+Con respecto a Software Architecture Components Diagrams, son representaciones visuales que ilustran cómo los sistemas de software se componen en diferentes módulos o componentes, mostrando las relaciones y dependencias entre ellos. 
+
+Bussiness Logic:  
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149676634367074404/structurizr-Component-001.png?width=532&height=423"width="475" height="592">
+    </td>
+  </tr>
+
+
+https://github.com/Alarsandro/Point-bar-c4/blob/main/point-bar.dsl  
+
 ## 4.7.1. Class Diagrams.
 
 <tr>
