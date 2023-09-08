@@ -1643,3 +1643,17 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 * Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
 * GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
 * Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+| Alumno                           | Código     |
+|----------------------------------|------------|
+| Leonardo Paul López Huarcaya     | U202124304 |
+| Sandro Fourfive Alarcon Rondon   | U202114140 |
+| Louis Piero Alfaro Coveñas       | U20191b299 |
+| José Carlos Isaac Ampudia Flores | U202112936 |
+| Jean Pierre Morin Fuentes        | U202115348 |
+
+
+
+
