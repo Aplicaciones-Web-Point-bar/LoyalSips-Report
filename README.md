@@ -363,7 +363,7 @@ Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por m�
 ## 1.2.2.4 Lean UXCanvas
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149520349759799386/image.png"width="403" height="296">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149520349759799386/image.png"width="" height="">
     </td>
   </tr>
 <br>
@@ -624,6 +624,30 @@ CPC entre $0,10 y $1,5. </td>
 7.	***¿Qué método de comunicación preferirías para mantenerte informado sobre las novedades del servicio y actualizaciones?***
 8.	***¿Existe algo extra que te gustaría compartir o sugerir con respecto a este programa que vamos a desarrollar? ¿Crees que es algo innovador en el sector de los bares?***
 
+## 2.2.2. Registro de entrevistas.
+Se registró la primera entrevistada de los 2 segmentos objetivos que en este caso es del segmento Empresario de un bar
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149526847856590918/image.png"width="" height="">
+    </td>
+  </tr>
+<br>
+https://youtu.be/T5lmt_ndV2Q
+
+Se registró la primera entrevistada de los 2 segmentos objetivos que en este caso es del segmento Cliente frecuente de un bar
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149527278355750972/image.png"width="" height="">
+    </td>
+  </tr>
+<br>
+https://youtu.be/6ZyfneZ99rg
+
+## 2.2.3. Análisis de entrevistas.
+1. Entrevista con Angie Alexandra Lopez Quevedo, Joven Dueña de Bar Angie Alexandra Lopez Quevedo, una joven dueña de un bar de 25 años, compartió sus pensamientos sobre la implementación de tecnología en su negocio y su interés en mejorar el stock y el marketing para atraer a más clientes. Angie reconoce que no tiene experiencia en tecnología pero cree que podría ser beneficiosa para gestionar el stock y mejorar las estrategias de marketing de su bar. Además, está a favor de utilizar herramientas de acumulación de puntos para atraer a nuevos clientes, aunque no conoce bares que utilicen este sistema en su área. Cree que la tecnología está en constante evolución en el Perú y puede contribuir a un mejor manejo de la economía de su bar. En cuanto a la comunicación, Angie prefiere utilizar correos electrónicos, ya que le resulta más conveniente y le permite priorizar sus respuestas. Está muy interesada en implementar software que le ayude a gestionar el stock y a mejorar la economía de su bar. En resumen, Angie está abierta a la idea de incorporar tecnología en su bar, especialmente para el control de stock y el marketing. Ve el potencial en herramientas como la acumulación de puntos para atraer clientes y está dispuesta a aprender sobre estas soluciones tecnológicas para mejorar su negocio en constante crecimiento en el Perú.
+
+
+2. Entrevista con Alek Ramirez, Joven Cliente Frecuente de un Bar Alek Ramirez, un joven cliente frecuente de 22 años de un bar tradicional, compartió su experiencia reciente en el bar y expresó su entusiasmo por la idea de implementar un sistema de puntos en establecimientos similares. Destacó la amabilidad en la atención recibida durante su última visita al bar y considera que un sistema de puntos sería muy beneficioso para recompensar a los clientes habituales. Alek sugiere que un sistema de puntos podría permitirle obtener tragos gratuitos o canjear bebidas a cambio de una cierta cantidad de puntos acumulados, lo que sería un incentivo adicional para seguir siendo un cliente frecuente. Además, menciona que hasta ahora no ha encontrado bares que utilicen este tipo de sistema para el control de stocks y puntos, lo que despierta su interés por la innovación en este campo. El cliente enfatiza la importancia de personalizar el sistema de puntos, basándose en las preferencias de los clientes y sus consumos habituales. También prefiere la comunicación a través del correo electrónico, lo que facilita su interacción con el bar y la gestión de sus recompensas. En resumen, Alek recomienda que el sistema de puntos en el bar sea más personalizable y basado en los gustos y consumos individuales de los clientes. Está emocionado por la posibilidad de obtener recompensas como tragos gratuitos o canjes de productos a cambio de puntos acumulados y considera que esta iniciativa podría incentivar aún más su lealtad como cliente frecuente.
 
 ## 2.3. Needfinding.
 
@@ -637,6 +661,7 @@ En esta sección presentaremos dos fichas de User Persona para nuestro producto,
 el cual se enfoca en el cliente que va consumir algun trago y en la Empresa. Estas
 fichas están basadas en las principales características y necesidades identificadas
 en el análisis de entrevistas y de la competencia.
+
 
 #### 2.3.1.1 Segmento Objetivo 1: Cliente
 
