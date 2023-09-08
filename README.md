@@ -1203,6 +1203,281 @@ mejor relación para la vista.
 * Proximidad: Este principio se aplicó en la creación de botones, ya que estas tienen una cierta elevación para diferenciar que están flotando.
 
 * Espacio: Los elementos de nuestro diseño no están todos juntos, ellos tienen un espacio establecido para cada sección y no se alborote todos en una sola parte, de esta forma brindar un sitio limpio y entendible para el usuario.
+
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.
+
+Se muestra el diseño visual y la interacción que poseen los wireframes en nuestro proyecto digital.
+
+Algunas plantillas generales que poseemos son el sistema de registro:
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149747471472398356/Imagen1.png?width=222&height=471" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Registrar una cuenta</strong><br>
+      En este apartado mostramos al usuario los campos para que realice su registro de forma segura, se utilizaron formas redondeadas, iconos y textos.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149748957552054415/Imagen7.png?width=218&height=465" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Inicio de sesión:</strong><br>
+      En este apartado se muestra al usuario el sector para el ingreso directo con una cuenta que ya posee en nuestra app, además le mostramos 2 maneras de registro, por cuenta de Google o cuenta de Facebook.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149749407667986533/Imagen8.png?width=222&height=477" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Elección de segmento:</strong><br>
+      En este apartado se muestra al usuario las 2 opciones, en caso sea un empresario que es dueño de un bar, o un cliente consumidor.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149749927308693515/Imagen9.png?width=201&height=427" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Personaliza su perfil:</strong><br>
+     Para el segmento de empresario, se diseñó un sector especial para que complete los datos de su bar.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149750920654114836/Imagen10.png?width=203&height=434" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Perfil del Bar o Empresa:</strong><br>
+     En esta pantalla se muestra el perfil del bar que anteriormente se ha creado.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149809755875979364/Imagen11.png?width=206&height=437" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Sector principal de la app:</strong><br>
+     Se implementó la parte principal de la app en el segmento de empresario, en el que podrá ver los puntos de sus clientes y además de poder controlar su inventario.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149810306667786332/Imagen12.png?width=207&height=446" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Visualización de clientes con su puntaje:</strong><br>
+     En esta pantalla se muestra una zona para buscar a los clientes con respectivos requisitos, en el que se podrá observar cuántos puntos lleva.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149810664345448608/Imagen14.png?width=194&height=410" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Datos del cliente con su puntaje:</strong><br>
+     Se muestran los datos del cliente buscado con su puntaje respectivo, además con los productos disponibles que tienen para hacer el respectivo canje. </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149810946592739419/Imagen15.png?width=189&height=402" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Producto elegido por el cliente:</strong><br>
+     Se muestra una ventana donde el cliente elige su respectivo producto para ser canjeado, seguidamente el canjeo se realiza con éxito.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149811295248461844/Imagen16.png?width=181&height=387" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Sector control de inventario:</strong><br>
+     En esta sección se muestran 2 opciones, la de registrar un producto al inventario, y otra de buscar un producto que ya esté registrado en el inventario.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149811532499259514/Imagen17.png?width=189&height=409" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Registrar producto:</strong><br>
+     Se muestra una pantalla con ciertos apartados para llenar las características del producto que se desea registrar en la base de datos, al registrar el producto se muestra una ventana de registro exitoso.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149812959363747892/Captura_de_pantalla_2023-09-08_042742.png?width=285&height=618" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Buscar producto:</strong><br>
+     En esta pantalla se muestra una ventana para buscar un producto que ya esta registrado, se piden algunos requisitos para poder encontrar el producto con la cantidad de stock disponible. Seguidamente se muestra la cantidad del producto.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149812815562035390/Captura_de_pantalla_2023-09-08_042900.png?width=287&height=617" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Resultado de búsqueda</strong><br>
+     Se muestra los resultados de la búsqueda de un producto.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149813169313816666/Captura_de_pantalla_2023-09-08_043446.png?width=290&height=618" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Completar perfil Cliente:</strong><br>
+     Se muestra una pantalla para que el cliente pueda seguir añadiendo sus datos y completar su perfil</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149813407806132337/Captura_de_pantalla_2023-09-08_043801.png?width=288&height=618" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Pantalla principal del cliente:</strong><br>
+     Se muestra el apartado del cliente, en el que hay opciones en qué bar se encuentra, porque cada bar posee sus respectivas ofertas.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814239482101811/Captura_de_pantalla_2023-09-08_043929.png?width=288&height=618" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Perfil del cliente:</strong><br>
+     Se muestra el perfil del cliente que se ha creado anteriormente.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814408961339462/Captura_de_pantalla_2023-09-08_045244.png?width=287&height=617" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Inicio del bar elegido:</strong><br>
+     En este sector el usuario se dirige al sector del bar elegido que se mostró anteriormente.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814592340492318/Captura_de_pantalla_2023-09-08_045756.png" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Canjear productos:</strong><br>
+     Se muestran los productos que están disponibles para el usuario con su respectivo puntaje que posee, el usuario elige y canjea exitosamente. </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding: 0;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814776273309796/Captura_de_pantalla_2023-09-08_045927.png?width=286&height=617" width="190" height="350">
+    </td>
+    <td style="padding: 0;">
+      <p style="margin: 0;"><strong>Ver productos en oferta:</strong><br>
+     Al hacer clic en ver productos en oferta, se muestra una ventana de los productos en oferta que el bar esta anunciando para sus clientes. </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 4.5. Web Applications Prototyping.
 
 ***Vista previa Mobile.***
