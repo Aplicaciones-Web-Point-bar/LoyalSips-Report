@@ -361,6 +361,12 @@ Cuando en el primer trimestre de ser lanzado nuestro servicio, la empresa obteng
 
 Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por más empresas de licorería, de tal forma que sea un producto que favorezca al incremento de ganancias para muchos bares y no solo a uno.
 ## 1.2.2.4 Lean UXCanvas
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149520349759799386/image.png"width="403" height="296">
+    </td>
+  </tr>
+<br>
 
 ## 1.3 Segmentos Objetivos
 **Clientes Frecuentes**: Este es uno de los segmentos más importantes. Los clientes que visitan tu bar con regularidad son ideales para la fidelización. Puedes ofrecer recompensas específicas para mantener su lealtad y aumentar su frecuencia de visita.
