@@ -1215,7 +1215,7 @@ En el diseño de bases de datos para bares, se deben considerar elementos como l
 ### 4.8.1. Database Diagram
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/969784880017842216/1149495852549799956/Diagrama_de_Clases_Point_Bar-2023-09-07_19-00.png?width= "80" height=auto>
+      <img src="https://media.discordapp.net/attachments/969784880017842216/1149495852549799956/Diagrama_de_Clases_Point_Bar-2023-09-07_19-00.png?width= " height=auto>
     </td>
 </tr>
 
@@ -1302,6 +1302,216 @@ En nuestro proyecto no hemos utilizado este tipo de herramienta.
 Es el mantenimiento de documentos que describen la estructura y cual es el uso del software. Esto incluye manuales de usuario, documentación técnica y guías para desarrolladores.  
 
 Para ello, tenemos la misma documentación actual que explica como funciona. 
+
+
+### 5.1.2. Source Code Management.
+Para la siguiene sección, Source Code Management nos hace referencia a la funcion de seguimiento de modificaciones que los integrantes del equipo ejerce durante el desarollo del proyecto hasta su conclusion de este mismo. Para ello, cabe mencionar la importacia de un repositorio o sistema  de control de versiones el cual es Github. 
+
+Landing Page,  
+
+Web Services,  
+
+Frontend Web Applications. 
+
+### Gitflow 
+
+Es modelo para la creación de ramas en Git, el cual cumple una función importante el desarrollo del proyecto. Mediante un control de versiones ultilizamos las ramas. Una muestra en imagen de lo mencionado para entender mejor. 
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://expressus.io/uploads/beautiful-gitflow-workflow-diagram.png" height="500">
+    </td>
+</tr>
+Entonces, al tener en cuenta el desarrollo del trabajo manteniendo un control de versiones con Gitflow 
+
+ 
+
+La rama principal, conocida como "Master" o "Principal", es la base desde la cual se derivan y combinan todas las demás ramas. Contiene la versión más reciente y las versiones anteriores creadas por los desarrolladores, y sirve como el registro oficial de las publicaciones históricas. 
+
+La rama "Develop" se crea a partir de la rama principal, Main y contiene todas las características estables. A través de esta rama, el equipo puede integrar nuevas funciones. 
+
+Las ramas de soporte, a diferencia de las principales, tienen una vida útil limitada y se eliminan cuando se fusionan con sus ramas principales correspondientes. 
+
+La rama "Feature" se deriva de "Develop" y se fusiona de nuevo en ella. Se utiliza para desarrollar nuevas funciones que se integrarán en una versión futura. Esta rama existe mientras se está desarrollando la función, y cuando se completa, se fusiona nuevamente con "Develop". 
+
+ 
+
+ 
+
+Convenciones para nombrar las ramas de características: 
+
+- Rama de característica: feature/nombre 
+
+Ejemplos: 
+
+ feature/Chapter1-StartupProfile, 
+
+feature/TS- 
+
+ 
+
+Conventional Commits (Compromisos Convencionales): 
+
+Los compromisos (commits) deben tener la siguiente estructura: 
+
+<tipo>[ámbito opcional]: <descripción> 
+
+[cuerpo opcional] 
+
+[notas de pie opcionales] 
+
+Es importante destacar que todo debe estar en minúsculas. 
+
+  
+
+Tipos de compromisos (commits): 
+
+- feat: Cuando se agrega una nueva característica. 
+
+- fix: Cuando se corrige un error. 
+
+   - `build`: Aplicado cuando se afectan componentes de compilación como herramientas, dependencias o la versión del proyecto. 
+
+   - `chore`: Para modificaciones internas o privadas del código. 
+
+   - `docs`: Referente a cambios en la documentación. 
+
+   - `refactor`: Utilizado cuando se reescribe o reestructura el código sin cambiar su comportamiento. 
+
+   - `perf`: Relacionado con cambios que mejoran el rendimiento. 
+
+   - `style`: En caso de cambios que solo afectan el estilo del código (espacios en blanco, formato, etc.). 
+
+   - `test`: Indicado para la adición de pruebas. 
+
+  
+
+- **Ámbito (Scope) (opcional)**: Proporciona información contextual adicional. Es recomendable, pero no obligatorio, para hacer el compromiso más específico. 
+
+  
+
+- **Descripción**: Parte obligatoria del formato del compromiso. Debe utilizar un enfoque imperativo y no escribir en mayúsculas. 
+
+  
+
+- **Cuerpo (Body) (opcional)**: Proporciona información adicional sobre la motivación del cambio y se usa para contrastarlo con el comportamiento anterior. Es opcional y debe seguir un enfoque imperativo. Ideal para mencionar identificadores de problemas y relaciones. 
+
+  
+
+- **Notas de pie (Footers) (opcional)**: Pueden contener información sobre cambios importantes, como referencias a problemas por su ID o detalles sobre cambios que rompen la compatibilidad (BREAKING CHANGES). Esta sección es opcional. 
+
+  
+
+Ejemplos de compromisos siguiendo estas convenciones: 
+
+  
+
+1. `feat(welcome): agregar sección de bienvenida` 
+
+2. `build(release): aumentar la versión a 1.0.0` 
+
+3. style: remove empty line 
+
+4. feat(sign up): add the button to sign up 
+
+5. feat!: send an email to the costumer when product is shipped 
+
+6. feat: remove ticket listendpoint 
+
+refers to JIRA-1337 
+
+BREAKING CHANGES: ticket enpoints no longer supports list all entites. 
+
+Asimismo, como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. El IDE utilizado, en este caso Android Studio, deberá vincularse directamente con el repositorio creado por la empresa, Digitalholics. De esta manera, cada commit que realice un participante será subido y cargado directamente al GitHub de la organización. A continuación, se indicarán las pautas para realizar el proceso de vinculación de manera correcta: 
+
+Activar el control de versiones del IDE 
+
+Dado que se empleará GitHub para esta gestión, la opción que deberá estar marcada o seleccionada debe ser una que señale que el sistema de control se dará mediante Git. Para realizar esto, debe dirigirse a la pestaña de VCS' dentro de Android Studio. Después, seleccionar la opción de 'Enable Version Control Integration'. 
+
+Con respecto a los conventional commits de nuestro proyecto, como grupo para desarrollar el presente trabajo hemos trabajado de la siguiente forma con respecto a la documentación: 
+
+Iniciamos creando una copia en nuestro repositorio
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149698952137027584/image.png?width=467&height=193" height="100">
+    </td>
+</tr>
+
+Es necesario utilizar el enlace de nuestro repositorio actual para nuestro trabajo. 
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699170643492955/image.png?width=374&height=161" height="100">
+    </td>
+</tr>
+
+En el entorno de trabajo para continuar con el proyecto, aplicamos los siguientes comandos: 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699233176367124/image.png?width=400&height=78" height="100">
+    </td>
+</tr>
+
+Para el desarrollo de los nuevos branches, hemos utilizado la siguiente nomenclatura para tener control e idea de lo que se desarrolla.  
+
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699293695983626/image.png?width=408&height=64" height="100">
+    </td>
+</tr>
+
+
+Despues, agregamos en el archivo MD todo los cambios que desarrollamos y así utilizar los siguientes comandos: 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699329884438558/image.png?width=339&height=95" height="100">
+    </td>
+</tr>
+
+Una vez utilizado el comando y colocando la descripción del trabajo, guardamos en la nueva rama. 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699369642238194/image.png?width=471&height=151" height="100">
+    </td>
+</tr>
+
+Verificamos y hacemos pull a la rama develop. 
+
+Aprobamos y unimos los cambios. 
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699406052991036/image.png?width=474&height=179" height="100">
+    </td>
+</tr>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699443285839954/image.png?width=474&height=278" height="100">
+    </td>
+</tr>
+
+
+Es necesario para mantener un orden para cada rama creada, borrarla despues de utilizarla. 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699471953907792/image.png?width=414&height=45" height="50">
+    </td>
+</tr>
+
+Es asi como nosotros verificamos el cambio en la linea de trabajo: 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699509165756458/image.png?width=375&height=116" height="300">
+    </td>
+</tr>
+
 ## 5.1.3. Source Code Style Guide & Conventions.
 Utilizaremos la guía de estilos y convenciones de codificación en C#, que replicamos
 en JavaScript por su similitud, ofrecida por Microsoft.
