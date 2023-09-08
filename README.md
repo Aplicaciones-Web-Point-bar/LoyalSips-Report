@@ -25,13 +25,13 @@
 
 ## Registros de versiones del Informe
 
-|   Version     |   Fecha   |   Autor   |   Descripción de la modificación|
-|:-------------:|:---------:|:---------|:------------------------|
-|1              |           |Ampudia Flores|- Implementó  |
-|1              |           |Alarcon Rondon|- Implementó  |
-|1              |           |Morin Fuentes |- Implementó  |
-|1              |           |Louis|- Implementó  |
-|1              |           |Leonardo|- Implementó  |
+|   Version     |   Fecha   | Autor                   |   Descripción de la modificación|
+|:-------------:|:---------:|:------------------------|:------------------------|
+|1              |           | Ampudia Flores          |- Implementó  |
+|1              |           | Alarcon Rondon          |- Implementó  |
+|1              |           | Morin Fuentes           |- Implementó  |
+|1              |           | Louis Alfaro Coveñas    |- Implementó  |
+|1              |           | Leonardo López Huarcaya |- Implementó  |
 
 <br><br>
 
