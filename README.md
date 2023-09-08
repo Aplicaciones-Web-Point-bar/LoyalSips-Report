@@ -1118,7 +1118,48 @@ Nuestro landing page está dividido por secciones para que el usuario pueda ubic
 ## 4.2.5. Navigation Systems.
 4.5. Web Applications Prototyping. 
 
- 
+
+## 4.3. Landing Page UI Design.
+Esta sección tendrá un enfoque sobre el diseño de nuestra Landing Page utilizando conceptos del diseño general y el diseño de la interfaz. Para el desarrollo del diseño, se utilizó el software de Figma para el desarrollo del Mock-Ups y Wireframes.
+
+### 4.3.1. Landing Page Wireframe.
+Para la elaboración de los wireframes de la Landing Page tanto en el sector de móvil como para escritorio se usaron los principios, elementos de diseño, en el que engloba la arquitectura de información y el diseño inclusivo.
+
+***Vista previa del wireframe para el apartado móvil.***
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149741296244772864/Imagen1.png?width=623&height=207"width="1000" height="250">
+    </td>
+  </tr>
+
+Link del apartado móvil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&t=DfFWWAqT7hgXSXLE-1 
+
+<br>
+
+---
+***Vista previa del wireframe para el apartado de escritorio.***
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149742021024698499/Imagen2.png?width=224&height=386"width="250" height="400">
+    </td>
+  </tr>
+
+<br>
+
+El link del apartado de escritorio: https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=317-2245&mode=design&t=V3E4RrnPyXstUB4s-0
+
+Para la elaboración de los Wireframes de la Landing page, se tomó en cuenta los elementos y principios de diseño, esto se puede apreciar para la creación de formas usando los elementos de dirección y línea, las cuales lo usamos para difenciar tanto las imágenes como los componentes que forman parte del landing page.
+
+En este caso, se puede observar los distintos elementos que se usaron para diferenciar un componente de otro, así como las fuentes de las letras, sobre todo, detalle muy importante, que los colores están en escala de grises dado que es un boceto, lo cual puede cambiar para la elaboración del Mock-up.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149742580825870367/Imagen3.png?width=1032&height=625"width="480" height="300">
+    </td>
+  </tr>
+
+
 
 https://drive.google.com/drive/folders/1KyxbFmw9g-YXJkQWpHuZ1PrXTx6BuIX1?usp=sharing  
 
