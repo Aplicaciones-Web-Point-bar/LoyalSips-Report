@@ -847,6 +847,31 @@ tareas para los User Personas previamente definidos.
 | HU09  | Reservar mesas   | **Como** usuario del servicio web, **quiero** reservar el bar vía online y rápido **para** no perder tanto tiempo.(segmento cliente)|**Escenario 1:** Reservar mesas <br>**Dado** que el usuario desea reservar mesas de var mediante la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** entre al catálogo de bar,seleccione uno <br>**Y** seleccione la opción reservar <br>**Y** ingrese una fecha y hora de reserva <br>**Y** ingrese a una mesa  <br>**Y** presione en reservar (pagando o no de acuerdo a lo que solicitó el dueño) <br>**Entonces** la plataforma notificará al dueño y éste confirmará mediante su correo la reserva del lugar. <br>**Y** el sitio web marcará como reservado la mesa.<br><br>**Escenario 2:** Reservar mesas <br>**Dado** que el usuario desea reservar mesas de var mediante la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** entre al catálogo de bar,seleccione uno <br>**Y** seleccione el número de teléfono asociado. <br>**Entonces** la plataforma mostrará los números registrados del bar para que se comuniquen directamente. |Epic 3|
 | HU10  | Almacén de los productos  | **Como** usuario del servicio web, **quiero** tener un centro de datos de mis productos del bar en tiempo real **para** mantener los stock de todos los productos y poder organizarlo mejor. (segmento negociante)|**Escenario 1:**  Agregar productos <br>**Dado** que el usuario desea agregar productos a su almacén digital. <br>**Cuando** ingrese a la página del servicio<br> **Y** entre a “mi bar” con su usuario y contraseña.<br>**E** ingrese a “mi almacén”  <br>**Y** ingrese agregar producto <br>**Entonces** la plataforma pedirá el nombre, fecha de vencimiento, código de barra y cantidad del producto para el registro de este en la plataforma.|Epic 4|
 | HU11  | Administrar los productos   | **Como** usuario del servicio web, **quiero** administrar todos los movimientos de mis productos **para** así poder supervisar mejor y más rápido la parte administrativa. (segmento negociante)|**Escenario 1:**  Venta de producto <br>**Dado** que el usuario desea administrar mejor su negocio cuando requiera vender un producto <br>**Cuando** ingrese a “mi bar”<br>**E** ingrese a generar venta  <br>**Y** escanee mediante el o los productos que venderá  <br>**Entonces** la plataforma mostrará el precio individual y acumulado de acuerdo a la cantidad <br>**Y** emitirá una boleta o factura sobre la venta. <br>**Y** actualizará el almacén digital.<br><br>**Escenario 2:** Rendición de cuenta <br>**Dado** que el usuario desea administrar mejor su negocio, cuando requiera sacar el balance de un determinado tiempo <br>**Cuando** ingrese a “mi bar” <br>**E** ingrese a generar “balance de ventas” <br>**Y** seleccione un intervalo de fechas. <br>**Entonces** la plataforma mostrará todas las ventas de ese mes, mostrando cuánto se vendió cada día y el total de esas fechas.|Epic 4|
+## 3.3. Impact Mapping
+La herramienta Impact Mapping representa de forma visual las metas que nos planteamos para llegar a cada sector de nuestro publico. 
+### User Bar:
+<tr>
+    <td >
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524347619389551/image.png?width=289&height=423"width="403" height="569">
+    </td>
+</tr>
+
+Realizamos el impact Mapping para el usuario Bar, que representa a los dueños bares, y según los User Stories realizadas por nuestro equipo, desarrollamos alternivas para solucionar y satisfacer sus necesidades. 
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524152261283901/image.png?width=401&height=423"width="403" height="569">
+    </td>
+</tr>
+
+Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
+
+ 
+
+
+Link de Miro y Uxpressiar -> https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230  
+
+https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc  
 
 ## 4.2. Information Architecture.
 
