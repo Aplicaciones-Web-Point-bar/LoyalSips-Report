@@ -1735,6 +1735,10 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 | José Carlos Isaac Ampudia Flores | U202112936 |
 | Jean Pierre Morin Fuentes        | U202115348 |
 
-
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://github.com/Jeanpi-MF/Pictures/blob/main/Capture.PNG?raw=true" height="100">
+    </td>
+</tr>
 
 
