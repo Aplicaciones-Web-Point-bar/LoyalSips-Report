@@ -1478,6 +1478,136 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 
 ---
 
+### 4.4.2. Web Applications Wireflow Diagrams.
+En este apartado se mostrará los flujos de navegación entre pantallas de nuestra aplicación que visualizará tanto el segmento del empresario como el sector del cliente.
+
+### Segmento objetivo Empresa:
+
+**User Goal:** Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149817454575493150/Captura_de_pantalla_2023-09-08_055016.png?width=688&height=276"600="" height="">
+    </td>
+  </tr>
+
+<br><br>
+
+**User Goal:** Como empresario, quiero iniciar sesión con una cuenta previamente creada.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818179695165563/Captura_de_pantalla_2023-09-08_055353.png?width=688&height=567"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como empresario, ver mis datos en la aplicación.
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818555605454919/Captura_de_pantalla_2023-09-08_055535.png?width=688&height=607"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como empresario, deseo buscar al cliente con un respectivo puntaje.
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818876222255214/Captura_de_pantalla_2023-09-08_055850.png?width=688&height=300"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como empresario, deseo registrar un producto en el sistema para poder llevar un control del stock.
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818771037491200/Captura_de_pantalla_2023-09-08_060509.png?width=688&height=294"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como empresario, deseo buscar un producto en el sistema para poder saber el stock y llevar un control seguro.
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149819610011533372/Captura_de_pantalla_2023-09-08_060832.png?width=688&height=294"600="" height="">
+    </td>
+  </tr>
+  
+### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
+
+---
+
+### Segmento objetivo Usuario:
+**User Goal:** Como soy cliente consumidor, quiero elegir el sector de cliente y poder registrarme como cliente.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820520892747868/Captura_de_pantalla_2023-09-08_061524.png?width=688&height=280"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como cliente, quiero iniciar sesión con una cuenta previamente creada.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820740019949578/Captura_de_pantalla_2023-09-08_062053.png?width=666&height=617"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como cliente, deseo ver mis datos en la aplicación.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820940545437706/Captura_de_pantalla_2023-09-08_062432.png?width=688&height=606"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como cliente, deseo elegir en que bar me encuentro para conocer sus ofertas y mi puntaje.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821221635112970/Captura_de_pantalla_2023-09-08_063007.png?width=671&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como cliente, deseo ver qué productos puedo canjear con respecto a mi puntaje acumulado.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821517945917500/Captura_de_pantalla_2023-09-08_063350.png?width=644&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+**User Goal:** Como cliente, quiero elegir un producto que me guste para canjearlo.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821817746362549/Captura_de_pantalla_2023-09-08_064205.png?width=688&height=330"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+
+**User Goal:** Como cliente, deseo poder ver las ofertas de la semana del bar.
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822088157339790/Captura_de_pantalla_2023-09-08_064743.png"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
+
+---
+
+
+
 ## 4.5. Web Applications Prototyping.
 
 ***Vista previa Mobile.***
