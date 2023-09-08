@@ -614,6 +614,29 @@ tareas para los User Personas previamente definidos.
 | HU10  | Almacén de los productos  | **Como** usuario del servicio web, **quiero** tener un centro de datos de mis productos del bar en tiempo real **para** mantener los stock de todos los productos y poder organizarlo mejor. (segmento negociante)|**Escenario 1:**  Agregar productos <br>**Dado** que el usuario desea agregar productos a su almacén digital. <br>**Cuando** ingrese a la página del servicio<br> **Y** entre a “mi bar” con su usuario y contraseña.<br>**E** ingrese a “mi almacén”  <br>**Y** ingrese agregar producto <br>**Entonces** la plataforma pedirá el nombre, fecha de vencimiento, código de barra y cantidad del producto para el registro de este en la plataforma.|Epic 4|
 | HU11  | Administrar los productos   | **Como** usuario del servicio web, **quiero** administrar todos los movimientos de mis productos **para** así poder supervisar mejor y más rápido la parte administrativa. (segmento negociante)|**Escenario 1:**  Venta de producto <br>**Dado** que el usuario desea administrar mejor su negocio cuando requiera vender un producto <br>**Cuando** ingrese a “mi bar”<br>**E** ingrese a generar venta  <br>**Y** escanee mediante el o los productos que venderá  <br>**Entonces** la plataforma mostrará el precio individual y acumulado de acuerdo a la cantidad <br>**Y** emitirá una boleta o factura sobre la venta. <br>**Y** actualizará el almacén digital.<br><br>**Escenario 2:** Rendición de cuenta <br>**Dado** que el usuario desea administrar mejor su negocio, cuando requiera sacar el balance de un determinado tiempo <br>**Cuando** ingrese a “mi bar” <br>**E** ingrese a generar “balance de ventas” <br>**Y** seleccione un intervalo de fechas. <br>**Entonces** la plataforma mostrará todas las ventas de ese mes, mostrando cuánto se vendió cada día y el total de esas fechas.|Epic 4|
 
+# 4 CAPÍTULO IV: PRODUCT DESIGN
+
+## 4.1 Style Guidelines.
+
+Nuestro producto de aplicación web que se diseñara es LoyalSips, la cual ofrece al cliente una solución tecnológica para que el problema de separar mesas en un bar o que los precios de los bares sean muy altos, en nuestra web podra reservar un espacio comodo y tambien encontrara ofertas de bebidas, un plus que tiene nuestra web es que cada vez que el cliente compre un trago se le incluiran puntos para que pueda canjear un trago cuando llegue a los puntos requeridos Para los estilos utilizados se tomará en cuenta la satisfacción del cliente y su experiencia.
+Los colores que se están utilizando para nuestra solución (Landing Page y Web site) son los siguientes: <br><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149549523522289684/image.png"width="403" height="87">
+    </td>
+  </tr>
+<br>
+<br>
+Por otro lado Usamos el tipo de letra San Francisco.
+<br>
+<br>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1149548371288277044/image.png"width="288" height="447">
+    </td>
+  </tr>
+
 ## 4.2. Information Architecture.
 
 En esta seccion se enfoca en la organizacion del contenido de la website LoyalSips en buscar el 100% de satisfacion en nuestros clientes durante la navegacion de nuestra website.
