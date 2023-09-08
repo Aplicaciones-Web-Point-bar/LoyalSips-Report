@@ -1,28 +1,23 @@
-# LoyalSips-TB1-Origin
-# Universidad Peruana de Ciencias Aplicadas.
-### Ingeniería de Software.
-### Desarrollo de Aplicaciones Open Source.
-### WS51
-#### Angel Augusto Velasquez Nuñez
----
+# <center>Universidad Peruana de Ciencias Aplicadas</center>
+## <center>Ingeniería de Software</center>
+### <center>Aplicaciones Web - SI730 </center>
+## Informe de TB1
+- **Sección:** SW51
+- **Docente:** Juan Carlos Tinoco Licas
+- **Ciclo:** 2023-02
+- **Nombre del grupo:** Team 4
+- **Nombre de la Startup:** LoyalSlip
 
-# Proyecto del Curso.
+## Integrantes
+| Alumno                           | Código     |
+|----------------------------------|------------|
+| Leonardo Paul López Huarcaya     | U202124304 |
+| Sandro Fourfive Alarcon Rondon   | U202114140 |
+| Louis Piero Alfaro Coveñas       | U20191b299 |
+| José Carlos Isaac Ampudia Flores | U202112936 |
+| Jean Pierre Morin Fuentes        | U202115348 |
 
-## TB1 REPORT
-
-### StartUp Name
-
-### Team Members
-
-|   Members     |   User    |
-|:-------------:|:---------:|
-|Ampudia Flores, Jose Carlos Isaac  |u202112936|
-|Alarcon Rondon, Sandro Fourfive    |u202114140|
-|Morin Fuentes, Jean Pierre         |u202115348|
-|Louis        |u202110458|
-|Leonardo        |u20201b895|
-
-#### Ciclo 2023 - 02
+### Setiembre 2023
 
 <br><br>
 
