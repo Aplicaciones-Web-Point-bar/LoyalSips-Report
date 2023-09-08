@@ -1161,7 +1161,47 @@ En este caso, se puede observar los distintos elementos que se usaron para difer
 
 
 
-https://drive.google.com/drive/folders/1KyxbFmw9g-YXJkQWpHuZ1PrXTx6BuIX1?usp=sharing  
+https://drive.google.com/drive/folders/1KyxbFmw9g-YXJkQWpHuZ1PrXTx6BuIX1?usp=sharing
+
+---
+
+### 4.3.2. Landing Page Mock-up.
+Para la elaboración del Mock-up del Landing page tanto para el apartado de escritorio como para móvil se usaron principios, elementos de diseño, diseño inclusivo y arquitectura de información que se planteó en puntos anteriores.
+
+***Vista previa del Mock-up para el apartado móvil.***
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149745161811800064/Imagen4.png?width=455&height=625"width="500" height="720">
+    </td>
+  </tr>
+
+Link del figma móvil: https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1 
+
+---
+
+***Vista previa del wireframe para el apartado de escritorio.***
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149745513353183363/Imagen5.png?width=602&height=625"width="480" height="360">
+    </td>
+  </tr>
+
+  Link del figma de escritorio: https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1 
+
+Para su diseño se aplicaron los 5 principios del diseño:
+
+* Balance: Se equilibraron las imágenes grandes con texto a su costado para una
+mejor relación para la vista.
+
+* Contraste: Para contrastar secciones con fondos de color claros que en nuestro caso sería el turquesa y morado, utilizamos el color negro para una mejor diferencia entre ellos.
+
+* Alineación: Para este principio alineamos nuestros elementos a la izquierda y a la derecha así intercalando para que la vista no sea de una misma dirección, todos los elementos están dentro de pequeñas secciones.
+
+* Proximidad: Este principio se aplicó en la creación de botones, ya que estas tienen una cierta elevación para diferenciar que están flotando.
+
+* Espacio: Los elementos de nuestro diseño no están todos juntos, ellos tienen un espacio establecido para cada sección y no se alborote todos en una sola parte, de esta forma brindar un sitio limpio y entendible para el usuario.
 
 ## 4.6. Domain-Driven Software Architecture.  
 
