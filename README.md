@@ -1092,6 +1092,69 @@ fácil identificación para los usuarios. Tenemos:
   </tr>
 </table>
 
+## 4.2.3. SEO Tags and Meta Tags
+
+«meta charset="UTF-8">
+«meta name="Author"lang="es" content= "The Crackelets Group' «meta name="tittle" content="Evento social"»
+«meta name="description"
+content="Sitio web acerca de preferencia de bares">
+«meta name-"application-name" content="The big fun">
+ameta
+name="keywords"
+content="bar,party,availability,music,drinks,girls,stock,places"-
+«meta name="viewport" content="*width=device-width, initial-scale=1.0">
+
+## 4.2.4. Searching Systems.
+Los usuarios podrán buscar en nuestra plataforma a través de las categorías y el resultado será
+eventos que queden físicamente cerca a ordenado
+alfabéticamente, este resultado tendrá la información muy bien organizada como, por ejemplo, nombre del bar, aforo, fecha, hora, acompañado de una foto que describa el lugar que visita y las recomendaciones hechas por otros usuarios.
+
+## 4.2.5. Navigation Systems.
+
+Nuestro landing page está dividido por secciones para que el usuario pueda ubicarse dentro de cada sección según sea su interés, cada sección provee información clara y concisa con imágenes que inviten al usuario a conocer más de nuestro servicio.
+
+## 4.7.1. Class Diagrams.
+
+<tr>
+    <td >
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149584168917946368/diagrama_de_clases.JPG">
+    </td>
+</tr>
+
+## 4.7.2. Class Dictionary.
+
+**Cliente Fidelizado - Bar (Agregación)**: La relación entre "Cliente Fidelizado" y "Bar" podría ser una relación de agregación, ya que un cliente fidelizado está asociado a un bar en particular, y un bar puede tener varios clientes fidelizados. Esto significa que la clase "Bar" sería el "todo" y la clase "Cliente Fidelizado" sería una de las "partes".
+<tr>
+    <td >
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149584862387372102/1.JPG">
+    </td>
+</tr>
+
+**Bar - Producto (Agregación)**: La relación entre "Bar" y "Producto" también podría ser una relación de agregación, ya que un bar contiene una lista de productos en su stock, y los productos son partes de ese bar.
+
+<tr>
+    <td >
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149586435335262218/2.JPG">
+    </td>
+</tr>
+
+**Producto - Producto de Venta (Dependencia)**: La relación entre "Producto" y "Producto de Venta" es una dependencia, ya que la clase "Producto de Venta" implementa una interfaz que permite calcular el precio de venta de un producto. La clase "Producto de Venta" depende de la clase "Producto" para realizar este cálculo, pero no existe una relación de agregación o composición directa entre ellas.
+
+<tr>
+    <td >
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149587448423260170/3.JPG">
+    </td>
+</tr>
+
+**Venta - Cliente Fidelizado (Dependencia)**: La relación entre "Venta" y "Cliente Fidelizado" es una dependencia, ya que una venta está asociada a un cliente fidelizado. La venta depende del cliente fidelizado para registrar quién realizó la compra, pero no hay una relación de agregación o composición entre ellas.
+
+<tr>
+    <td >
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149588690654478397/4.JPG">
+    </td>
+</tr>
+
+
 ## 4.8 Database Design
 
 El diseño de bases de datos para el sistema de gestión de datos de "LOYALSIPS" implica la creación de una estructura de base de datos que permita almacenar y gestionar eficientemente información relacionada con los bares, como menús, inventarios, pedidos, clientes y boletas. Esto implica la definición de tablas que representen entidades clave, como Tablas, Reservas, Mesas, Bar, Orden, Cliente, Boleta, Bebidas y Almacén, y la creación de relaciones entre estas tablas para reflejar cómo se relacionan los datos.
