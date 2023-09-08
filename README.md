@@ -1,4 +1,6 @@
 # <center>Universidad Peruana de Ciencias Aplicadas</center>
+<center> <img src="https://media.discordapp.net/attachments/1146639921830973516/1149598476179623966/descarga.jpg"></center>
+
 ## <center>Ingeniería de Software</center>
 ### <center>Aplicaciones Web - SI730 </center>
 ## Informe de TB1
@@ -17,7 +19,7 @@
 | José Carlos Isaac Ampudia Flores | U202112936 |
 | Jean Pierre Morin Fuentes        | U202115348 |
 
-### Setiembre 2023
+## <center>Setiembre 2023</center>
 
 <br><br>
 
@@ -1239,7 +1241,6 @@ aplicación durante los siguientes Sprints, como: C#, JavaScript, Html y CSS.
 aplicación, durante los siguientes sprints, como: Rider, Visual Studio,
 Github, Git, WebStorm.
 
-## 5.2. Landing Page, Services & Applications Implementation.
 
 ## 5.1.4. Software Deployment Configuration.
 
@@ -1285,6 +1286,8 @@ Frontend:
 • Automatización: Git Actions
 
 • URL (Web App Desplegada): https://easycloud.tv/
+
+## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 
