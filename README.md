@@ -1606,6 +1606,171 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
 ---
 
+### 4.4.3. Web Applications Mock-ups.
+A continuación, se muestra el diseño visual de la interacción en formato de mock-ups de nuestra aplicación web.
+
+### Sector Empresarial:
+
+***A continuación, se presentan pantallas generales del inicio del programa, registro, etc.***
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822816519196702/Captura_de_pantalla_2023-09-08_070404.png?width=688&height=560"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+  ***A continuación, se presenta el registro para EMPRESARIOS y el código de verificación.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823111554928670/Captura_de_pantalla_2023-09-08_070707.png?width=688&height=241"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se muestra la edición del perfil del empresario.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823420104704181/Captura_de_pantalla_2023-09-08_071758.png?width=590&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+
+***A continuación, se muestra el sector principal de la aplicación para el sector empresarial.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823995579990066/Captura_de_pantalla_2023-09-08_164949.png?width=287&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se muestra el perfil del empresario.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824239642349708/Captura_de_pantalla_2023-09-08_072014.png?width=283&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se muestra la visualización de clientes con su respectivo puntaje y los productos disponibles para el cliente.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824395406233640/Captura_de_pantalla_2023-09-08_072222.png?width=688&height=477"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se muestra el producto elegido por el usuario que desea canjear. ***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824550851321856/Captura_de_pantalla_2023-09-08_072353.png?width=600&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+
+***A continuación, se muestra el proceso de registrar un producto en la app móvil.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824704320909482/Captura_de_pantalla_2023-09-08_072607.png?width=688&height=357"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se muestra el proceso de buscar un producto en el inventario y conocer el stock del producto buscado.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824887649747054/Captura_de_pantalla_2023-09-08_072804.png?width=688&height=481"600="" height="">
+    </td>
+  </tr>
+
+---
+### Sector CLiente:
+
+***A continuación, se muestra el registro para CLIENTES, con el respectivo código de verificación.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825424222847066/Captura_de_pantalla_2023-09-08_073410.png?width=688&height=274"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+
+***A continuación, se muestra la edición del perfil del cliente.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825569119272970/Captura_de_pantalla_2023-09-08_073610.png?width=607&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+
+***A continuación, se muestra el sector principal de la aplicación para el sector del cliente.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825726229512343/Captura_de_pantalla_2023-09-08_073759.png?width=289&height=617"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se muestra el perfil del cliente.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826008367771678/Captura_de_pantalla_2023-09-08_073849.png?width=289&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+  ***A continuación, se muestra la visualización de el apartado principal del usuario o cliente, en el que puede consultar su puntaje, realizar canjes y ver productos en oferta del bar en el que se encuentre.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826364703256627/Captura_de_pantalla_2023-09-08_074057.png?width=688&height=454"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se presenta la sección de canjear productos, en el que el usuario puede ver qué productos están disponibles de acuerdo a su puntaje.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826517245906954/Captura_de_pantalla_2023-09-08_074233.png?width=610&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se presenta el proceso de elección de un producto por el cliente y el proceso de canje del producto elegido por el cliente.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826780568498216/Captura_de_pantalla_2023-09-08_074435.png?width=688&height=348"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+***A continuación, se muestra la sección de ofertas de la semana en la interfaz del usuario, para que el cliente tenga la libertad de elegir el producto de su preferencia.***
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149827250842259530/Captura_de_pantalla_2023-09-08_074806.png?width=615&height=618"600="" height="">
+    </td>
+  </tr>
+  <br><br>
+
+  ---
 
 
 ## 4.5. Web Applications Prototyping.
