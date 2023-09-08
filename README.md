@@ -1202,6 +1202,26 @@ mejor relación para la vista.
 * Proximidad: Este principio se aplicó en la creación de botones, ya que estas tienen una cierta elevación para diferenciar que están flotando.
 
 * Espacio: Los elementos de nuestro diseño no están todos juntos, ellos tienen un espacio establecido para cada sección y no se alborote todos en una sola parte, de esta forma brindar un sitio limpio y entendible para el usuario.
+## 4.5. Web Applications Prototyping.
+
+***Vista previa Mobile.***
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149741296244772864/Imagen1.png?width=623&height=207"width="1000" height="250">
+    </td>
+  </tr>
+
+<br>
+
+---
+***Vista previa Escritorio.***
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149742021024698499/Imagen2.png?width=224&height=386"width="250" height="400">
+    </td>
+  </tr>
+  
+Link de videos https://drive.google.com/drive/folders/1ca10twi_3XQxpOE5zapz2XWZ5U20DxXf?usp=drive_link 
 
 ## 4.6. Domain-Driven Software Architecture.  
 
