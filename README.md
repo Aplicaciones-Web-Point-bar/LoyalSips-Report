@@ -442,6 +442,75 @@ tareas para los User Personas previamente definidos.
     </td>
   </tr>
 
+### 2.3.5. As-Is Scenario Mapping.
+### Usuario (Cliente):
+<br>
+<table>
+  <tr>
+    <th><strong>Fases</strong></th>
+    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
+    <th style="text-align: justify;"><strong>Ganar puntaje</strong></th>
+    <th style="text-align: justify;"><strong>Ver puntaje</strong></th>
+    <th style="text-align: justify;"><strong>Reclamar Puntos</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Hace</strong></td>
+    <td style="text-align: justify;">Aun no hay un sitio web al que acceder.</td>
+    <td style="text-align: justify;">Al realizar compras de licores no acumula puntos.</td>
+    <td style="text-align: justify;">No se puede ver los puntajes.</td>
+    <td style="text-align: justify;">Debido a que no se implemento un sistema de puntuación, no puede reclamar nada aun.</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Piensa</strong></td>
+    <td style="text-align: justify;">Me gustaria tener una app para poder reservar mas rapido y asimismo que ofrescan promociones </td>
+    <td style="text-align: justify;">Me gustaria ganar puntos por las compras, para poder conjearlas mas adelante</td>
+    <td style="text-align: justify;">Me gustaria poder ver mis puntos para administralos yo mismo</td>
+    <td style="text-align: justify;">Que grandioso canjear puntos, para asi ser cliente de este local.</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Siente</strong></td>
+    <td style="text-align: justify;">Frustracion por que aun el bar no tiene un sistema digital.</td>
+    <td style="text-align: justify;">Desepcionado ya que el bar no realizan ninguna promoción</td>
+    <td style="text-align: justify;">Desilucionado ya que no puedo monitorear algo que no hay</td>
+    <td style="text-align: justify;">Desanimado ya que al no haver ninguna promocion no me siento con ganas de volver al bar</td>
+  </tr>
+</table>
+
+---
+<br>
+
+### Empresa (Dueño del Bar):
+<table>
+  <tr>
+    <th><strong>Fases</strong></th>
+    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
+    <th style="text-align: justify;"><strong>Ver puntaje</strong></th>
+    <th style="text-align: justify;"><strong>Reclamar puntos</strong></th>
+    <th style="text-align: justify;"><strong>Control de inventario</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Hace</strong></td>
+    <td style="text-align: justify;">No hay ningun sitio web al que poder acceder</td>
+    <td style="text-align: justify;">No se pueden visualizar los puntos de ningun cliente</td>
+    <td style="text-align: justify;">Aun no se pueden dar promociones por los puntos.</td>
+    <td style="text-align: justify;">Se tiene que contar los productos uno a uno y supervisar mensualemnte nuestros almacenes</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Piensa</strong></td>
+    <td style="text-align: justify;">Seria increible tener un sitio web de mi bar para brindar servicios mas eficientes</td>
+    <td style="text-align: justify;">Me agrada la idea de tener un sistema de puntos para mis clientes </td>
+    <td style="text-align: justify;">Me interesa poder dar a mis clientes las promociones con los puntos</td>
+    <td style="text-align: justify;">Me facinaria poder tener mi control de inventario digital para ser mas eficiente con la administración</td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>Siente</strong></td>
+    <td style="text-align: justify;">Tristeza ya que no tiene un apartado virtual para sus clientes y el mismo</td>
+    <td style="text-align: justify;">Desanimado ya que al no tener ninguna promocion puede que pierda a sus lientes</td>
+    <td style="text-align: justify;">Desesperado ya que los clientes pueden buscar otros lugares donde haya una atencion mas eficiente </td>
+    <td style="text-align: justify;">Cansado ya que al momento de realizar las cuentas de su almacen, pierde mucho tiempo, aveces se confunde y ocasiona varios conflictos con los empleados</td>
+  </tr>
+</table>
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 ### Usuario (Cliente): 
