@@ -710,6 +710,24 @@ tareas para los User Personas previamente definidos.
 
 Link de Miro -> https://miro.com/app/board/uXjVMnMLrn0=/?share_link_id=713054034361
 
+### 2.3.4. Empathy Mapping.
+
+## Usuario Cliente
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149566378664284230/empathy2.JPG?width=1067&height=676"width="" height="">
+    </td>
+  </tr>
+
+## Usuario Empresario
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149566363904512001/empathy.JPG?width=1041&height=676">
+    </td>
+  </tr>
+
+Link del miro -> https://miro.com/app/board/uXjVMqvoKoU=/?share_link_id=430670075921
 
 ### 2.3.5. As-Is Scenario Mapping.
 ### Usuario (Cliente):
@@ -892,6 +910,94 @@ Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "c
 Link de Miro y Uxpressiar -> https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230  
 
 https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc  
+## 3.4. Product Backlog.
+<table>
+  <tr>
+    <th><strong>#Orden </strong></th>
+    <th style="text-align: justify;"><strong>User Story ID </strong></th>
+    <th style="text-align: justify;"><strong>Título</strong></th>
+    <th style="text-align: justify;"><strong>Descripción</strong></th>
+    <th style="text-align: justify;"><strong>Story Points (1 / 2 / 3 / 5 / 8)</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>1</strong></td>
+    <td style="text-align: justify;">US1</td>
+    <td style="text-align: justify;">Crear cuenta común</td>
+    <td style="text-align: justify;">Como usuario, quiero poder crear una cuenta en la plataforma utilizando mi dirección de correo electrónico y una contraseña, para poder acceder a las funciones de la plataforma y personalizar mi experiencia.</td>
+    <td style="text-align: justify;"> 3 </td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>2</strong></td>
+    <td style="text-align: justify;">“US2”</td>
+    <td style="text-align: justify;">Crear cuenta con otras plataformas </td>
+    <td style="text-align: justify;">Como usuario, quiero tener la opción de registrarme en la plataforma utilizando las credenciales de otras redes sociales o servicios (por ejemplo, Facebook o Google), para simplificar el proceso de registro y acceso</td>
+    <td style="text-align: justify;"> 5 </td>
+  </tr>
+  <tr>
+    <td style="text-align: justify;"><strong>3</strong></td>
+    <td style="text-align: justify;">US3 </td>
+    <td style="text-align: justify;">Entrar a la página como invitado</td>
+    <td style="text-align: justify;">Como usuario, quiero tener la opción de explorar la plataforma como invitado, sin necesidad de registrarse o iniciar sesión, para conocer las características básicas antes de comprometerme con una cuenta.</td>
+    <td style="text-align: justify;"> 2 </td>
+  </tr>
+<tr>
+    <td style="text-align: justify;"><strong>4</strong></td>
+    <td style="text-align: justify;">US4</td>
+    <td style="text-align: justify;">Catálogo de Bares</td>
+    <td style="text-align: justify;">Como usuario, quiero poder explorar un catálogo de bares disponibles en la plataforma, para conocer las opciones cercanas a mi ubicación o preferencias.</td>
+    <td style="text-align: justify;"> 4 </td>
+  </tr>
+<tr>
+    <td style="text-align: justify;"><strong>5</strong></td>
+    <td style="text-align: justify;">US5</td>
+    <td style="text-align: justify;">Añadir bar</td>
+    <td style="text-align: justify;">Como propietario de un bar, quiero poder agregar mi bar a la plataforma proporcionando detalles como el nombre del bar, ubicación, horario de apertura y cierre, tipo de cocina, y otros detalles relevantes.</td>
+    <td style="text-align: justify;"> 8 </td>
+  </tr>
+<tr>
+    <td style="text-align: justify;"><strong>6</strong></td>
+    <td style="text-align: justify;">US6</td>
+    <td style="text-align: justify;">Modificar mi Bar</td>
+    <td style="text-align: justify;"> Como propietario de un bar, quiero tener la capacidad de editar la información de mi bar en la plataforma, incluyendo detalles como el horario de funcionamiento, el menú, la ubicación, etc.</td>
+    <td style="text-align: justify;"> 6 </td>
+  </tr>
+<tr>
+    <td style="text-align: justify;"><strong>7</strong></td>
+    <td style="text-align: justify;">US7</td>
+    <td style="text-align: justify;">Eliminar mi Bar</td>
+    <td style="text-align: justify;">Como propietario de un bar, quiero poder eliminar mi bar de la plataforma si ya no está en funcionamiento o si ya no deseo estar listado en ella.</td>
+    <td style="text-align: justify;"> 4 </td>
+  </tr>
+<tr>
+    <td style="text-align: justify;"><strong>8</strong></td>
+    <td style="text-align: justify;">US8</td>
+    <td style="text-align: justify;">Mostrar mesas disponibles</td>
+    <td style="text-align: justify;">Como usuario, quiero ver la disponibilidad de mesas en los bares registrados en la plataforma para planificar mi visita.</td>
+    <td style="text-align: justify;"> 3 </td>
+  </tr>
+<tr>
+    <td style="text-align: justify;"><strong>9</strong></td>
+    <td style="text-align: justify;">US9</td>
+    <td style="text-align: justify;">Reservar mesas</td>
+    <td style="text-align: justify;">Como usuario, quiero poder reservar una mesa en un bar seleccionado, proporcionando detalles como la fecha, hora, número de personas y preferencias específicas.
+</td>
+    <td style="text-align: justify;"> 7 </td>
+  </tr>
+<tr>
+    <td style="text-align: justify;"><strong>10</strong></td>
+    <td style="text-align: justify;">US10</td>
+    <td style="text-align: justify;">Almacén de los productos</td>
+    <td style="text-align: justify;">Como propietario de un bar, quiero gestionar un almacén de productos en la plataforma, para tener un registro de los productos disponibles en mi establecimiento.</td>
+    <td style="text-align: justify;"> 5 </td>
+  </tr>
+<tr>
+    <td style="text-align: justify;"><strong>11</strong></td>
+    <td style="text-align: justify;">US11</td>
+    <td style="text-align: justify;">Administrar los productos</td>
+    <td style="text-align: justify;">Como propietario de un bar, quiero poder agregar, editar y eliminar productos en mi almacén, incluyendo detalles como el nombre del producto, precio, descripción y cantidad en stock.</td>
+    <td style="text-align: justify;"> 6 </td>
+  </tr>
+</table>
 
 # 4 CAPÍTULO IV: PRODUCT DESIGN
 
