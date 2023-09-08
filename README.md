@@ -35,6 +35,8 @@
 
 <br><br>
 
+Link del video y diapositiva: https://drive.google.com/drive/folders/1FBHclUB6UtwnrinxLWHTFOUb5ycSQL3-?usp=sharing 
+
 # Índice
 
 ## 1. Capítulo I: Introducción
@@ -1161,7 +1163,6 @@ En este caso, se puede observar los distintos elementos que se usaron para difer
 
 
 
-https://drive.google.com/drive/folders/1KyxbFmw9g-YXJkQWpHuZ1PrXTx6BuIX1?usp=sharing
 
 ---
 
