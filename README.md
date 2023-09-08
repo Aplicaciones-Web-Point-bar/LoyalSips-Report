@@ -1733,43 +1733,6 @@ Frontend:
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-
-Para el desarrollo del Landing Page TechSolution se ha utilizado los siguientes lenguajes:
-
-* Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
-* Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
-  
-Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
-
-* Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
-* GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
-* Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
-
-### 5.2.1.8 Team Collaboration Insights during Sprint.
-
-| Alumno                           | Código     |
-|----------------------------------|------------|
-| Leonardo Paul López Huarcaya     | U202124304 |
-| Sandro Fourfive Alarcon Rondon   | U202114140 |
-| Louis Piero Alfaro Coveñas       | U20191b299 |
-| José Carlos Isaac Ampudia Flores | U202112936 |
-| Jean Pierre Morin Fuentes        | U202115348 |
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://github.com/Jeanpi-MF/Pictures/blob/main/Capture.PNG?raw=true" width="925" height="463"">
-    </td>
-</tr>
-
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://raw.githubusercontent.com/Jeanpi-MF/Pictures/main/Capture1.PNG" width="910" height="332"">
-    </td>
-</tr>
-
-## 5.2. Landing Page, Services & Applications Implementation.
-
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning n.
@@ -1810,4 +1773,45 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 |US09 |T9 |Reservar mesas |3 h |   Morin Fuente    | To do|
 |US10 |T10 |Almacén de los productos|5 h |  Alarcon Rondon   | To do|
 |US11 |T11 |Administrar los productos  |7 h |   Louis Alfaro    | To do|
+
+
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el desarrollo del Landing Page TechSolution se ha utilizado los siguientes lenguajes:
+
+* Html: HyperText Markup Language, este lenguaje no ayudo a elaborar las estructuras de nuestra Langing Page.
+* Css: Cascading Style Sheet, es un lenguaje de diseño grafico que nos ayudo en los estilos de nuestro documento realizado en Html.
+  
+Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
+
+* Git: Sistema de control de versiones que nos ayudo a trabajar en equipo durante la elaboracion del Markdown
+* GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
+* Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
+
+### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+| Alumno                           | Código     |
+|----------------------------------|------------|
+| Leonardo Paul López Huarcaya     | U202124304 |
+| Sandro Fourfive Alarcon Rondon   | U202114140 |
+| Louis Piero Alfaro Coveñas       | U20191b299 |
+| José Carlos Isaac Ampudia Flores | U202112936 |
+| Jean Pierre Morin Fuentes        | U202115348 |
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://cdn.discordapp.com/attachments/969784880017842216/1149785189308969130/image.png?raw=true" width="925" height="463"">
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://raw.githubusercontent.com/Jeanpi-MF/Pictures/main/Capture1.PNG" width="910" height="332"">
+    </td>
+</tr>
+
+
+
+
 
