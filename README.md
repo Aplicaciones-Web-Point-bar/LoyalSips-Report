@@ -1768,4 +1768,46 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
     </td>
 </tr>
 
+## 5.2. Landing Page, Services & Applications Implementation.
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning n.
+
+
+|              Sprint #             |                                                                                                                                                                                      Sprint n                                                                                                                                                                                      |
+|:---------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   **Sprint Planning Background**  |                                                                                                                                                                                                                                                                                                                                                                                    |
+|                Date               |                                                                                                                                                                                     2020-09-06                                                                                                                                                                                     | 
+|                Time               |                                                                                                                                                                                      02:45 PM                                                                                                                                                                                      | 
+|              Location             |                                                                                                                                                                              Mediante Sala de Discord                                                                                                                                                                              | 
+|            Prepared By            |                                                                                                                                                                           López Huarcaya, Leonardo Paul                                                                                                                                                                            | 
+|  Attendees (to planning meeting)  |                                                                                                                                                       Leonardo Lopez/ Sandro Alarcon/ Louis Alfaro/Jose Ampudia/ Jean Morin                                                                                                                                                        | 
+|    Sprint n – 1 Review Summary    |                                                                                                                                                                                                                                                                                                                                                                                    | 
+| Sprint n – 1 Retrospective Summary |                                                                                                                                                                                                                                                                                                                                                                                    | 
+|  **Sprint Goal & User Stories**   |                                                                                                                                                                                                                                                                                                                                                                                    |
+|           Sprint n Goal           | Desarrollar y lanzar una infrasestructura y documentación del del sistema de gestión de bares que permita a los propietarios registrar menús, gestionar pedidos y realizar un seguimiento de las ventas, con un enfoque en la usabilidad y la estabilidad, con el objetivo de tener una solución funcional lista para pruebas de usuario al final de esta iteración de dos semanas |
+|         Sprint n Velocity         |                                                                                                                                                                     Para este sprint se estimo 20 Story Points                                                                                                                                                                     |
+|        Sum of Story Points        |                                                                                                                                                                 La suma total de Story Points de este sprint es 18                                                                                                                                                                 |
+
+
+
+
+#### 5.2.1.2. Sprint Backlog n.
+
+|            Sprint #            |    Sprint 1    | | |                   ||
+|:------------------------------:|:----------:|:--:|:--:|:-----------------:|:--:|
+|  |  Work-Item / Task   |
+|User Story ID| id |Description| Estimation(Hours) |    Assigned To    | Status(To-do/ In-Process/To-Review/Done)|
+|US01 |T1 |Crear cuenta común |3 h |  Leonardo Lopez   | To do|
+|US02 |T2 |Crear cuenta con otras plataformas |3 h |  Ampudia Flores   | To do|
+|US03 |T3 |Entrar a la página como invitado |3 h |  Alarcon Rondon   | To do|
+|US04 |T4 |Catálogo de Bares|5 h |   Morin Fuente    | To do|
+|US05 |T5 |Añadir bar|5 h |   Louis Alfaro    | To do|
+|US06 |T6 |Modificar mi Bar|4 h | Ampudia Flores | To do|
+|US07 |T7 |Eliminar mi Bar |5 h |  Leonardo Lopez   | To do|
+|US08 |T8 |Mostrar mesas disponibles |2 h |    Morin Fuente     | To do|
+|US09 |T9 |Reservar mesas |3 h |   Morin Fuente    | To do|
+|US10 |T10 |Almacén de los productos|5 h |  Alarcon Rondon   | To do|
+|US11 |T11 |Administrar los productos  |7 h |   Louis Alfaro    | To do|
 
