@@ -1214,7 +1214,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149747471472398356/Imagen1.png?width=222&height=471" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149905659706486846/image.png?width=291&height=624" width="210" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Registrar una cuenta</strong><br>
@@ -1228,7 +1228,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149748957552054415/Imagen7.png?width=218&height=465" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149905830490144798/image.png?width=293&height=624" width="240" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Inicio de sesión:</strong><br>
@@ -1242,7 +1242,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149749407667986533/Imagen8.png?width=222&height=477" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149906328500834404/image.png?width=290&height=624" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Elección de segmento:</strong><br>
@@ -1256,7 +1256,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149749927308693515/Imagen9.png?width=201&height=427" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149906830215098479/image.png?width=293&height=625" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Personaliza su perfil:</strong><br>
@@ -1270,7 +1270,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149750920654114836/Imagen10.png?width=203&height=434" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149907333116338197/image.png?width=292&height=624" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Perfil del Bar o Empresa:</strong><br>
@@ -1284,7 +1284,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149809755875979364/Imagen11.png?width=206&height=437" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149907566239961198/image.png" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Sector principal de la app:</strong><br>
@@ -1298,7 +1298,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149810306667786332/Imagen12.png?width=207&height=446" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149907851947561043/image.png?width=291&height=625" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Visualización de clientes con su puntaje:</strong><br>
@@ -1312,7 +1312,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149810664345448608/Imagen14.png?width=194&height=410" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149908271881265294/image.png?width=298&height=625" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Datos del cliente con su puntaje:</strong><br>
@@ -1326,7 +1326,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149810946592739419/Imagen15.png?width=189&height=402" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149810946592739419/Imagen15.png?width=189&height=402" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Producto elegido por el cliente:</strong><br>
@@ -1340,7 +1340,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149811295248461844/Imagen16.png?width=181&height=387" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149811295248461844/Imagen16.png?width=181&height=387" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Sector control de inventario:</strong><br>
@@ -1354,7 +1354,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149811532499259514/Imagen17.png?width=189&height=409" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149904332104405062/image.png?width=290&height=625" width="230" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Registrar producto:</strong><br>
@@ -1368,11 +1368,11 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149812959363747892/Captura_de_pantalla_2023-09-08_042742.png?width=285&height=618" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149910043039371354/image.png?width=288&height=625" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Buscar producto:</strong><br>
-     En esta pantalla se muestra una ventana para buscar un producto que ya esta registrado, se piden algunos requisitos para poder encontrar el producto con la cantidad de stock disponible. Seguidamente se muestra la cantidad del producto.</p>
+     En esta pantalla se muestra una ventana para buscar un producto que ya esta registrado, se piden algunos requisitos para poder encontrar el producto con la cantidad de stock disponible.</p>
     </td>
   </tr>
 </table>
@@ -1382,7 +1382,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149812815562035390/Captura_de_pantalla_2023-09-08_042900.png?width=287&height=617" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149812815562035390/Captura_de_pantalla_2023-09-08_042900.png?width=287&height=617" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Resultado de búsqueda</strong><br>
@@ -1396,7 +1396,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149813169313816666/Captura_de_pantalla_2023-09-08_043446.png?width=290&height=618" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149813169313816666/Captura_de_pantalla_2023-09-08_043446.png?width=290&height=618" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Completar perfil Cliente:</strong><br>
@@ -1410,7 +1410,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149813407806132337/Captura_de_pantalla_2023-09-08_043801.png?width=288&height=618" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149813407806132337/Captura_de_pantalla_2023-09-08_043801.png?width=288&height=618" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Pantalla principal del cliente:</strong><br>
@@ -1424,7 +1424,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814239482101811/Captura_de_pantalla_2023-09-08_043929.png?width=288&height=618" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814239482101811/Captura_de_pantalla_2023-09-08_043929.png?width=288&height=618" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Perfil del cliente:</strong><br>
@@ -1439,7 +1439,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814408961339462/Captura_de_pantalla_2023-09-08_045244.png?width=287&height=617" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814408961339462/Captura_de_pantalla_2023-09-08_045244.png?width=287&height=617" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Inicio del bar elegido:</strong><br>
@@ -1453,7 +1453,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814592340492318/Captura_de_pantalla_2023-09-08_045756.png" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814592340492318/Captura_de_pantalla_2023-09-08_045756.png" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Canjear productos:</strong><br>
@@ -1467,7 +1467,7 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 <table>
   <tr>
     <td style="padding: 0;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814776273309796/Captura_de_pantalla_2023-09-08_045927.png?width=286&height=617" width="190" height="350">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149814776273309796/Captura_de_pantalla_2023-09-08_045927.png?width=286&height=617" width="215" height="400">
     </td>
     <td style="padding: 0;">
       <p style="margin: 0;"><strong>Ver productos en oferta:</strong><br>
