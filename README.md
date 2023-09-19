@@ -2713,7 +2713,7 @@ https://drive.google.com/file/d/1ET_5D6EqUCFAp90LES0_h5k-oqez2F-x/view?usp=shari
 <div align="center">Anexos A: Historial de vinculos</div>
 <br>
 
-1. Github: https://github.com/TechSolutions-ws51/TechSolutions-Origin-Report.git 
+1. Github: https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-TB1-Origin.git 
 2. Link del Canvas: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1 
 3. Link del Lean Ux Canva: https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1
 4. Link de Miro: https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230 
