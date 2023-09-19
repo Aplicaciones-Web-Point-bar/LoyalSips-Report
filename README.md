@@ -1118,7 +1118,11 @@ alfabéticamente, este resultado tendrá la información muy bien organizada com
 Nuestro landing page está dividido por secciones para que el usuario pueda ubicarse dentro de cada sección según sea su interés, cada sección provee información clara y concisa con imágenes que inviten al usuario a conocer más de nuestro servicio.
 
 ## 4.2.5. Navigation Systems.
-4.5. Web Applications Prototyping. 
+En el siguiente punto, nuestro equipo mostrará los sistemas de navegación implementados en Team 4 para que los usuarios puedan manipular de manera rápida, efectiva y segura en nuestro aplicativo.
+
+Para ello en el sitio web de 'LoyalSips', hemos implementado un sistema de navegación intuitivo con un menú de encabezados ubicado en la parte superior de la página principal. Cada encabezado representa una sección clave, como 'Inicio', 'Bares', 'Ofertas', 'Registro' y 'Contacto', permitiendo a los usuarios acceder de manera rápida y sencilla a la información relevante. Además, proporcionamos enlaces útiles en el pie de página para acceder a detalles adicionales como 'Política de Privacidad' y 'Términos y Condiciones'
+
+En el caso del aplicativo móvil de 'LoyalSips', hemos decidido diseñar un sistema de navegación eficiente que se basa en un menú principal desplegable desde la parte superior de la pantalla. Este menú ofrece opciones esenciales, como 'Inicio', 'Buscar Bares', 'Mis Puntos', 'Ofertas' y 'Perfil', para que los usuarios accedan fácilmente a diferentes áreas de la aplicación. Además, permitimos la navegación por categorías y la aplicación de filtros para una experiencia de usuario más personalizada. Los botones de acción rápida en las páginas de detalle facilitan la toma de decisiones, y un botón de 'Volver' garantiza una navegación sin problemas.
 
 
 ## 4.3. Landing Page UI Design.
