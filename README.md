@@ -27,11 +27,11 @@
 
 |   Version     |   Fecha   | Autor                   |   Descripción de la modificación|
 |:-------------:|:---------:|:------------------------|:------------------------|
-|1              |           | Ampudia Flores          |- Implementó el diseño del figma tanto para desktop como para movil, además la codificacción de la Landing Page desplegable. |
-|1              |           | Alarcon Rondon          |- Implementó los diagramas en el modelo C4, como la configuracion de como se realizo el desarrollo del presente trabajo, en el cual se utilizó Github con el apoyo de Gitflow |
-|1              |           | Morin Fuentes           |- Implementó los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma. |
-|1              |           | Louis Alfaro Coveñas    |- Implementó el apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos. |
-|1              |           | Leonardo López Huarcaya |- Implementó el Sprint Planing 1, como el Sprint Backlog 1, no logró completar el Development Evidence for Sprint Review. |
+|1              |   28/08/2023    | Ampudia Flores          |- Implementó el diseño del figma tanto para desktop como para movil, además la codificacción de la Landing Page desplegable. |
+|1              |   29/08/2023   | Alarcon Rondon          |- Implementó los diagramas en el modelo C4, como la configuracion de como se realizo el desarrollo del presente trabajo, en el cual se utilizó Github con el apoyo de Gitflow |
+|1              |   30/08/2023        | Morin Fuentes           |- Implementó los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma. |
+|1              |  06/09/2023  | Louis Alfaro Coveñas    |- Implementó el apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos. |
+|1              |  08/09/2023 | Leonardo López Huarcaya |- Implementó el Sprint Planing 1, como el Sprint Backlog 1, no logró completar el Development Evidence for Sprint Review. |
 
 <br>
 
@@ -1073,7 +1073,7 @@ https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc
   </tr>
 </table>
 
-# 4 CAPÍTULO IV: PRODUCT DESIGN
+# CAPÍTULO IV: PRODUCT DESIGN
 
 ## 4.1 Style Guidelines.
 
@@ -2546,10 +2546,10 @@ Frontend:
 
 ### 5.2.1. Sprint 1
 
-#### 5.2.1.1. Sprint Planning n.
+#### 5.2.1.1. Sprint Planning 1.
 
 
-|              Sprint #             |                                                                                                                                                                                      Sprint n                                                                                                                                                                                      |
+|              Sprint #             |                                                                                                                                                                                      Sprint 1                                                                                                                                                                                      |
 |:---------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |   **Sprint Planning Background**  |                                                                                                                                                                                                                                                                                                                                                                                    |
 |                Date               |                                                                                                                                                                                     2020-09-06                                                                                                                                                                                     | 
@@ -2560,14 +2560,14 @@ Frontend:
 |    Sprint n – 1 Review Summary    |                                                                                                                                                                                                                                                                                                                                                                                    | 
 | Sprint n – 1 Retrospective Summary |                                                                                                                                                                                                                                                                                                                                                                                    | 
 |  **Sprint Goal & User Stories**   |                                                                                                                                                                                                                                                                                                                                                                                    |
-|           Sprint n Goal           | Desarrollar y lanzar una infrasestructura y documentación del del sistema de gestión de bares que permita a los propietarios registrar menús, gestionar pedidos y realizar un seguimiento de las ventas, con un enfoque en la usabilidad y la estabilidad, con el objetivo de tener una solución funcional lista para pruebas de usuario al final de esta iteración de dos semanas |
+|           Sprint 1 Goal           | Desarrollar y lanzar una infrasestructura y documentación del del sistema de gestión de bares que permita a los propietarios registrar menús, gestionar pedidos y realizar un seguimiento de las ventas, con un enfoque en la usabilidad y la estabilidad, con el objetivo de tener una solución funcional lista para pruebas de usuario al final de esta iteración de dos semanas |
 |         Sprint n Velocity         |                                                                                                                                                                     Para este sprint se estimo 20 Story Points                                                                                                                                                                     |
 |        Sum of Story Points        |                                                                                                                                                                 La suma total de Story Points de este sprint es 18                                                                                                                                                                 |
 
 
 
 
-#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
 
 |            Sprint #            |    Sprint 1    | | |                   ||
 |:------------------------------:|:----------:|:--:|:--:|:-----------------:|:--:|
@@ -2661,7 +2661,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 * Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el desarrollo del Landing Page TechSolution se ha utilizado los siguientes lenguajes:
 
@@ -2674,7 +2674,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 * GitHub: Plataforma de desarrollo colaborativo que nos ayudo a guardar nuestros proyecto con sus respectivas versiones
 * Git Flow: Modelo de flujo de trabajo que nos permitio ver el avance de cada uno de los integrantes del grupo con respecto al trabajo elaborado.
 
-### 5.2.1.8 Team Collaboration Insights during Sprint.
+#### 5.2.1.8 Team Collaboration Insights during Sprint.
 
 | Alumno                           | Código     |
 |----------------------------------|------------|
