@@ -867,73 +867,26 @@ Link del miro -> https://miro.com/app/board/uXjVMqvoKoU=/?share_link_id=43067007
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
-### Usuario (Cliente): 
-<br>
-<table>
-  <tr>
-    <th><strong>Fases</strong></th>
-    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
-    <th style="text-align: justify;"><strong>Ganar puntaje</strong></th>
-    <th style="text-align: justify;"><strong>Ver puntaje</strong></th>
-    <th style="text-align: justify;"><strong>Reclamar Puntos</strong></th>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Hace</strong></td>
-    <td style="text-align: justify;">Si el usuario, abre el sitio web tendrá que registrarse, seguidamente se mostrará la interfaz principal. En caso ya se encuentre registrado, se muestra la interfaz principal.</td>
-    <td style="text-align: justify;">Realiza compras de licores, de esta manera el cliente generará puntaje a medida que compre licor.</td>
-    <td style="text-align: justify;">Verifica sus puntos obtenidos en el sitio web, el cual se mostrará en una barra y consulta al personal del bar.</td>
-    <td style="text-align: justify;">Consulta al personal sobre el proceso de reclamo de puntos cuando la barra de puntaje haya llegado al máximo.</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Piensa</strong></td>
-    <td style="text-align: justify;">“Me agrada no esperar mucho tiempo al ingresar al sitio web”</td>
-    <td style="text-align: justify;">“¡Vaya!, estoy ganando muchos puntos, lo reclamaré cuando la barra se llene por completo"</td>
-    <td style="text-align: justify;">Me gusta poder ver mi puntaje y poder saber qué productos puedo reclamar, la visualización por forma de barra es atractiva.</td>
-    <td style="text-align: justify;">Me agrada poder canjear mis puntos de manera sencilla con la dependienta del bar.</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Siente</strong></td>
-    <td style="text-align: justify;">Siente satisfacción porque el registro de usuario es sencillo y no toma mucho tiempo.</td>
-    <td style="text-align: justify;">El usuario se siente contento por conocer su puntaje y saber que puede reclamar tragos.</td>
-    <td style="text-align: justify;">El usuario siente satisfacción porque la barra se visualiza muy bien y entendible.</td>
-    <td style="text-align: justify;">Se siente contento porque puede reclamar productos con los puntos obtenidos.</td>
-  </tr>
-</table>
+Esta herramiente conocida como To-be Scenario Mapping nos permitió definir las necesidades de nuestros usuarios y de los gerentes de los bares. En esta sección se presentarán los diagramas de To-be Scenario Mapping para los User Personas previamente definidos. Lo esencial es identificar los aspectos a negativos y positivos de nuestro aplicativo para poder mejorarlos y así poder brindar un mejor servicio a nuestros usuarios y gerentes de bares.
+
+**Usuario (Cliente):**
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174961717328/to-be_-_cliente.png?">
+</div><br>
+
+Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408)
 
 ---
 <br>
 
-### Empresa (Dueño del Bar):
-<table>
-  <tr>
-    <th><strong>Fases</strong></th>
-    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
-    <th style="text-align: justify;"><strong>Ver puntaje</strong></th>
-    <th style="text-align: justify;"><strong>Reclamar puntos</strong></th>
-    <th style="text-align: justify;"><strong>Control de inventario</strong></th>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Hace</strong></td>
-    <td style="text-align: justify;">El empresario se registra como empresario y se muestra una interfaz distinta a la del usuario</td>
-    <td style="text-align: justify;">Los encargados del bar en el sector del sitio web visualizan los puntajes de cada cliente</td>
-    <td style="text-align: justify;">El usuario se acerca a ver sus puntos, el empresario pide el nombre del cliente y lo busca en el sitio web, en el que puede observar su puntaje y poder reclamar por los productos disponibles.</td>
-    <td style="text-align: justify;">Usa nuestro sitio web, en la interfaz de empresario, existe una sección para controlar inventario, el empresario ingresa a dicha sección y puede controlar sus productos.</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Piensa</strong></td>
-    <td style="text-align: justify;">“Que satisfacción ingresar a un sitio web de manera rápida”</td>
-    <td style="text-align: justify;">Me parece un sistema entendible, en el que puedo ver los puntos de cada cliente de manera ordenada. </td>
-    <td style="text-align: justify;">Me parece muy bien poder hacer esta operación de manera automática, es un sistema innovador. </td>
-    <td style="text-align: justify;">Me gusta la eficiencia y la reducción de errores en el control de inventario.</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Siente</strong></td>
-    <td style="text-align: justify;">Siente satisfacción porque puede observar los clientes asociados al sitio web de forma entendible. </td>
-    <td style="text-align: justify;">El encargado siente satisfacción por la facilidad de entender rápidamente el sitio web.</td>
-    <td style="text-align: justify;">Se siente contento porque de esta manera los clientes crean una fidelización con el bar, haciendo que los clientes vuelvan de manera continua.  </td>
-    <td style="text-align: justify;">Siente felicidad porque observa una reducción de problemas relacionados con el stock del producto.</td>
-  </tr>
-</table>
+**Empresa (Dueño del Bar):**
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1154673174710071327/to-be_-_empresa.png?">
+</div><br>
+
+Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_id=663854831408)
 
 ---
 
@@ -1216,109 +1169,103 @@ Esta sección tendrá un enfoque sobre el diseño de nuestra Landing Page utiliz
 ### 4.3.1. Landing Page Wireframe.
 Para la elaboración de los wireframes de la Landing Page tanto en el sector de móvil como para escritorio se usaron los principios, elementos de diseño, en el que engloba la arquitectura de información y el diseño inclusivo.
 
-***Vista previa del wireframe para el apartado móvil.***
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149741296244772864/Imagen1.png?width=623&height=207"width="1000" height="250">
-      </div>
-    </td>
-  </tr>
-<br>
-
-##### Link del apartado móvil: https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&t=DfFWWAqT7hgXSXLE-1 
-
-<br>
-
----
-***Vista previa del wireframe para el apartado de escritorio.***
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align="center">
-      <img src="https://media.discordapp.net/attachments/892430247042105427/1150134263858069654/image.png?width=253&height=564" width="300" height="700">
-      </div>
-    </td>
-  </tr>
-<br>
-
-El link del apartado de escritorio: <a href="https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1">https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1</a>
-
 Para la elaboración de los Wireframes de la Landing page, se tomó en cuenta los elementos y principios de diseño, esto se puede apreciar para la creación de formas usando los elementos de dirección y línea, las cuales lo usamos para difenciar tanto las imágenes como los componentes que forman parte del landing page.
 
 En este caso, se puede observar los distintos elementos que se usaron para diferenciar un componente de otro, así como las fuentes de las letras, sobre todo, detalle muy importante, que los colores están en escala de grises dado que es un boceto, lo cual puede cambiar para la elaboración del Mock-up.
 
-   <tr>
-        <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150135122641834084/image.png?width=831&height=564" width="600" height="400">
+**Landing Page Wireframes - Desktop**
+
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155250239272398968/1.jpg?width=1032&height=671"width="" height="">
       </div>
-    </td>
   </tr>
+<br>
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155251603817889832/3.jpg?width=934&height=671"width="" height="">
+      </div>
+  </tr>
+<br>
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155251493444784218/2.jpg?width=934&height=671"width="" height="">
+      </div>
+  </tr>
+<br>
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155257632530112542/AABOUT.jpg?width=934&height=671"width="" height="">
+      </div>
+  </tr>
+<br>
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155254341305901108/9.jpg?width=934&height=671"width="" height="">
+      </div>
+  </tr>
+<br>
+
+
+El link del [diseño de escritorio](https://www.figma.com/file/xDKLEzeKlPV6A8uBfSIIbC/Sanity-Sketching-Kit-(Community)?type=design&node-id=397%3A3611&mode=design&t=jL9xPnI96j5KRImq-1)
+
+
 
 <br>
 
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150136506795688127/image.png?width=759&height=564" width="600" height="400">
-      </div>
-    </td>
-  </tr>
+**Landing Page Wireframes - Mobile**
 
-  <br>
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      </div>
-    </td>
-  </tr>
-
-  <br>
-
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <div align='center'>
-      <img  src="https://media.discordapp.net/attachments/892430247042105427/1150137459896762539/image.png?width=750&height=564" width="600" height="400">
-      </div>
-    <td>
-  <tr>
+<tr>
+  <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1145898392631918606/1155314365663293440/Section_1.png">
+  </div>
+</tr>
 <br>
 
----
+
+Link del [Diseño Movil](https://www.figma.com/file/N8EmdAUWapHigf4Lk8sGHr/Web-Application-Wireframes?type=design&node-id=0%3A1&mode=design&t=DfFWWAqT7hgXSXLE-1) 
+
+
 
 ### 4.3.2. Landing Page Mock-up.
 Para la elaboración del Mock-up del Landing page tanto para el apartado de escritorio como para móvil se usaron principios, elementos de diseño, diseño inclusivo y arquitectura de información que se planteó en puntos anteriores.
 
-***Vista previa del Mock-up para el apartado móvil.***
+**Landing Page Desktop Mock-up.**
 
   <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149745161811800064/Imagen4.png?width=455&height=625"width="500" height="720">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155322587421888532/desktop-mock-up.png?">
       </div>
-    </td>
   </tr>
 
 <br>
 
-Link del figma móvil: https://www.figma.com/file/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?type=design&node-id=0%3A1&mode=design&t=qizxCWqTKyWhjUIy-1 
+Link del [figma de escritorio](https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1)
 
 ---
 
-***Vista previa del wireframe para el apartado de escritorio.***
+**Landing Page Mobile Mock-up.**
+
+Segmento Empresarial:
 
  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149745513353183363/Imagen5.png?width=602&height=625"width="480" height="360">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155323529294778378/empresa-mobile-mock-up.png?">
+      </div>
+  </tr>
+  <br>
+
+  Segmento Cliente:
+
+   <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155323548945092650/cliente-mobile-mock-up.png?">
       </div>
     </td>
   </tr>
-
   <br>
 
-  ##### Link del figma de escritorio: https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1 
+Link del [figma móvil](https://www.figma.com/file/T8vhVw6cu3LuuV1K3KXdwR/Section-Mobile-Mock-up?type=design&node-id=0%3A1&mode=design&t=263fweJAWpHGIleT-1) 
 
 Para su diseño se aplicaron los 5 principios del diseño:
 
@@ -1333,13 +1280,22 @@ mejor relación para la vista.
 
 * Espacio: Los elementos de nuestro diseño no están todos juntos, ellos tienen un espacio establecido para cada sección y no se alborote todos en una sola parte, de esta forma brindar un sitio limpio y entendible para el usuario.
 
+
+
 ## 4.4. Web Applications UX/UI Design.
+
+En esta sección, presentaré una propuesta visual y de interacción para las aplicaciones que forman parte de la experiencia del usuario en nuestros productos digitales. El objetivo es crear una experiencia atractiva, funcional y eficiente que satisfaga las necesidades de nuestros usuarios y refleje la identidad de nuestra marca.
+
 ### 4.4.1. Web Applications Wireframes.
+
 Se muestra el diseño visual y la interacción que poseen los wireframes en nuestro proyecto digital.
 
-Algunas plantillas generales que poseemos son el sistema de registro:
+A continuación, se muestra el diseño visual y la interacción que poseen los wireframes en nuestro proyecto digital.
 
 <div align='center'>
+
+<b>Sector del Empresarial:</b>
+
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1150000600885501982/Imagen15.jpg?width=1119&height=625"width="700" height="">
@@ -1453,6 +1409,9 @@ Algunas plantillas generales que poseemos son el sistema de registro:
 
 
 <br>
+<b>Sector del cliente:</b>
+<br>
+<br>
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -1507,20 +1466,20 @@ Algunas plantillas generales que poseemos son el sistema de registro:
   </tr>
 </div>
 
-
 ---
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 En este apartado se mostrará los flujos de navegación entre pantallas de nuestra aplicación que visualizará tanto el segmento del empresario como el sector del cliente.
 
-### Segmento objetivo Empresa:
+**Segmento objetivo Empresarial:**
 
 **User Goal:** Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.
 
 <div align='center'>
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149817454575493150/Captura_de_pantalla_2023-09-08_055016.png?width=688&height=276"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149817454575493150/Captura_de_pantalla_2023-09-08_055016.png">
     </td>
   </tr>
 
@@ -1530,7 +1489,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818179695165563/Captura_de_pantalla_2023-09-08_055353.png?width=688&height=567"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818179695165563/Captura_de_pantalla_2023-09-08_055353.png">
     </td>
   </tr>
   <br><br>
@@ -1538,7 +1497,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 **User Goal:** Como empresario, ver mis datos en la aplicación.
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818555605454919/Captura_de_pantalla_2023-09-08_055535.png?width=688&height=607"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818555605454919/Captura_de_pantalla_2023-09-08_055535.png">
     </td>
   </tr>
   <br><br>
@@ -1546,7 +1505,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 **User Goal:** Como empresario, deseo buscar al cliente con un respectivo puntaje.
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818876222255214/Captura_de_pantalla_2023-09-08_055850.png?width=688&height=300"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818876222255214/Captura_de_pantalla_2023-09-08_055850.png">
     </td>
   </tr>
   <br><br>
@@ -1554,7 +1513,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 **User Goal:** Como empresario, deseo registrar un producto en el sistema para poder llevar un control del stock.
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818771037491200/Captura_de_pantalla_2023-09-08_060509.png?width=688&height=294"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149818771037491200/Captura_de_pantalla_2023-09-08_060509.png">
     </td>
   </tr>
   <br><br>
@@ -1562,12 +1521,13 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
 **User Goal:** Como empresario, deseo buscar un producto en el sistema para poder saber el stock y llevar un control seguro.
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149819610011533372/Captura_de_pantalla_2023-09-08_060832.png?width=688&height=294"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149819610011533372/Captura_de_pantalla_2023-09-08_060832.png">
     </td>
   </tr>
 </div>  
+<br>
 
-##### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
+Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP) 
 
 ---
 
@@ -1577,7 +1537,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820520892747868/Captura_de_pantalla_2023-09-08_061524.png?width=688&height=280"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820520892747868/Captura_de_pantalla_2023-09-08_061524.png">
       </div>
     </td>
   </tr>
@@ -1588,7 +1548,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820740019949578/Captura_de_pantalla_2023-09-08_062053.png?width=666&height=617"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820740019949578/Captura_de_pantalla_2023-09-08_062053.png">
       </div>
     </td>
   </tr>
@@ -1599,7 +1559,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820940545437706/Captura_de_pantalla_2023-09-08_062432.png?width=688&height=606"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149820940545437706/Captura_de_pantalla_2023-09-08_062432.png">
       </div>
     </td>
   </tr>
@@ -1610,7 +1570,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821221635112970/Captura_de_pantalla_2023-09-08_063007.png?width=671&height=618"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821221635112970/Captura_de_pantalla_2023-09-08_063007.png">
       </div>
     </td>
   </tr>
@@ -1621,7 +1581,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821517945917500/Captura_de_pantalla_2023-09-08_063350.png?width=644&height=618"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821517945917500/Captura_de_pantalla_2023-09-08_063350.png">
       </div>
     </td>
   </tr>
@@ -1632,7 +1592,7 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821817746362549/Captura_de_pantalla_2023-09-08_064205.png?width=688&height=330"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149821817746362549/Captura_de_pantalla_2023-09-08_064205.png">
       </div>
     </td>
   </tr>
@@ -1644,28 +1604,40 @@ En este apartado se mostrará los flujos de navegación entre pantallas de nuest
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822088157339790/Captura_de_pantalla_2023-09-08_064743.png"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822088157339790/Captura_de_pantalla_2023-09-08_064743.png">
       </div>
     </td>
   </tr>
   <br><br>
 
-##### Link para visualizar los wireframes diagrams: https://overflow.io/s/O6IYMWFP 
-
+Link para visualizar los [wireframes diagrams](https://overflow.io/s/O6IYMWFP)
 
 ---
 
 ### 4.4.3. Web Applications Mock-ups.
-A continuación, se muestra el diseño visual de la interacción en formato de mock-ups de nuestra aplicación web.
+Para la implementación de los Mock-ups de las aplicaciones web, se siguieron los principios de diseño, elementos de diseño, diseño inclusivo y arquitectura de información que se planteó en puntos anteriores. El cual implican los siguientes aspectos:
 
-### Sector Empresarial:
+- **Sencillez:** Se utilizó un diseño simple y limpio para que el usuario pueda navegar fácilmente por la aplicación.
 
-***A continuación, se presentan pantallas generales del inicio del programa, registro, etc.***
+- **Consistencia:** Se utilizó un diseño consistente en para mejorar la experiencia de usuario. Esto ayuda a los usuarios a identificar elementos familiares y entender mejor la jerarquía de la información.
+
+- **Jerarquía Visual:** Se utilizó un diseño que permite a los usuarios identificar fácilmente los elementos más importantes de la aplicación. Esto ayuda a los usuarios a comprender mejor la información y a tomar decisiones más rápidas.
+
+- **Feedback:** Se utilizó un diseño que proporciona comentarios visuales a los usuarios para que sepan que sus acciones se han realizado correctamente. Esto ayuda a los usuarios a comprender mejor el sistema y a evitar errores.
+
+- **Diseño Inclusivo:** Se utilizó un diseño que permite a los usuarios personalizar la aplicación según sus necesidades. Esto ayuda a los usuarios a sentirse más cómodos y a disfrutar de una experiencia de usuario más agradable.
+
+- **Accesibilidad:** Se utilizó un diseño que permite a los usuarios acceder a la aplicación desde cualquier dispositivo. Esto ayuda a los usuarios a utilizar la aplicación en cualquier momento y lugar.
+
+
+
+Para el **sector Empresarial** se realizó el diseño que se muestra a continuación:
+
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822816519196702/Captura_de_pantalla_2023-09-08_070404.png?width=688&height=560"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149822816519196702/Captura_de_pantalla_2023-09-08_070404.png">
       </div>
     </td>
   </tr>
@@ -1676,7 +1648,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823111554928670/Captura_de_pantalla_2023-09-08_070707.png?width=688&height=241"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823111554928670/Captura_de_pantalla_2023-09-08_070707.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1686,7 +1658,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823420104704181/Captura_de_pantalla_2023-09-08_071758.png?width=590&height=618"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823420104704181/Captura_de_pantalla_2023-09-08_071758.png">
       </div>
     </td>
   </tr>
@@ -1698,7 +1670,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823995579990066/Captura_de_pantalla_2023-09-08_164949.png?width=287&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149823995579990066/Captura_de_pantalla_2023-09-08_164949.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1708,7 +1680,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824239642349708/Captura_de_pantalla_2023-09-08_072014.png?width=283&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824239642349708/Captura_de_pantalla_2023-09-08_072014.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1718,7 +1690,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824395406233640/Captura_de_pantalla_2023-09-08_072222.png?width=688&height=477"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824395406233640/Captura_de_pantalla_2023-09-08_072222.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1728,7 +1700,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824550851321856/Captura_de_pantalla_2023-09-08_072353.png?width=600&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824550851321856/Captura_de_pantalla_2023-09-08_072353.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1739,7 +1711,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824704320909482/Captura_de_pantalla_2023-09-08_072607.png?width=688&height=357"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824704320909482/Captura_de_pantalla_2023-09-08_072607.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1749,19 +1721,19 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824887649747054/Captura_de_pantalla_2023-09-08_072804.png?width=688&height=481"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149824887649747054/Captura_de_pantalla_2023-09-08_072804.png"></div>
     </td>
   </tr>
 
 ---
-### Sector CLiente:
+Para el sector del **Cliente** se realizó el diseño que se muestra a continuación:
 
 ***A continuación, se muestra el registro para CLIENTES, con el respectivo código de verificación.***
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825424222847066/Captura_de_pantalla_2023-09-08_073410.png?width=688&height=274"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825424222847066/Captura_de_pantalla_2023-09-08_073410.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1772,7 +1744,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825569119272970/Captura_de_pantalla_2023-09-08_073610.png?width=607&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825569119272970/Captura_de_pantalla_2023-09-08_073610.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1783,7 +1755,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825726229512343/Captura_de_pantalla_2023-09-08_073759.png?width=289&height=617"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149825726229512343/Captura_de_pantalla_2023-09-08_073759.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1793,7 +1765,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826008367771678/Captura_de_pantalla_2023-09-08_073849.png?width=289&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826008367771678/Captura_de_pantalla_2023-09-08_073849.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1803,7 +1775,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826364703256627/Captura_de_pantalla_2023-09-08_074057.png?width=688&height=454"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826364703256627/Captura_de_pantalla_2023-09-08_074057.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1813,7 +1785,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826517245906954/Captura_de_pantalla_2023-09-08_074233.png?width=610&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826517245906954/Captura_de_pantalla_2023-09-08_074233.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1823,7 +1795,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826780568498216/Captura_de_pantalla_2023-09-08_074435.png?width=688&height=348"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149826780568498216/Captura_de_pantalla_2023-09-08_074435.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1833,7 +1805,7 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149827250842259530/Captura_de_pantalla_2023-09-08_074806.png?width=615&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149827250842259530/Captura_de_pantalla_2023-09-08_074806.png"></div>
     </td>
   </tr>
 
@@ -1842,46 +1814,54 @@ A continuación, se muestra el diseño visual de la interacción en formato de m
 ### 4.4.4. Web Applications User Flow Diagrams.
 En esta sección se muestra los user flows diagrams de los Mock-ups previamente creados anteriormente. A continuación, se mostrarán los flujos de la aplicación para el mayor entendimiento de todos.
 
-##### El link del user Flow diagrams es el siguiente: https://overflow.io/s/RV6NU7NK 
+Link del [User Flow diagrams](https://overflow.io/s/RV6NU7NK) 
 
-### Segmento objetivo Empresarios:
+**Segmento objetivo Empresarios:**
 
-**User Goal:** Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.
+***User Goal: Como soy empresario, quiero elegir el sector de empresa y poder registrarme como empresario.***
+
+Explicación: El usuario empresario ingresa a la aplicación y elige el sector de empresa, luego se registra como empresario y se le envía un código de verificación para poder ingresar a la aplicación.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828110045429851/Captura_de_pantalla_2023-09-08_081316.png?width=688&height=222"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828110045429851/Captura_de_pantalla_2023-09-08_081316.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como empresario, quiero iniciar sesión con una cuenta previamente creada.***
 
+Explicación: En caso el usuario ya se haya registrado a nuestro aplicativo, el usuario empresario puede iniciar sesión con su cuenta previamente creada dando click en el botón de iniciar sesión, colocando su correo y contraseña.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828260415422474/Captura_de_pantalla_2023-09-08_081915.png?width=659&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828260415422474/Captura_de_pantalla_2023-09-08_081915.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como empresario, ver mis datos en la aplicación.***
 
+Explicación: Entendemos que el usuario empresario desea ver sus datos en la aplicación, por ello, se muestra el nombre del bar, la descripción que el empresario lo haya registrado, la ubicación del bar y el horario de atención.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828409493557329/Captura_de_pantalla_2023-09-08_082048.png?width=665&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828409493557329/Captura_de_pantalla_2023-09-08_082048.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como empresario, deseo buscar al cliente con un respectivo puntaje.***
 
+Explicación: El usuario empresario deberá hacer click en el boton de ver puntos de los clientes, seguidamente, se mostrará una ventana en el que el usuario empresario podrá rellenar los datos de los clientes que desea buscar, por ejemplo, el nombre del cliente, el apellido y el DNI, al hacer click en buscar cliente, se muestra el cliente con su respectivo puntaje. Además, se muestran los productos disponibles que están para dicho cliente, recordemos que los productos disponibles pueden variar de acuerdo a la cantidad de puntos de cada cliente.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828670345723974/Captura_de_pantalla_2023-09-08_082603.png?width=688&height=294"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149828670345723974/Captura_de_pantalla_2023-09-08_082603.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1889,93 +1869,113 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 ***User Goal: Como empresario, deseo registrar un producto en el sistema para poder llevar un control del stock.***
 
+Explicación: Para registrar un producto, el usuario deberá hacer click en el botón de registrar producto, que se encuentra en la parte inferior en el sector de Control de inventario, una vez hecho esto, se mostrará una ventana en la que el usuario deberá rellenar los datos del producto, como por ejemplo, el código del producto, el nombre, la categoría, en caso es Ron, Vino o Whisky, el precio y la cantidad añadida. Al hacer click en registrar producto, se mostrará el producto registrado en el sistema.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829025880080424/Captura_de_pantalla_2023-09-08_083350.png?width=688&height=293"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829025880080424/Captura_de_pantalla_2023-09-08_083350.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como empresario, deseo buscar un producto en el sistema para poder saber el stock y llevar un control seguro.***
 
+Explicación: Para buscar un producto, el usuario deberá hacer click en el botón de buscar producto, que se encuentra en la parte inferior en el sector de Control de inventario, una vez hecho esto, se mostrará una ventana en la que el usuario deberá rellenar los datos del producto, como por ejemplo, el código del producto, el nombre, la categoría, en caso es Ron, Vino o Whisky, el precio y la cantidad añadida. Al hacer click en buscar producto, se mostrará el producto buscado, con la cantidad en stock, de modo que ayude a llevar un meor control de los productos que se encuentran en el bar.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829280671481936/Captura_de_pantalla_2023-09-08_083841.png?width=688&height=288"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149829280671481936/Captura_de_pantalla_2023-09-08_083841.png"></div>
     </td>
   </tr>
   <br><br>
 
-### Segmento objetivo Usuarios:
-##### Link para visualizar los wireframes diagrams: https://overflow.io/s/T9LJPXN7
+**Segmento objetivo Usuarios:**
+
+Link para visualizar los [Web Application User Flow diagrams.](https://overflow.io/s/T9LJPXN7)
 
 ***User Goal: Como soy cliente consumidor, quiero elegir el sector de cliente y poder registrarme como cliente.***
+
+Explicación: Si el usuario es cliente de un bar, ingresa a la aplicación y elige el sector de cliente, luego se registra como cliente y se le envía un código de verificación para poder ingresar a la aplicación.
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830044420677802/Captura_de_pantalla_2023-09-08_085230.png?width=688&height=292"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830044420677802/Captura_de_pantalla_2023-09-08_085230.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como cliente, quiero iniciar sesión con una cuenta previamente creada.***
 
+Explicación: En caso el usuario ya se haya registrado a nuestro aplicativo, el usuario cliente puede iniciar sesión con su cuenta previamente creada dando click en el botón de iniciar sesión, colocando su correo y contraseña, lo que llevará a la pantalla principal del usuario o cliente.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830239761997968/Captura_de_pantalla_2023-09-08_085338.png?width=655&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830239761997968/Captura_de_pantalla_2023-09-08_085338.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como cliente, deseo ver mis datos en la aplicación.***
 
+Explicación: Entendemos que el usuario cliente desea ver sus datos en la aplicación, por ello, se muestra el nombre del cliente, el apellido, fecha de nacimiento, el género del cliente y el número de celular. Si el usuario desea cerrar sesión, puede hacerlo dando click en el botón de cerrar sesión, lo que lo llevará a la pantalla de inicio de sesión.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830398713532426/Captura_de_pantalla_2023-09-08_085432.png?width=636&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830398713532426/Captura_de_pantalla_2023-09-08_085432.png"></div>
     </td>
   </tr>
   <br><br>
   
 ***User Goal: Como cliente, deseo elegir en que bar me encuentro para conocer sus ofertas y mi puntaje.***
 
+Explicación: Se mostrará la pantalla principal para que el usuario tenga la libertad de elegir en qué bar se encuentra, en caso seleccione un respectivo bar, lo lleva a otra sección en el que el usuario podrá ver sus puntos y las ofertas de la semana del bar en el que se encuentra. Además, se muestra un botón de canjear productos, en el que el usuario puede canjear los productos que desee de acuerdo a su puntaje acumulado y un boron de ver productos en oferta, en el que podrá ver las ofertas de la semana. En caso el usuario desee cambiar de bar, puede hacerlo dando click en el boton regresar, lo que lo llevará a la pantalla principal para que el usuario pueda elegir otro bar en el que se encuentre.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830572672299048/Captura_de_pantalla_2023-09-08_085716.png?width=686&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830572672299048/Captura_de_pantalla_2023-09-08_085716.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como cliente, deseo ver qué productos puedo canjear con respecto a mi puntaje acumulado.***
 
+Explicación: Se muestra la pantalla principal del usuario en el bar respectivo en el que se encuentra, también se muestra una barra, que representa el puntaje acumulado que va teniendo el usuario cliente, en caso el usuario desee canjear un producto, deberá hacer click en el botón de canjear productos, lo que lo llevará a la sección de canjear productos, en el que el usuario podrá ver los productos que puede canjear con respecto a su puntaje acumulado.
+
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830844194766988/Captura_de_pantalla_2023-09-08_085943.png?width=679&height=618"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149830844194766988/Captura_de_pantalla_2023-09-08_085943.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como cliente, quiero elegir un producto que me guste para canjearlo.***
 
+Explicación: Cuando el cliente se encuentre en la sección canjear productos, se podrá ver los productos que puede canjear con respecto a su puntaje acumulado. Para canjear un producto, deberá hacer click en el producto de su agrado, seguidamente se mostrará el producto con una imagen grande y sus detalles, seguidamente se muestran mensajes de alerta el cual explican al usuario que deberá acercarse al personal del bar para verificar que el canje del producto sea válido, una vez verificado el canje, el usuario puede reclamar su producto, y el puntaje acumulado se reducirá de acuerdo al producto canjeado. Una vez el producto sea canjeado, se mostrará la sección principal del aplicativo.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831496916541470/Captura_de_pantalla_2023-09-08_090557.png?width=688&height=248"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831496916541470/Captura_de_pantalla_2023-09-08_090557.png"></div>
     </td>
   </tr>
   <br><br>
 
 ***User Goal: Como cliente, deseo poder ver las ofertas de la semana del bar.***
 
+Explicación: Para ver las ofertas, se mostrará en la pantalla principal, un botón de ver productos en oferta, en el que el usuario podrá ver las ofertas de la semana del bar en el que se encuentra, al hacer click en el botón de ver productos en oferta, se dirigirá a una sección en el que se muestran los productos en ofertas con su respectivo descuento que el bar ofrece.
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831610284376064/Captura_de_pantalla_2023-09-08_090645.png?width=658&height=617"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149831610284376064/Captura_de_pantalla_2023-09-08_090645.png"></div>
     </td>
   </tr>
   <br><br>
@@ -1984,19 +1984,16 @@ En esta sección se muestra los user flows diagrams de los Mock-ups previamente 
 
 ## 4.5. Web Applications Prototyping.
 
-<div align='justify'>
-
-  ##### Link del prototipo en Figma:
-  https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design 
-</div>
-
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149832165748654200/Captura_de_pantalla_2023-09-08_172204.png?width=688&height=435"600="" height=""></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1149832165748654200/Captura_de_pantalla_2023-09-08_172204.png"></div>
     </td>
-  </tr>
-  <br><br>
+  </tr><br>
+
+Link del [prototipo en Figma](https://www.figma.com/proto/vE2mliJXJbycAVSDC0Tn3g/Landing-Page---Movil?page-id=0%3A1&type=design&node-id=18-31&viewport=482%2C573%2C0.23&t=fF9wq2WzqPvgenwU-1&scaling=scale-down&starting-point-node-id=18%3A31&mode=design)   
+
+Link del video de explicación del [prototipo en Figma](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/ETCf0pqiD-dAisJ0yxKBQSYBlSeYgXx3HWFYcxpUxUMSAw?e=eoQ4LJ)
 
 ## 4.6. Domain-Driven Software Architecture.  
 
