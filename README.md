@@ -35,7 +35,86 @@
 
 <br>
 
-Link del video y diapositiva: https://drive.google.com/drive/folders/1FBHclUB6UtwnrinxLWHTFOUb5ycSQL3-?usp=sharing 
+### Project Report Colaborations Insights
+
+---
+
+Para la entrega del informe, se ha utilizado el siguiente repositorio de GitHub, en el cual se ha trabajado de manera colaborativa para la elaboración del informe.
+
+| Link del repositorio | https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-TB1-Origin.git |
+|--|--|
+
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Lean UX ssumptions, Lean UX Hypothesys Statements, Estrategias y tácticas frente a competidores Diseño de entrevistas, To-Be Scenario Mapping, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Implementó el Startup Profile, Descripcion del Startup, Perfiles de integrantes del equipo, Competidores y Análisis competitivo, Impact Mapping, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Software Development Environment Configuration, Source Code Management.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Solution Profile, Needfinding, User Personas, User Tax Matrix, User Stories, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint, Avance de Conclusiones, Bibliografía y Anexos.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">López Huarcaya</td>
+    <td style="text-align: justify;">Lean UX Proccess, Lean UX Problem Statements, Registro de entrevistas, Análisis de entrevistas, Class Dictionary, Database Design, Database Diagram, Sprint Planning 1, Sprint Backlog 1, Development Evidence for Sprint Review.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alfaro Coveñas</td>
+    <td style="text-align: justify;">Lean UX Canvas, Segmento Objetivo, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, Product Backlog, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Object-Oriented Design, Class Diagrams, Source Code Style Guide & Conventions, Software Deployment Configuration, Landing Page, Services & Applications Implementation.</td>
+  </tr>
+</table>
+<br>
+
+
+<div align='justify'>
+Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
+
+Miembros:
+
+- Jose Ampudia (IsaacAmp24)
+- Alarcon Rondon (Alarsandro)
+- Morin Fuentes (Jeanpi-MF)
+- López Huarcaya (leonardox-lh)
+- Alfaro Coveñas (LouisAlfaro)
+</div>
+
+
+<div align='justify'>
+En el siguiente gráfico se muestra la cantidad de commits realizados por cada integrante del equipo.
+</div><br>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639922271363083/1155387592016142376/image.png?">
+</div>
+<br>
+
+<div align='justify'>
+Gracias a GitHub, se puede visualizar las ramas creadas para la implementación del proyecto. Tomando en cuenta lo investigado sobre el uso de GitFlow, se ha creado una rama principal llamada "main" y de esta rama se han creado las ramas "develop" y "feature", que cada feature creado, correspondía a alguna característica añadida, es decir a cada capítulo añadido por cada integrante del equipo, esto con el fin de poder mantener un orden a la hora de ralizar los commits. 
+<br><br>
+La rama "develop" sirvió para actualizar las ultimas versiones de cada feature, y la rama "main" sirvió para la entrega final del informe, A continuación, se muestra el gráfico de las ramas creadas para el proyecto.
+</div>
+<br>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639922271363083/1155387980157046804/image.png">
+</div>
+<br>
+
+<br>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639922271363083/1155387905594904576/image.png">
+</div>
+<br>
 
 # Índice
 
@@ -114,19 +193,21 @@ Link del video y diapositiva: https://drive.google.com/drive/folders/1FBHclUB6Ut
     - [5.1.3 Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1 Sprint n](#52x-sprint-n)
-        - [5.2.1.1 Sprint Planning 1](#52x1-sprint-planning-n)
-        - [5.2.1.2 Sprint Backlog 1](#52x2-sprint-backlog-n)
-        - [5.2.1.3 Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
-        - [5.2.1.4 Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
-        - [5.2.1.5 Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
-        - [5.2.1.6 Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7 Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8 Team Collaboration Insights during Sprint](52x8-team-collaboration-insights-during-sprint)
+    - [5.2.1 Sprint 1](#521-sprint-1)
+        - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
+        - [5.2.1.2 Sprint Backlog 1](#5212-sprint-backlog-1)
+        - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+        - [5.2.1.4 Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+        - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8 Team Collaboration Insights during Sprint](5218-team-collaboration-insights-during-sprint)
 
 
 
 <br>
+
+<div align='justify'>
 
 # Student Outcome
 <table align="center">
@@ -141,6 +222,8 @@ Link del video y diapositiva: https://drive.google.com/drive/folders/1FBHclUB6Ut
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, brindando ideas innovadoras y soluciones para el desarrollo del proyecto.
           Realizó todas las tareas asignadas por el Team Leader del equipo, cumpliendo de manera óptima y respetando el tiempo de entrega.<br><br>
+          <strong>TP:</strong><br>
+          Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
           - Colaboró con la implementación del Lean UX Assumptions e Hypothsys, como también en la implementación del diseño del prototipo del proyecto y la Landing Page desplegada, el cual se usó un repositorio de Github, con el uso de HTML, CSS y JavaScript.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1:</strong><br>
@@ -159,7 +242,7 @@ Link del video y diapositiva: https://drive.google.com/drive/folders/1FBHclUB6Ut
           Asistió parcialmente a reuniones claves organizadas por el equipo de trabajo, aportando parcialmente ideas para la solución del proyecto. No realizó sus tareas establecidas a tiempo, lo cual perjudicó de forma clara el avance óptimo del proyecto.<br><br>
           -Colaboró con la implementacion del Lean UX Problem Statements, As-is Scenario Mapping, User Stories, Sprint Planing 1, Sprint Backlog 1, no cumplió con el Development Evidence for Sprint Review.
         </td>
-        <td><strong>TB1:</strong><br>
+        <td><strong></strong><br>
         Para la elaboración de nuestro proyecto, fue necesaria la comunicación en equipo, una de las herramientas claves fue Discord y WhatsApp, en el que se designó los temas para cada integrante del equipo.</td>
   </tr>
   <tr>
@@ -167,6 +250,8 @@ Link del video y diapositiva: https://drive.google.com/drive/folders/1FBHclUB6Ut
     <td><strong>Ampudia, José</strong><br>
     <strong>TB1:</strong><br>
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, además, el manejo de base de datos, en el que incluye modelo relacional y no relacional.<br><br>
+          <strong>TP:</strong><br>
+          En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, de tal modo que la capacidad de aplicar habilidades y conocimientos para la implementación del mismo, es muy importante.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1</strong><br>
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, como también C++, python y otros.
@@ -183,7 +268,7 @@ Link del video y diapositiva: https://drive.google.com/drive/folders/1FBHclUB6Ut
           <strong>TB1</strong><br>
           Posee conocimientos en C++, HTML, CSS y Java Script, como tambien otros lenguajes.
     </td>
-    <td><strong>TB1:</strong><br>La capacidad de manejar varios lenguajes de programación es bastante importante, lo cual influyó mucho para la elaboración del trabajo, dentro de ellos está el conocimiento de los lenguajes de HTML, CSS y Java Script, para la implementación de la Landing Page de manera correcta, por otro lado, la capacidad de poder manejar os diagramas de modelado C4, lo cual nos ayudó a mostrar de diferentes maneras el enfoque que tendrá nuestro proyecto final, no dejemos de lado la herramienta Figma, que nos sirvió para realizar el diseño del proyecto, y de esta manera poder ayudarnos para la implementación de la Landing Page.</td>
+    <td><strong></strong><br>La capacidad de manejar varios lenguajes de programación es bastante importante, lo cual influyó mucho para la elaboración del trabajo, dentro de ellos está el conocimiento de los lenguajes de HTML, CSS y Java Script, para la implementación de la Landing Page de manera correcta, por otro lado, la capacidad de poder manejar os diagramas de modelado C4, lo cual nos ayudó a mostrar de diferentes maneras el enfoque que tendrá nuestro proyecto final, no dejemos de lado la herramienta Figma, que nos sirvió para realizar el diseño del proyecto, y de esta manera poder ayudarnos para la implementación de la Landing Page.</td>
   </tr>
 </table>
 
@@ -314,27 +399,45 @@ Ademas, en el Perú muy pocas personas utilizan una website para reservar espaci
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
+    <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1149362286729887814/image.png"width="403" height="296">
+      </div>
     </td>
   </tr>
 <br>
 
 ### 1.2.2 Lean UX Proccess
+Gracias al enfoque teórico del libro <i>"Lean UX - Designing Great Products with Agile Teams"</i>, redactado por los autores Jeff Gothelf y Josh Seiden (2016),  se centra en un marco ágil colaborativo centrado en la obtención de retroalimentación de usuarios temprana, para así mismo poder diseñar experiencias de usuarios con iteraciones rápidas, continuas y sobre todo óptimas. 
+Todo este proceso logra tener un auge basado en 3 principios fundamentales: "Diseño colaborativo en lugar de expertos en solitario, experimentación y progreso continuo, y colaboración con el usuario manteniendo el enfoque en él.
+
+<div align='center'>
+<img src="https://m.media-amazon.com/images/I/414-j-WyjcL.jpg" alt="LEAN-UX-Book" width="250" height="250">
+</div>
 
 #### 1.2.2.1 Lean UX Problem Statements
-Después de analizar la problemática y los factores que la ocasionan, podemos tener un panorama de cómo solucionar la necesidad del usuario declarando supuestos, lo cual corresponde al siguiente paso de la Lean UX. Por ello, es necesario tener un conocimiento previo de las empresas que tienen características similares a las nuestras y cómo estas se han desarrollado con el paso del tiempo.
-Con una investigación rigurosa que hicimos podemos declarar que existe una competencia indirecta. Esta competencia vendrían a ser las apps sobre la gestión online de bares.
+<div align="justify">
+<b>1. Problem Statement:</b>
+<p>Nuestro entorno evidencia que los clientes presentan cierto tipo de molestia e incomodidades al momento de ir a un bar y no encontrar un sistema de fidelización que los mantenga enganchados; por lo que, eso mismo logra desanimarlos e influye a que busquen otros bares que les brinde ese beneficio que se merecen por excelencia.
+
+Hemos observado que un factor crítico que afecta a los clientes es la carencia de medios de fidelización en los bares en los que asiste, lo cual conlleva a que se sientan desmerecidos de su atención y, no tan cómodos en el lugar, terminan retirándose en busca de mejores opciones.</p>
+
+<b>¿Cómo hacer para que al implementar un sistema de fidelización en el bar, este tenga algo resaltante que nos permita seguir enganchando y manteniendo a nuestros clientes y nos diferencie de la competencia?</b>
+ 
+<br>
+
+<b>2. Problem Statement:</b> 
+<p>Nuestro entorno evidencia que los empresarios de los bares presentan dificultades al momento de contabilizar y registrar los pedidos de los clientes así como el registro de nuevos insumos que se utilizarán para la elaboración de las bebidas que pertenecen tanto a la sección de la carta como a la de promociones y/o ofertas.
+
+Hemos observado que un factor crítico que afecta a los empresarios de los bares, mayormente viene a ser tanto el desconocimiento como la desconfianza del uso de medios digitalizados para automatizar sus procesos dentro del lugar.</p>
+
+<b>¿Cómo podemos mejorar la experiencia de uso de un sistema de control de registros para que posea utilidades significativas, didácticas, seguras y fáciles de manipular por la persona encargada?</b>
+</div>
+
+<br>
 
 
 #### 1.2.2.2. Lean UX Assumptions.
-##### ***<u>FEATURES</u>***
--	Registro de los clientes hacia la website para tener la facilidad de poder supervisar los puntos acumulados, además de visualizar el catálogo de productos con los que pueden ser canjeados.
--	Bonificar a los clientes de un respectivo bar a través de puntos que los clientes irán ganando por cada cierta compra de productos al bar, este acuerdo lo define el bar.
--	Los clientes tendrán la facilidad de recibir correos electrónicos para que se mantengan informados sobre los puntos que van acumulando u ofertas.
--	Existirá un área donde el cliente podrá calificar nuestro website, esto nos ayudará a mejorar nuestro servicio.
--	El servicio también proporcionará al bar un sistema de control de inventario que podrá controlar que productos están agotándose, de tal manera que el encargado solicite nuevos productos por medio de la revisión del website que nosotros implementemos.
-
-##### ***<u>BUSINESS OUTCOMES</u>***
+##### <u>BUSINESS OUTCOMES</u>
 1.	**¿Qué estamos tratando de lograr?**
 
 Incrementar las ganancias de los bares por medio de que los clientes sean más fieles al bar, de tal forma que las ventas del bar sean mayores.
@@ -347,11 +450,23 @@ El objetivo principal es facilitar al bar a incrementar sus ganancias y de la mi
 
 Nuestros usuarios serán los empresarios de los bares, e indirectamente los clientes de los bares, que consumirán nuestro servicio.
 
-##### ***<u>USER BENEFITS</u>***
+##### <u>USER BENEFITS</u>
 -	Facilidad y flexibilidad del sitio web para el beneficio del usuario.
 -	Notificar por medio de correo electrónico al usuario sobre sus puntos ganados y posibles canjes.
 
-##### ***<u>SUPUESTOS DEL NEGOCIO</u>***
+##### <u>FEATURES</u>
+
+- Elección de bar en el que el cliente se encuentra.
+
+-	Bonificar a los clientes de un respectivo bar a través de puntos que los clientes irán ganando por cada cierta compra de productos al bar, este acuerdo lo define el bar.
+
+-	Los clientes tendrán la facilidad de recibir correos electrónicos para que se mantengan informados sobre los puntos que van acumulando u ofertas.
+
+-	Sección de ofertas y promociones que el bar desee publicar.
+
+-	El servicio también proporcionará al bar un sistema de control de inventario, en el que el encargado podrá registrar y buscar un producto que esté por agotarse, de tal forma que pueda controlar que productos mostrándose el stock de cada uno de ellos
+
+##### <u>SUPUESTOS DEL NEGOCIO</u>
 
 1.	**Creemos que nuestros clientes necesitan:** Recibir ofertas o eventos que se realizarán en el bar para que puedan motivarse a ir.
 
@@ -372,7 +487,7 @@ Nuestros usuarios serán los empresarios de los bares, e indirectamente los clie
 
 10.	**Creemos que:** Nuestro servicio será de gran ayuda en generar más ganancias a las empresas de licorería, como son los bares, lo cual motivará a los clientes a consumir más en dicho bar. 
 
-##### ***<u>SUPUESTOS DEL USUARIO</u>***
+##### <u>SUPUESTOS DEL USUARIO</u>
 1.	**¿Dónde encaja nuestro producto en su trabajo o vida?**
 
 Creemos que nuestro proyecto aporta de manera esencial a las empresas de licorería que deseen generar más ganancias por medio de que los clientes preferirán el bar por el sitio web de puntos de bonificación.
@@ -382,7 +497,7 @@ Creemos que nuestro proyecto aporta de manera esencial a las empresas de licorer
 Un problema de nuestro proyecto es que en algún momento exista una saturación por exceso de usuarios usando la aplicación en simultáneo, lo cual lo resolveremos aumentando nuestro servicio cloud en los meses de uso más frecuentes.
 
 
-##### ***<u>USUARIO</u>***
+##### <u>USUARIO</u>
 
 1.	**¿Quién es el usuario?**
 
@@ -392,7 +507,7 @@ Los empresarios de los bares, y todas las personas mayores de 18 años.
 
 Nuestro producto será usado diariamente, porque es cierto que los bares tienen clientes de manera diaria, es por eso que mientras el bar esté en funcionamiento, por ende, estarán usando nuestro servicio, de tal forma que el usuario podrá visualizar en el sitio web sus puntos y poder ver qué productos pueden ser canjeados por dichos puntos.
 
-##### ***<u>CARACTERÍSITCAS</u>***
+##### <u>CARACTERÍSITCAS</u>
 
 1.	**¿Qué características son importantes?**
 
@@ -402,37 +517,63 @@ Que el sitio web sea sencillo, interactivo y fácil de usar, de tal forma que la
 
 Debe tener un diseño minimalista, pero a la vez atractivo, con colores que combinen con el propósito del servicio, el comportamiento debe ser sencillo y eficaz, sin tanto rodeo, para evitar confundir al cliente.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.  
+#### 1.2.2.3. Lean UX Hypothesis Statements.
 
 **Hipótesis 1:**
 
-**Creemos que** implementando un sitio web, este podrá ser usado tanto en dispositivos Android como IOS, sin la necesidad de crear una aplicación para cada sistema operativo. Por parte de las empresas tendrán la misma facilidad con el control de inventario.
+**Creemos que** que la elección del bar en el que el cliente se encuentra, le facilitará ubicarse en en el sitio web, de modo que pueda observar las ofertas y los puntos que va acumulando en dicho bar.
 
 **Sabremos que** hemos tenido éxito.
 
-Cuando en el primer trimestre de ser lanzado nuestro servicio, la empresa obtenga mejoras considerables en las ganancias.
+Cuando en el primer año que nuestro producto sea lanzado, el 80% de los clientes que usen nuestro servicio, se sientan cómodos con la elección del bar en el que se encuentran.
 
 
 **Hipótesis 2:**
-**Creemos que** implementar un sistema de control de inventario para la empresa, ayudará a esta misma a facilitar el trabajo de los encargados, de tal forma que sea más fácil llevar un control.
+
+**Creemos que** que el servicio de puntos que se le brindará al cliente, le motivará a seguir comprando en el bar, de tal forma que el bar obtenga más ganancias.
 
 **Sabremos que** hemos tenido éxito.
 
-Cuando en el primer año que nuestro producto sea lanzado, sea solicitado por más empresas de licorería, de tal forma que sea un producto que favorezca al incremento de ganancias para muchos bares y no solo a uno.
+Cuando en el primer año que nuestro producto sea lanzado, el 70% de los clientes que usen nuestro servicio, se sientan motivados a seguir comprando en el bar, de tal forma que el bar obtenga más ganancias.
+
+**Hipótesis 3:**
+
+**Creemos que** el sistema de notificaciones por correos electrónicos, le facilitará al cliente estar al tanto de sus puntos y ofertas que se le brindan.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer año que nuestro producto sea lanzado, el 60% de los clientes que usen nuestro servicio, se sientan informados sobre sus puntos y ofertas que se le brindan.
+
+**Hipótesis 4:**
+
+**Creemos que** la implementación de ofertas y promociones que el bar publicite, le facilitará al cliente estar al tanto de las ofertas que se le brindan, de tal forma que el bar obtenga más ganancias.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer año que nuestro producto sea lanzado, el 50% de los clientes que usen nuestro servicio, estén informados y el bar capte más clientes por medio de las ofertas y promociones que se publiciten.
+
+**Hipótesis 5:**
+
+**Creemos que** el servicio de control de inventario, le facilitará al bar el control de sus productos, de tal forma que el bar pueda tener un mejor control de sus productos, y llevar un mejor control de sus ventas.
+
+**Sabremos que** hemos tenido éxito.
+
+Cuando en el primer año que nuestro producto sea lanzado, el 60% de los empresarios de los bares que usen nuestro servicio, puedan mejorar la administración de sus productos, y llevar un mejor control de sus ventas.
+
 ## 1.2.2.4 Lean UXCanvas
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149520349759799386/image.png"width="" height="">
-    </td>
-  </tr>
-<br>
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1145898392631918606/1147441096566255687/image.png?width=1150&height=646" alt="LEAN-UX-Canvas" width="" height="">
+</div><br>
+
+Link del [Canvas](https://www.figma.com/file/8PtySG7keKnCbG7BYaLbix/Untitled?type=design&node-id=0%3A1&mode=design&t=USyZ41BwmZ7jge1P-1)
 
 ## 1.3 Segmentos Objetivos
-**Clientes Frecuentes**: Este es uno de los segmentos más importantes. Los clientes que visitan tu bar con regularidad son ideales para la fidelización. Puedes ofrecer recompensas específicas para mantener su lealtad y aumentar su frecuencia de visita.
+Nosotros tenemos 2 puntos muy importantes que consideramos en el segmento objetivo:
 
-**Amantes de la Música en Vivo**: Si ofreces música en vivo o actuaciones en tu bar, puedes dirigirte a aquellos que disfrutan de estos eventos. Ofrece recompensas como acceso gratuito a conciertos o asientos prioritarios.
+1. **Los clientes de Bares:** Este segmento incluye a las personas que visitan diveros bares y establecimientos similares con cierta frecuencia. Ellos pueden variar en sus edades siempre y cuando sean mayores de edad, pero todos ellos comparten el interés en disfrutar de bebidas en estos lugares.
 
-**Empresarios de bares**: En bares más grandes o cadenas de establecimientos, el dueño o empresario puede pasar más tiempo en una oficina o área de gestión dedicada. Desde allí, pueden supervisar y coordinar las operaciones de varios locales y trabajar en estrategias de negocio a largo plazo.
+
+2. **Dueños y Gerentes de Bares:** Este segmento tambien está enfocado en los propietarios, gerentes de bares y restaurantes que desean mejorar sus diversas operaciones y mejorar eficientemente, especialmente en lo que respecta al control de inventario.
 
 # Capítulo II: Requirements Elicitation & Analysis -  
 
@@ -642,19 +783,113 @@ CPC entre $0,10 y $1,5. </td>
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
--	Nosotros superaremos a la competencia al tener un completo grupo de profesionales que estarán constantemente actualizando productos con los que pueden ser canjeados por puntos.
+Teniendo como base el análisis competitivo realizado, se ha podido identificar las fortalezas y debilidades de nuestros competidores, lo cual nos ayudará a identificar que estrategias tomar para posicionarnos dentro del mercado y como diferenciarnos de ellos.
 
--	Nuestro servicio permitirá que los clientes acumulen puntos, además, simultáneamente brindaremos un servicio de control de inventario de los productos del bar, con la finalidad de facilitar el trabajo a los encargados de ese rubro.
+**Fortalezas de los competidores:**
 
--	Se implementarán actualizaciones cada cierto plazo, de manera que se solucione todos los inconvenientes y quejas con respecto a nuestros usuarios. 
+- Agiliza procesos y brinda recompensas al cliente.
 
--	Seremos un servicio mucho más completo, ofrecemos más funciones que la competencia para el uso de nuestros usuarios y por parte del empresario. 
+- Sistema de ventas en linea, y control del negocio.
 
--	Nuestro servicio será mucho más accesible al estar disponible en todos los dispositivos ya que será un sitio web responsive.
+- Localizacion de bares y restaurantes y conocer promociones.
 
--	Tendremos mucho más alcance con nuestra publicidad y alianzas estratégicas. 
+**Nuestras fortalezas:**
 
--	Implementaremos un sector en el que los usuarios puedan comentar algunas sugerencias con respecto a la aplicación, es decir, podrán comentar o calificar con un rango de estrellas, el cual sea de su preferencia, para mantenernos informados y realizar mejoras a nuestro servicio.
+- Facilidad y flexibilidad del sitio web para el beneficio del usuario.
+
+- Bonificar a los clientes de un respectivo bar a través de puntos que los clientes irán ganando por cada cierta compra de productos al bar, este acuerdo lo define el bar.
+
+- Gestión de inventario para el bar, en el que facilitemos el trabajo de los encargados en dicho rubro.
+
+Habiendo identificado las fortalezas de nuestros competidores y las nuestras, presentamos las estraegias y tácticas que tomaremos para posicionarnos en el mercado:
+
+**Estrategias para superar a nuestros competidores:**
+
+- Actualizacion constante de la aplicacion para mejorar la experiencia de usuario.
+
+- Implementacion de nuevas funcionalidades para el beneficio de los usuarios y de los bares.
+
+**Tácticas para superar a nuestros competidores:**
+
+- Implementacion de un sistema entretenido para que los usuarios puedan ganar puntos, y canjearlos por recompensas, de este modo los usuarios se sentirán motivados a usar nuestra aplicacion.
+
+**Debilidades de los competidores:**
+
+- Baja tasa de interacion de los usuarios en Perú.
+
+- Soporte bajo nivel de asistencia.
+
+- No disponible en Perú.
+
+**Nuestras debilidades:**
+
+- Sistema de filtrado de busquedas.
+
+Por ende, para poder diferenciarnos de nuestros competidores, presentamos las estrategias y tácticas que tomaremos:
+
+**Estrategias para diferenciarnos de nuestros competidores:**
+
+- Mantener una comunicacion constante con los usuarios para conocer sus necesidades y mejorar la experiencia de usuario.
+
+- Mantener soportes y actualizaciones constantes para mejorar la experiencia de usuario.
+
+**Tácticas para diferenciarnos de nuestros competidores:**
+
+- Implementar un agente de soporte para que los usuarios puedan comunicarse con nosotros y resolver sus dudas.
+
+- Implementar actualizaciones constantes para mejorar la experiencia de usuario.
+
+- Implementar un sistema de filtrado de busquedas para que los usuarios puedan encontrar los bares de su preferencia.
+
+**Oportunidades de los competidores:**
+
+- Integracion de mayor funcionalidades de publicidad para los bares.
+
+- Incrementar el numero de usuarios en su plataforma.
+
+- Crecimiento de personas interesadas en conocer nuevos lugares en Perú.
+
+**Nuestras oportunidades:**
+
+- Crecimiento de publico objetivo interesados en la aplicacion.
+
+- Fácil entendimiento de la aplicacion para los usuarios.
+
+- Los competidores no presentan fortalezas completas como los servicios que brindamos.
+
+**Estraegias para aprovechar las oportunidades:**
+
+- Desarrolo de una aplicacion que sea facil de entender y usar para los usuarios, brindandoles comodidad y facilidad.
+
+**Tácticas para aprovechar las oportunidades:**
+
+- Implementar un diseño minimalista, pero a la vez atractivo, con colores que combinen con el propósito del servicio, el comportamiento debe ser sencillo y eficaz, sin tanto rodeo, para evitar confundir al cliente.
+
+- Captar la atencion de los usuarios por medio de campañas publicitarias en redes sociales.
+
+**Amenazas de los competidores:**
+
+- Solo contar con el movil para interactuar con la aplicacion.
+
+- Soporte rápido para personas que sean de Brasil.
+
+- Sotware con problemas de mantenimiento.
+
+**Nuestras amenazas:**
+
+- Tiempo de respuesta del servidor.
+
+**Estrategias para contrarrestar nuestras amenazas:**
+
+- Desarrollar un tiempo de respuesta del servidor rapido para que los usuarios puedan usar la aplicacion sin problemas.
+
+**Tácticas para contrarrestar nuestras amenazas:**
+
+- Implementar un servicio cloud para que los usuarios puedan usar la aplicacion sin problemas.
+
+- Implementar mantenimientos constantes para que los usuarios puedan usar la aplicacion sin problemas.
+
+- Manejo de la aplicación tanto en el móvil como en la web.
 
 ## 2.2. Entrevistas.
 
@@ -721,23 +956,19 @@ el cual se enfoca en el cliente que va consumir algun trago y en la Empresa. Est
 fichas están basadas en las principales características y necesidades identificadas
 en el análisis de entrevistas y de la competencia.
 
-
 #### 2.3.1.1 Segmento Objetivo 1: Cliente
 
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
+<tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1147987398639235173/User_Person_Cliente.png?width=419&height=592"width="403" height="569">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350456090753/Carlos_P_Foner.png">
       </div>
-    </td>
   </tr>
 
-#### 2.3.1.2 Segmento Objetivo 1: Empresario
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
+#### 2.3.1.2 Segmento Objetivo 2: Empresario
+  <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1147997558657007706/User_Person_Empresario.png?width=419&height=592"width="403" height="569"></div>
-    </td>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1154956350170865715/Carmen_R._Greco.png">
+      </div>
   </tr>
 
 ### 2.3.2. User Task Matrix.
@@ -747,33 +978,58 @@ poder entender las tareas y objetivos que cada User Persona desea lograr a la
 hora de utilizar nuestro producto. En esta sección, se presentarán las matrices de
 tareas para los User Personas previamente definidos.
 
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1148008883084853418/Eisenhower_Matrix.jpg?width=1301&height=600"width="1301" height="600"></div>
-    </td>
-  </tr>
+#### Cliente: Carlos P. Foner.
+
+| Tarea / Aspecto | Frecuencia | Importancia |
+|-----------------|------------|-------------|
+| 1. Búsqueda de Bares | Often | High |
+| 2. Experiencia en un Bar | Always | High |
+| 3. Acumulación de Puntos | Often | High |
+| 4. Soporte y Ayuda | Often | Medium |
+| 5. Experiencia en el Sitio Web | Always | High |
+| 6. Exploración de Bares con Amigos | Often | High |
+| 7. Interacción Social | Often | Low |
+| 8. Reservas de Mesas o Eventos | Rarely | High |
+| 9. Recopilación de Experiencias | Often | Low |
+| 10. Exploración de Promociones | Often | Low |
+| 11. Métodos de Pago | Rarely | High |
+| 12. Personalización de Notificaciones | Rarely | High |
+| 13. Exploración de Bares Cercanos | Rarely | High |
+
+#### Empresario: Carmen R.Greco
+
+| Tarea / Aspecto | Frecuencia | Importancia |
+|-----------------|------------|-------------|
+| Estrategias de Promoción | Always | High |
+| Uso de Digital Marketing | Often | High |
+| Promoción de Ofertas y Fechas Especiales | Often | High |
+| Gestión de Promociones | Often | High |
+| Sistema de Gestión de Inventarios | Often | High |
+| Opinión sobre el Startup | - | - |
+| Registro y Promociones para Clientes Nuevos | Sometimes | High |
+| Uso de Sistema de Acumulación de Puntos | Rarely | High |
+| Experiencia con el Sistema de Acumulación de Puntos | - | - |
+| Sugerencias para el Sitio Web | - | - |
+| Facilidad de Uso del Sistema de Gestión de Inventarios | - | - |
+| Accesibilidad Multiplataforma del Sitio Web | - | - |
+| Soporte y Resolución de Problemas | - | - |
+
 
 ### 2.3.3. User Journey Mapping.
-## Usuario Cliente
 
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149556210438246462/journey.JPG?width=1245&height=676"width="" height=""></div>
-    </td>
-  </tr>
+<p>Al elaborar nuestro User Journey Mapping nos permitió reconocer las etapas que teníamos junto a nuestros posibles problemas y canales por el cual pasará nuestro proyecto para que durante el uso de su aplicación no sufra diversos problemas .</p>
 
-## Usuario Empresario
+<p><b>USER:</b></p>
 
-<tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149557741933830155/usuario.JPG?width=1280&height=676"width="" height=""></div>
-    </td>
-  </tr>
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148255516917760000/image.png">
+</div>
 
-Link de Miro -> https://miro.com/app/board/uXjVMnMLrn0=/?share_link_id=713054034361
+<p><b>Business:</b></p>
+
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148268084533153792/image.png">
+</div>
 
 ### 2.3.4. Empathy Mapping.
 
@@ -797,73 +1053,22 @@ Link de Miro -> https://miro.com/app/board/uXjVMnMLrn0=/?share_link_id=713054034
 Link del miro -> https://miro.com/app/board/uXjVMqvoKoU=/?share_link_id=430670075921
 
 ### 2.3.5. As-Is Scenario Mapping.
-### Usuario (Cliente):
-<br>
-<table>
-  <tr>
-    <th><strong>Fases</strong></th>
-    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
-    <th style="text-align: justify;"><strong>Ganar puntaje</strong></th>
-    <th style="text-align: justify;"><strong>Ver puntaje</strong></th>
-    <th style="text-align: justify;"><strong>Reclamar Puntos</strong></th>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Hace</strong></td>
-    <td style="text-align: justify;">Aun no hay un sitio web al que acceder.</td>
-    <td style="text-align: justify;">Al realizar compras de licores no acumula puntos.</td>
-    <td style="text-align: justify;">No se puede ver los puntajes.</td>
-    <td style="text-align: justify;">Debido a que no se implemento un sistema de puntuación, no puede reclamar nada aun.</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Piensa</strong></td>
-    <td style="text-align: justify;">Me gustaria tener una app para poder reservar mas rapido y asimismo que ofrescan promociones </td>
-    <td style="text-align: justify;">Me gustaria ganar puntos por las compras, para poder conjearlas mas adelante</td>
-    <td style="text-align: justify;">Me gustaria poder ver mis puntos para administralos yo mismo</td>
-    <td style="text-align: justify;">Que grandioso canjear puntos, para asi ser cliente de este local.</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Siente</strong></td>
-    <td style="text-align: justify;">Frustracion por que aun el bar no tiene un sistema digital.</td>
-    <td style="text-align: justify;">Desepcionado ya que el bar no realizan ninguna promoción</td>
-    <td style="text-align: justify;">Desilucionado ya que no puedo monitorear algo que no hay</td>
-    <td style="text-align: justify;">Desanimado ya que al no haver ninguna promocion no me siento con ganas de volver al bar</td>
-  </tr>
-</table>
+<p> En esta sección nuestro equipo elaboró pasos, acciones, pensamiento y sentimientos que los usuarios experimentan al llevar a cabo una tarea. Debido a este As-is Scenario Mapping podremos plantear diversas soluciones a las dudas e inseguridades de la página web. </p>
+ 
+<p><b>User:</b></p>
 
----
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1148300021247250452/image.png" width="750" height="450">
+</div>
+<br>
+<p><b>Business:</b></p>
+
+<div align='center'>
+<img src="https://cdn.discordapp.com/attachments/1145898392631918606/1155109301040468038/image.png" width="750" height="450">
+</div>
 <br>
 
-### Empresa (Dueño del Bar):
-<table>
-  <tr>
-    <th><strong>Fases</strong></th>
-    <th style="text-align: justify;"><strong>Abrir el sitio Web</strong></th>
-    <th style="text-align: justify;"><strong>Ver puntaje</strong></th>
-    <th style="text-align: justify;"><strong>Reclamar puntos</strong></th>
-    <th style="text-align: justify;"><strong>Control de inventario</strong></th>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Hace</strong></td>
-    <td style="text-align: justify;">No hay ningun sitio web al que poder acceder</td>
-    <td style="text-align: justify;">No se pueden visualizar los puntos de ningun cliente</td>
-    <td style="text-align: justify;">Aun no se pueden dar promociones por los puntos.</td>
-    <td style="text-align: justify;">Se tiene que contar los productos uno a uno y supervisar mensualemnte nuestros almacenes</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Piensa</strong></td>
-    <td style="text-align: justify;">Seria increible tener un sitio web de mi bar para brindar servicios mas eficientes</td>
-    <td style="text-align: justify;">Me agrada la idea de tener un sistema de puntos para mis clientes </td>
-    <td style="text-align: justify;">Me interesa poder dar a mis clientes las promociones con los puntos</td>
-    <td style="text-align: justify;">Me facinaria poder tener mi control de inventario digital para ser mas eficiente con la administración</td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>Siente</strong></td>
-    <td style="text-align: justify;">Tristeza ya que no tiene un apartado virtual para sus clientes y el mismo</td>
-    <td style="text-align: justify;">Desanimado ya que al no tener ninguna promocion puede que pierda a sus lientes</td>
-    <td style="text-align: justify;">Desesperado ya que los clientes pueden buscar otros lugares donde haya una atencion mas eficiente </td>
-    <td style="text-align: justify;">Cansado ya que al momento de realizar las cuentas de su almacen, pierde mucho tiempo, aveces se confunde y ocasiona varios conflictos con los empleados</td>
-  </tr>
-</table>
+Link para ver el [diagrama](https://miro.com/app/board/uXjVMiV73GU=/?share_link_id=284038922247)
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
@@ -907,35 +1112,35 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 | HU11  | Administrar los productos   | **Como** usuario del servicio web, **quiero** administrar todos los movimientos de mis productos **para** así poder supervisar mejor y más rápido la parte administrativa. (segmento negociante)|**Escenario 1:**  Venta de producto <br>**Dado** que el usuario desea administrar mejor su negocio cuando requiera vender un producto <br>**Cuando** ingrese a “mi bar”<br>**E** ingrese a generar venta  <br>**Y** escanee mediante el o los productos que venderá  <br>**Entonces** la plataforma mostrará el precio individual y acumulado de acuerdo a la cantidad <br>**Y** emitirá una boleta o factura sobre la venta. <br>**Y** actualizará el almacén digital.<br><br>**Escenario 2:** Rendición de cuenta <br>**Dado** que el usuario desea administrar mejor su negocio, cuando requiera sacar el balance de un determinado tiempo <br>**Cuando** ingrese a “mi bar” <br>**E** ingrese a generar “balance de ventas” <br>**Y** seleccione un intervalo de fechas. <br>**Entonces** la plataforma mostrará todas las ventas de ese mes, mostrando cuánto se vendió cada día y el total de esas fechas.|Epic 4|
 ## 3.3. Impact Mapping
 La herramienta Impact Mapping representa de forma visual las metas que nos planteamos para llegar a cada sector de nuestro publico. 
-### User Bar:
+### User Cliente:<br>
+Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
+### User Cliente:
+<br>
 <tr>
     <td>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524347619389551/image.png?width=289&height=423"width="403" height="569"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155294187726586016/user.png">
+      </div>
     </td>
 </tr>
+
+### User Bar:<br>
+Realizamos el impact Mapping para el usuario Bar, que representa a los dueños bares, y según los User Stories realizadas por nuestro equipo, desarrollamos alternivas para solucionar y satisfacer sus necesidades. 
 <br>
 
-Realizamos el impact Mapping para el usuario Bar, que representa a los dueños bares, y según los User Stories realizadas por nuestro equipo, desarrollamos alternivas para solucionar y satisfacer sus necesidades. 
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149524152261283901/image.png?width=401&height=423"width="403" height="569"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155293546316824616/2.png">
+      </div>
     </td>
 </tr>
-<br>
-
-Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
-
  
 
+Link de Cliente [Uxpressia](https://media.discordapp.net/attachments/1145898392631918606/1155294187726586016/user.png) 
 
-Link de Miro:
- https://miro.com/welcomeonboard/Mk5wZzhZdGppbjl0Y0VZWllDeWtlZ3g3emt6R1NvTHhqdDJ5dUt6MGNoYWRORm5GTHpyNTZOa3paSVRpZ1hJeXwzMDc0NDU3MzU3MTA0ODcyOTA0fDI=?share_link_id=659519633230  
-
-Link de Uxpressiar:
-https://uxpressia.com/w/6aurq/p/428Tr/i/RkESc  
+Link de Administrador [Uxpressia](https://media.discordapp.net/attachments/1145898392631918606/1155293546316824616/2.png)  
 
 ## 3.4. Product Backlog.
 <table>
@@ -1997,6 +2202,7 @@ Link del video de explicación del [prototipo en Figma](https://upcedupe-my.shar
 
 ## 4.6. Domain-Driven Software Architecture.  
 
+<div align='justify'>
 En esta seccion, se presentarán los diagramas de arquitectura de software desarrollados para nuestra aplicacion web. Hemos considerado el enfoque Domain-Driven, de tal forma podemos reflejar la estructura del diseño empleado para nuestro proyecto. 
 
  
@@ -2004,22 +2210,23 @@ En esta seccion, se presentarán los diagramas de arquitectura de software desar
 ### 4.6.1. Software Architecture Context Diagram.  
 
 En la seccion de Software Architecture Context Diagram, es una representación visual que muestra cómo un sistema de software interactúa con su entorno. Este diagrama ayuda a comprender las relaciones y dependencias del sistema en su entorno, siendo una herramienta clave en el diseño de la arquitectura de software. 
+</div>
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149676634962665502/structurizr-SystemContext-001.png?width=743&height=423"width="675" height="592"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150047809362468984/structurizr-SystemContext-001_1.png"></div>
     </td>
   </tr>
 
 ### 4.6.2. Software Architecture Container Diagrams. 
-
+<div align='justify'>
 Sobre Software Architecture Container Diagrams, son representaciones visuales que muestran cómo un sistema de software se divide en contenedores, que son unidades lógicas de alto nivel que contienen componentes y servicios relacionados. Nos premite  comprender la estructura general de un sistema y cómo interactúan sus partes principales, siendo una parte importante de la documentación de la arquitectura de software. 
 
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149676634664882297/structurizr-Container-001_1.png?width=651&height=423"width="675" height="592"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png"></div>
     </td>
   </tr>
 
@@ -2027,18 +2234,36 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
 
 Con respecto a Software Architecture Components Diagrams, son representaciones visuales que ilustran cómo los sistemas de software se componen en diferentes módulos o componentes, mostrando las relaciones y dependencias entre ellos. 
 
-Bussiness Logic:  
+**Api Aplication:**  
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149676634367074404/structurizr-Component-001.png?width=532&height=423"width="475" height="592"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png"></div>
+    </td>
+  </tr>
+<br>
+<br>
+
+  **Landing Page:** 
+  
+  **Mobile App:** 
+
+  **Web Aplication:**  
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150102558770212994/structurizr-Component-001_2.png"></div>
     </td>
   </tr>
 
-
 https://github.com/Alarsandro/Point-bar-c4/blob/main/point-bar.dsl  
 
+
+## 4.7. Software Object-Oriented Design.
+
+<p>En este punto se presentará un diseño de software orientado a objetos de "LoyalSips". Se centra en crear una plataforma intuitiva que conecta a usuarios con bares, ofreciendo una experiencia de navegación eficiente, gestión de ofertas y reservas, y la interacción entre usuarios y bares mediante la calificación y la gestión de inventarios. Para ello, se mostrará un diagrama de clases que estará explicado con diversos detalles.</p>
 
 ## 4.7.1. Class Diagrams.
 
@@ -2201,12 +2426,14 @@ Frontend Web Applications.
 ### Gitflow 
 
 Es modelo para la creación de ramas en Git, el cual cumple una función importante el desarrollo del proyecto. Mediante un control de versiones ultilizamos las ramas. Una muestra en imagen de lo mencionado para entender mejor. 
+<br>
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://expressus.io/uploads/beautiful-gitflow-workflow-diagram.png" height="500">
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1155394538358186104/gitflow.png">
     </td></div>
-</tr>
+</tr><br><br>
+
 Entonces, al tener en cuenta el desarrollo del trabajo manteniendo un control de versiones con Gitflow 
 
  
@@ -2320,7 +2547,8 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149698952137027584/image.png?width=467&height=193" height="100"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149698952137027584/image.png">
+      </div>
     </td>
 </tr>
 
@@ -2332,7 +2560,8 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699170643492955/image.png?width=374&height=161" height="100"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699170643492955/image.png">
+      </div>
     </td>
 </tr>
 
@@ -2343,7 +2572,7 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699233176367124/image.png?width=400&height=78" height="100"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699233176367124/image.png"></div>
     </td>
 </tr>
 
@@ -2356,7 +2585,7 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699293695983626/image.png?width=408&height=64" height="100"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699293695983626/image.png"></div>
     </td>
 </tr>
 
@@ -2367,7 +2596,7 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699329884438558/image.png?width=339&height=95" height="100"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699329884438558/image.png"></div>
     </td>
 </tr>
 
@@ -2378,7 +2607,7 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699369642238194/image.png?width=471&height=151" height="100"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699369642238194/image.png"></div>
     </td>
 </tr>
 
@@ -2390,7 +2619,7 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699406052991036/image.png?width=474&height=179" height="100"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699406052991036/image.png"></div>
     </td>
 </tr>
 <br><br>
@@ -2398,7 +2627,7 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699443285839954/image.png?width=474&height=278" height="100"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699443285839954/image.png"></div>
     </td>
 </tr>
 <br><br>
@@ -2408,7 +2637,7 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699471953907792/image.png?width=414&height=45" height="50"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699471953907792/image.png"></div>
     </td>
 </tr>
 <br><br>
@@ -2418,7 +2647,7 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699509165756458/image.png?width=375&height=116" height="300"></div>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1149699509165756458/image.png"></div>
     </td>
 </tr>
 
@@ -2604,7 +2833,7 @@ En el sprint 1, se logró implementar del despliegue de la Landing page. En el q
     <br>
       <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150176709635739770/image.png?width=1409&height=579"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150176709635739770/image.png?">
     </td>
   </tr>
   <br><br>
@@ -2614,7 +2843,7 @@ En el sprint 1, se logró implementar del despliegue de la Landing page. En el q
   <br>
         <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181153958023179/image.png?width=1409&height=261"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181153958023179/image.png?">
     </td>
   </tr>
   <br><br>
@@ -2625,7 +2854,7 @@ En el sprint 1, se logró implementar del despliegue de la Landing page. En el q
   <br>
         <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181289304006747/image.png?width=1409&height=353"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181289304006747/image.png?">
     </td>
   </tr>
   <br><br>
@@ -2636,7 +2865,7 @@ En el sprint 1, se logró implementar del despliegue de la Landing page. En el q
   <br>
         <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181591591682230/image.png?width=1237&height=625"600="" height="">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150181591591682230/image.png?">
     </td>
   </tr>
   <br><br>
@@ -2689,7 +2918,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://raw.githubusercontent.com/Jeanpi-MF/Pictures/main/Capture1.PNG" width="910" height="332"">
+      <img src="https://raw.githubusercontent.com/Jeanpi-MF/Pictures/main/Capture1.PNG">
     </td>
 </tr>
 
