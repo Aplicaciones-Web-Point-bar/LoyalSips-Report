@@ -2991,6 +2991,11 @@ Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo de
 | [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023          |
 <br>
 
+| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://isaacamp24.github.io/LoyalSips-LandingPage/Archivos/)                | 
+|---------------------|---------------------|
+
+<br>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 En el sprint 1, se logró implementar del despliegue de la Landing page. En el que se muestra diferentes secciones que anteriormente fueron diseñadas en el Figma, de este modo se muestran las secciones en el que pueden saber mas de la empresa.
 
