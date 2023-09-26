@@ -1,5 +1,12 @@
 # <center>Universidad Peruana de Ciencias Aplicadas</center>
-<center> <img src="https://media.discordapp.net/attachments/1146639921830973516/1149598476179623966/descarga.jpg"></center>
+
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155584159062949959/UPC_logo.png">
+      </div>
+  </tr>
+
+<br>
 
 ## <center>Ingeniería de Software</center>
 ### <center>Aplicaciones Web - SI730 </center>
@@ -1097,24 +1104,108 @@ Link para ver el [diagrama](https://miro.com/app/board/uXjVO8jKyt8=/?share_link_
 
 ## 3.2. User Stories
 
-| Epic/Story ID | Título | Descripción  | Criterios de Aceptación | Relacionado con (Epic ID) |
-|----------|----------|----------|-----------|-----------|
-| HU01    | Crear cuenta común   | **Como** usuario del servicio web, **quiero** una sección de creación de cuenta **para** tener y acceder  con una cuenta propia. (los 2 segmento) | **Escenario 1:** Crear cuenta con un usuario y contraseña <br> **Dado** que el usuario desea crear una cuenta Cuando entre a la página del servicio <br>**Y** seleccione la opción “Crear cuenta”. <br>**Entonces** la plataforma brindará un formulario con los apartados “nombre”, “correo”, “nombre usuario” y “contraseña” <br>**Y** al validar los datos enviados se creará una cuenta en la plataforma. |Epic 1|
-| HU02    | Crear cuenta con otras plataformas   | **Como** usuario del servicio web, **quiero** una sección de diversos métodos **para** la creación de cuenta.(los 2 segmento)| **Escenario 1:** Crear cuenta con otra plataforma <br>**Dado** que el usuario desea crear una cuenta <br>**Cuando** entre a la página del servicio <br>**Y** seleccione un icono de “Crear cuenta con:”<br> **Entonces** la plataforma validara si escogió “gmail”, “facebook”, “instagram” o “twitter”<br> **Y** verifique la cuenta, la plataforma creará una cuenta vinculada.|Epic 1|
-| HU03  | Entrar a la página como invitado   | **Como** usuario del servicio web, **quiero** una sección de entrar como invitado **para** la que no sea necesario la creación de cuenta. (los 2 segmento)|**Escenario 1:** Entrar a la plataforma como invitado <br>**Dado** que el usuario desea ingresar a la plataforma <br>**Cuando** entre a la página del servicio <br> **Y** seleccione la opción de “Ingresar como invitado” <br>**Entonces** la plataforma validará a esa cuenta como usuario, limitando algunas funcionalidades |Epic 1 |
-| HU04  | Catálogo de Bares   | **Como** usuario del servicio web, **quiero** una sección de catálogos de bares que cuentan con diversos filtros **para** poder seleccionar con facilidad los bares cercanos, por el costo u otros. (segmento cliente)|**Escenario 1:** Catálogo de bares <br>**Dado** que el usuario desea ver los bares registrados en la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** seleccione la opción de “Ver bares” <br>**Entonces** la plataforma mostrará un catálogo de bares registrados, con una breve descripción e imágenes. <br><br>**Escenario 2:** Catálogo de bares con filtros <br>**Dado** que el usuario desea ver los bares registrados en la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** seleccione la opción de “Ver bares” <br>**Y** en la sección de filtros en la casilla de “lugares” y seleccione “barranco”. <br>**Entonces** la plataforma mostrará un catálogo de bares registrados, con una breve descripción e imágenes del distrito de barranco. <br><br>**Escenario 3:** Catálogo de bares con filtros <br>**Dado** que el usuario desea ver los bares registrados en la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** seleccione la opción de “Ver bares” <br>**Y** en la sección de filtros en la casilla de “los más visitados” <br>**Entonces** la plataforma mostrará un catálogo de bares registrados con altas demandas en el último mes, con una breve descripción e imágenes.|Epic 2 |
-| HU05  | Añadir bar   | **Como** usuario del servicio web, **quiero** registrar mi bar **para** que los clientes puedan interactuar con él.(segmento negociante)|**Escenario 1:** Registrar bar <br>**Dado** que el usuario desea registrar su bar en la plataforma <br>**Cuando** ingrese a la página del servicio **Y** seleccione la opción de “Registrar Bar” <br>**Entonces** la plataforma emitirá un formulario más complejo con los siguientes ítems a completar: “Nombre del bar”, “Dirección”, “capacidad”, “imagen de la licencia de funcionamiento”, “imágenes del local”, “números de contacto”, “correos de contacto”, ”descripción” y una contraseña para que pueda modificar o eliminar su bar.<br>**Y** al validar estos datos se registrará el local.|Epic 2|
-| HU06  | Modificar mi Bar   | **Como** usuario del servicio web, **quiero** modificar datos de su bar **para** que los clientes puedan tener los datos actualizados.(segmento negociante)|**Escenario 1:** Modificar mi bar <br>**Dado** que el usuario desea modificar datos de su bar en la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** seleccione la opción de “Mi Bar” <br>**Y** valide el nombre y la contraseña del bar <br>**Entonces** la plataforma ingresara a la sección de mi bar con campos editables <br>**Y** al momento de registrar se guardarán todos los cambios realizados.|Epic 2|
-| HU07  | Eliminar mi Bar   | **Como** usuario del servicio web, quiero eliminar mi bar registrado para que los clientes ya no miren el servicio. (segmento negociante)|**Escenario 1:** Eliminar mi bar <br>**Dado** que el usuario desea eliminar su servicio de bar en la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** seleccione la opción de “Mi Bar” <br>**Y** valide el nombre y la contraseña del bar <br>**Y** seleccione eliminar mi bar <br>**Entonces** la plataforma emitirá una confirmación a su correo y un campo de sus motivos por el cual lo hace (opcional). <br>**Y** se eliminará el servicio de bar.|Epic 2|
-| HU08  | Mostrar mesas disponibles    | **Como** usuario del servicio web, **quiero** ver las mesas disponibles en los bares **para** poder reservar y no perder tiempo en la espera de alguna. (segmento cliente)|**Escenario 1:** Mostrar mesas mediante la plataforma <br>**Dado** que el usuario desea ver las mesas de var mediante la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** entre al catálogo de bar,seleccione uno <br>**Y** seleccione la opción reservar <br>**Y** ingrese una fecha y hora de reserva <br>**Entonces** la plataforma mostrará las mesas disponibles para esa fecha con datos adicionales (sillas, ubicación e imágenes).|Epic 3|
-| HU09  | Reservar mesas   | **Como** usuario del servicio web, **quiero** reservar el bar vía online y rápido **para** no perder tanto tiempo.(segmento cliente)|**Escenario 1:** Reservar mesas <br>**Dado** que el usuario desea reservar mesas de var mediante la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** entre al catálogo de bar,seleccione uno <br>**Y** seleccione la opción reservar <br>**Y** ingrese una fecha y hora de reserva <br>**Y** ingrese a una mesa  <br>**Y** presione en reservar (pagando o no de acuerdo a lo que solicitó el dueño) <br>**Entonces** la plataforma notificará al dueño y éste confirmará mediante su correo la reserva del lugar. <br>**Y** el sitio web marcará como reservado la mesa.<br><br>**Escenario 2:** Reservar mesas <br>**Dado** que el usuario desea reservar mesas de var mediante la plataforma <br>**Cuando** ingrese a la página del servicio <br>**Y** entre al catálogo de bar,seleccione uno <br>**Y** seleccione el número de teléfono asociado. <br>**Entonces** la plataforma mostrará los números registrados del bar para que se comuniquen directamente. |Epic 3|
-| HU10  | Almacén de los productos  | **Como** usuario del servicio web, **quiero** tener un centro de datos de mis productos del bar en tiempo real **para** mantener los stock de todos los productos y poder organizarlo mejor. (segmento negociante)|**Escenario 1:**  Agregar productos <br>**Dado** que el usuario desea agregar productos a su almacén digital. <br>**Cuando** ingrese a la página del servicio<br> **Y** entre a “mi bar” con su usuario y contraseña.<br>**E** ingrese a “mi almacén”  <br>**Y** ingrese agregar producto <br>**Entonces** la plataforma pedirá el nombre, fecha de vencimiento, código de barra y cantidad del producto para el registro de este en la plataforma.|Epic 4|
-| HU11  | Administrar los productos   | **Como** usuario del servicio web, **quiero** administrar todos los movimientos de mis productos **para** así poder supervisar mejor y más rápido la parte administrativa. (segmento negociante)|**Escenario 1:**  Venta de producto <br>**Dado** que el usuario desea administrar mejor su negocio cuando requiera vender un producto <br>**Cuando** ingrese a “mi bar”<br>**E** ingrese a generar venta  <br>**Y** escanee mediante el o los productos que venderá  <br>**Entonces** la plataforma mostrará el precio individual y acumulado de acuerdo a la cantidad <br>**Y** emitirá una boleta o factura sobre la venta. <br>**Y** actualizará el almacén digital.<br><br>**Escenario 2:** Rendición de cuenta <br>**Dado** que el usuario desea administrar mejor su negocio, cuando requiera sacar el balance de un determinado tiempo <br>**Cuando** ingrese a “mi bar” <br>**E** ingrese a generar “balance de ventas” <br>**Y** seleccione un intervalo de fechas. <br>**Entonces** la plataforma mostrará todas las ventas de ese mes, mostrando cuánto se vendió cada día y el total de esas fechas.|Epic 4|
+### Cliente
+
+| Epic ID   | User Story ID | Título                                  | Descripción                                                   | Criterios de Aceptación                                                                                                                              |
+|-----------|---------------|-----------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EPIC-001  | US-001        | Página Principal Atractiva              | Como usuario, quiero ver una página principal atractiva sobre LOYALSIPS. | 1. Dado que Carlos P. visita la página principal, cuando carga la página, debe ver imágenes de alta calidad. 2. Dado que Carlos P. accede a la página, cuando navega por ella, la información debe ser clara y concisa. 3. Dado que Carlos P. abre la página en su dispositivo móvil, cuando la visualiza, debe ser responsive y ajustarse a su pantalla. |
+| EPIC-002  | US-002        | Promociones y Ofertas                  | Como usuario, deseo encontrar información actualizada sobre promociones. | 1. Dado que Carlos P. busca promociones, cuando accede a la sección de promociones, debe ver las promociones vigentes con imágenes y detalles. 2. Dado que Carlos P. busca promociones, cuando visualiza las fechas de las promociones, estas deben ser visibles y actualizadas regularmente. 3. Dado que Carlos P. busca promociones, cuando consulta los precios de las bebidas en promoción, estos deben ser claros. |
+| EPIC-003  | US-003        | Registro de Usuarios Nuevos            | Como usuario nuevo, quiero registrarme y obtener un descuento. | 1. Dado que Carlos P. se registra como nuevo usuario, cuando completa el registro, debe obtener un descuento que se aplica automáticamente. 2. Dado que Carlos P. completa el registro, cuando verifica su correo electrónico, debe recibir un correo de confirmación con el código de descuento. 3. Dado que Carlos P. se registra como nuevo usuario, cuando verifica su correo electrónico, debe recibir un correo de confirmación con el código de descuento. |
+| EPIC-004  | US-004        | Exploración de Eventos Pasados          | Como usuario interesado en eventos, quiero ver imágenes de eventos pasados. | 1. Dado que Carlos P. explora eventos pasados, cuando accede a la sección de eventos anteriores, debe ver imágenes atractivas de eventos pasados. 2. Dado que Carlos P. busca eventos anteriores, cuando consulta los eventos, debe encontrar descripciones detalladas de los eventos. 3. Dado que Carlos P. explora eventos pasados, cuando visualiza los eventos, estos deben estar categorizados. |
+| EPIC-005  | US-005        | Testimonios de Clientes                | Como usuario, deseo leer testimonios de clientes satisfechos. | 1. Dado que Carlos P. busca testimonios de clientes satisfechos, cuando accede a la sección de testimonios, debe ver testimonios reales con nombres y fechas. 2. Dado que Carlos P. lee testimonios, cuando revisa los comentarios, debe encontrar comentarios positivos sobre la experiencia en LOYALSIPS. 3. Dado que Carlos P. accede a testimonios, cuando visualiza los testimonios, estos deben permitir que los clientes califiquen si son útiles o no. |
+| EPIC-006  | US-006        | Información de Contacto                | Como usuario, quiero encontrar información de contacto clara. | 1. Dado que Carlos P. busca información de contacto, cuando accede a la sección de contacto, debe encontrar un formulario de contacto y un número de teléfono visible. 2. Dado que Carlos P. envía un mensaje desde el formulario de contacto, cuando completa el formulario, debe recibir una confirmación por correo electrónico. 3. Dado que Carlos P. hace clic en el número de teléfono, cuando realiza la acción, debe poder realizar llamadas directas. |
+| EPIC-007  | US-007        | Exploración del Menú                   | Como usuario, deseo ver el menú de bebidas y alimentos.       | 1. Dado que Carlos P. explora el menú, cuando accede a la sección de menú, debe ver una sección de menú con imágenes atractivas. 2. Dado que Carlos P. busca el menú, cuando visualiza los precios y opciones de bebidas y alimentos, estos deben ser claramente visibles. 3. Dado que Carlos P. filtra los elementos del menú, cuando realiza la acción, debe poder hacerlo por categorías (bebidas, alimentos, postres, etc.). |
+| EPIC-008  | US-008        | Ubicación en el Mapa                  | Como usuario, quiero un mapa interactivo para encontrar LOYALSIPS. | 1. Dado que Carlos P. busca la ubicación, cuando accede a la sección de ubicación, debe ver un mapa con la ubicación exacta de LOYALSIPS. 2. Dado que Carlos P. busca direcciones, cuando realiza la acción, debe poder obtenerlas desde su ubicación actual. 3. Dado que Carlos P. accede al mapa, cuando visualiza la ubicación de LOYALSIPS, esta debe actualizarse automáticamente si hay cambios. |
+| EPIC-009  | US-009        | Noticias y Eventos Futuros            | Como usuario, quiero ver noticias y eventos futuros.         | 1. Dado que Carlos P. busca noticias y eventos, cuando accede a la sección de noticias y eventos, debe encontrar una sección actualizada regularmente. 2. Dado que Carlos P. hace clic en una noticia, cuando realiza la acción, debe poder obtener más detalles sobre ella. 3. Dado que Carlos P. explora eventos futuros, cuando visualiza los eventos, estos deben estar marcados con fechas y descripciones. |
+| EPIC-010  | US-010        | Accesibilidad Móvil                    | Como usuario de dispositivos móviles, quiero una página responsive. | 1. Dado que Carlos P. accede desde su dispositivo móvil, cuando carga la página, esta se adapta a su pantalla. 2. Dado que Carlos P. visita la página desde su móvil, cuando navega por ella, todos los elementos son interactuables. 3. Dado que Carlos P. navega desde su tablet, cuando realiza acciones táctiles, la experiencia es intuitiva y cómoda. |
+| EPIC-011  | US-011        | Exploración de Fechas Especiales        | Como usuario, deseo encontrar información sobre ofertas en fechas especiales. | 1. Dado que Carlos P. busca ofertas en fechas especiales, cuando accede a la sección de ofertas especiales, debe ver promociones específicas con imágenes y detalles. 2. Dado que Carlos P. busca promociones para eventos especiales, cuando consulta las fechas y detalles, estos se actualizan automáticamente según la temporada o evento. 3. Dado que Carlos P. encuentra una promoción especial, cuando la visualiza, debe poder compartirla en redes sociales. |
+| EPIC-012  | US-012        | Sistema de Gestión de Inventarios      | Como usuario, deseo un sistema de gestión de inventarios.     | 1. Dado que Carlos P. busca productos, cuando realiza la acción, siempre debe ver la disponibilidad en tiempo real de los productos. 2. Dado que Carlos P. busca promociones, cuando realiza la acción, estas se basan en la disponibilidad de productos y se actualizan automáticamente. 3. Dado que Carlos P. compra un producto, cuando realiza la acción, debe recibir notificaciones sobre productos agotados o en oferta. |
+| EPIC-013  | US-013        | Experiencia en Dispositivos Móviles    | Como usuario, quiero una experiencia fluida en dispositivos móviles. | 1. Dado que Carlos P. navega desde su dispositivo móvil, cuando carga la página, esta es responsive y se ajusta a su pantalla. 2. Dado que Carlos P. explora la página en su móvil, cuando realiza acciones, todos los elementos se ajustan de manera óptima. 3. Dado que Carlos P. navega desde su tablet, cuando realiza acciones táctiles, la navegación es suave y se proporciona un menú de navegación móvil. |
+| EPIC-014  | US-014        | Exploración de Testimonios              | Como usuario, deseo encontrar testimonios de clientes satisfechos. | 1. Dado que Carlos P. busca testimonios, cuando accede a la sección de testimonios, debe ver testimonios verificables con comentarios positivos. 2. Dado que Carlos P. lee testimonios, cuando revisa los testimonios, debe encontrar testimonios con nombres y fechas. 3. Dado que Carlos P. accede a testimonios, cuando visualiza los testimonios, debe poder enviar sus propios testimonios desde la página principal. |
+| EPIC-015  | US-015        | Información de Reservas                | Como usuario, quiero poder realizar reservas de mesas desde la página principal. | 1. Dado que Carlos P. desea reservar una mesa, cuando accede a la sección de reservas, debe encontrar un formulario de reserva de mesas con opciones de fecha y hora. 2. Dado que Carlos P. quiere hacer una reserva, cuando completa el formulario de reserva, debe recibir una confirmación de reserva por correo electrónico y un recordatorio antes de la fecha de reserva. 3. Dado que Carlos P. decide reservar una mesa, cuando realiza la reserva, debe poder modificarla o cancelarla desde la página principal. |
+
+### Empresario
+| **Epic / Story ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
+| --- | --- | --- | --- | --- |
+| EPIC01 | Estrategias de Marketing y Promoción | Desarrollar estrategias de marketing y promoción efectivas para atraer y retener clientes en el bar. | - Implementar estrategias de marketing que combinen elementos vintage y modernos en la estética del bar para atraer a un 25% más de clientes.<br>- Crear una estrategia de marketing digital centrada en las redes sociales, incluyendo Facebook, Twitter e Instagram.<br>- Agregar un apartado en el sitio web que ofrezca promociones especiales a los clientes registrados. | - |
+| US01 | Combinación de Estilos en la Estética | Como propietario del bar, quiero implementar estrategias de marketing que combinen elementos vintage y modernos en la estética del bar para atraer a un 25% más de clientes. | - | EPIC01 |
+| US02 | Estrategia de Marketing Digital | Como propietario del bar, quiero una estrategia de marketing digital centrada en las redes sociales como Facebook, Twitter e Instagram. | - | EPIC01 |
+| US03 | Promociones para Clientes Registrados | Como propietario del bar, quiero agregar un apartado en el sitio web que ofrezca promociones especiales a los clientes registrados. | - | EPIC01 |
+| EPIC02 | Mejora de la Experiencia del Cliente | Mejorar la experiencia del cliente en el bar, basado en los comentarios y sugerencias recopilados. | - Implementar un sistema de acumulación de puntos para fomentar la lealtad de los clientes.<br>- Mejorar el proceso de toma de pedidos en el establecimiento.<br>- Desarrollar un sistema de gestión de inventarios fácil y dinámico de usar.<br>- Hacer que el sitio web sea multiplataforma y añadir un apartado de soporte para resolver problemas de los usuarios. | - |
+| US04 | Sistema de Acumulación de Puntos | Como propietario del bar, quiero implementar un sistema de acumulación de puntos para fomentar la lealtad de los clientes. | - | EPIC02 |
+| US05 | Mejora del Proceso de Toma de Pedidos | Como propietario del bar, quiero mejorar el proceso de toma de pedidos en el establecimiento. | - | EPIC02 |
+| US06 | Sistema de Gestión de Inventarios | Como propietario del bar, deseo desarrollar un sistema de gestión de inventarios fácil y dinámico de usar. | - | EPIC02 |
+| US07 | Sitio Web Multiplataforma y Soporte | Como propietario del bar, necesito hacer que el sitio web sea multiplataforma y añadir un apartado de soporte para resolver problemas de los usuarios. | - | EPIC02 |
+| EPIC03 | Análisis y Seguimiento | Realizar análisis y seguimiento de la operación del bar, incluyendo satisfacción del cliente, comportamiento de gasto y preferencias de bebidas. | - Realizar seguimiento de la satisfacción del cliente y lograr un aumento del 12.8% en comentarios positivos en comparación con la competencia.<br>- Analizar el comportamiento de gasto de los clientes en función de la hora del día y los días de la semana.<br>- Adaptar el menú y la oferta de bebidas en función de las preferencias de los clientes. | - |
+| US08 | Seguimiento de la Satisfacción del Cliente | Como propietario del bar, necesito realizar un seguimiento de la satisfacción del cliente y lograr un aumento del 12.8% en comentarios positivos en comparación con la competencia. | - | EPIC03 |
+| US09 | Análisis del Comportamiento de Gasto | Como propietario del bar, necesito analizar el comportamiento de gasto de los clientes en función de la hora del día y los días de la semana. | - | EPIC03 |
+| US10 | Adaptación del Menú y Oferta de Bebidas | Como propietario del bar, necesito adaptar el menú y la oferta de bebidas en función de las preferencias de los clientes. | - | EPIC03 |
+| EPIC04 | Fidelización de Clientes y Segmentación | Implementar estrategias de fidelización de clientes y segmentación para aumentar la lealtad de los clientes y comprender mejor sus necesidades. | - Segmentar a los clientes por frecuencia de visita y preferencias de bebidas para personalizar promociones.<br>- Implementar un programa de fidelización de clientes a través de acumulación de puntos. | - |
+| US11 | Segmentación de Clientes | Como propietario del bar, necesito segmentar a los clientes por frecuencia de visita y preferencias de bebidas para personalizar promociones. | - | EPIC04 |
+| US12 | Programa de Fidelización de Clientes | Como propietario del bar, necesito implementar un programa de fidelización de clientes a través de acumulación de puntos. | - | EPIC04 |
+| US13 | Tendencias Actuales en la Industria de Bares | Como propietario del bar, necesito estar al tanto de las tendencias actuales en la industria de bares, especialmente en la combinación de elementos vintage y modernos, para mantenernos competitivos. | - | - |
+
+### Web Application User Stories
+
+| Epic ID   | User Story ID | Título                                | Descripción                                                 | Criterios de Aceptación                                                                                                              |
+|-----------|---------------|---------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| EPIC-016  | US-016        | Navegación Intuitiva                  | Como visitante del sitio web, quiero una navegación intuitiva. | 1. Dado que soy un visitante, cuando accedo al sitio web, debo encontrar un menú de navegación claro y fácil de entender. 2. Dado que soy un visitante, cuando hago clic en una sección del menú, debo ser redirigido a la página correspondiente de manera rápida y sin problemas. 3. Dado que soy un visitante, cuando desplazo la página hacia abajo, debo encontrar un botón de "Volver arriba" para facilitar la navegación. |
+| EPIC-017  | US-017        | Contenido Atractivo                   | Como visitante del sitio web, quiero contenido atractivo y relevante. | 1. Dado que soy un visitante, cuando accedo a la Landing Page, debo ver imágenes y gráficos atractivos relacionados con LOYALSIPS. 2. Dado que soy un visitante, cuando leo el contenido, este debe ser informativo y relevante para entender la propuesta de LOYALSIPS. 3. Dado que soy un visitante, cuando navego por la Landing Page, debo encontrar un llamado a la acción (CTA) claro que me invite a aprender más o registrarme. |
+| EPIC-018  | US-018        | Información de Contacto                | Como visitante del sitio web, quiero encontrar información de contacto. | 1. Dado que soy un visitante, cuando busco información de contacto, debo encontrar un enlace o sección con datos de contacto, como dirección, número de teléfono y correo electrónico. 2. Dado que soy un visitante, cuando hago clic en el enlace de contacto, debo ver un formulario de contacto y un mapa con la ubicación de LOYALSIPS. 3. Dado que soy un visitante, cuando lleno el formulario de contacto y lo envío, debo recibir una confirmación de que mi mensaje fue enviado correctamente. |
+| EPIC-019  | US-019        | Testimonios y Reseñas                 | Como visitante del sitio web, quiero leer testimonios y reseñas de clientes satisfechos. | 1. Dado que soy un visitante, cuando accedo a la sección de testimonios, debo ver testimonios verificables de clientes con comentarios positivos sobre su experiencia en LOYALSIPS. 2. Dado que soy un visitante, cuando leo los testimonios, debo encontrar testimonios con nombres y fechas para autenticidad. 3. Dado que soy un visitante, cuando hago clic en un testimonio, debo poder ver más detalles sobre la experiencia del cliente. |
+| EPIC-020  | US-020        | Promociones y Ofertas                | Como visitante del sitio web, quiero ver promociones y ofertas especiales. | 1. Dado que soy un visitante, cuando accedo a la sección de promociones, debo ver las promociones vigentes con imágenes y detalles atractivos. 2. Dado que soy un visitante, cuando consulto las promociones, debo encontrar las fechas de vigencia claramente indicadas. 3. Dado que soy un visitante, cuando hago clic en una promoción, debo poder obtener más información y detalles sobre la oferta. |
+| EPIC-021  | US-021        | Acceso a Redes Sociales               | Como visitante del sitio web, quiero acceso a las redes sociales de LOYALSIPS. | 1. Dado que soy un visitante, cuando deseo seguir a LOYALSIPS en redes sociales, debo encontrar enlaces claros a las redes sociales (Facebook, Twitter, Instagram, etc.). 2. Dado que soy un visitante, cuando hago clic en un enlace de redes sociales, debo ser redirigido a las páginas correspondientes de LOYALSIPS en esas plataformas. 3. Dado que soy un visitante, cuando accedo a las redes sociales de LOYALSIPS, debo encontrar contenido actualizado y atractivo. |
+| EPIC-022  | US-022        | Experiencia Responsiva                | Como visitante del sitio web desde dispositivos móviles, quiero una experiencia responsiva. | 1. Dado que soy un visitante desde un dispositivo móvil, cuando accedo a la Landing Page, esta debe ajustarse de manera adecuada a la pantalla de mi dispositivo. 2. Dado que soy un visitante desde un dispositivo móvil, cuando interactúo con los elementos del sitio, estos deben ser fácilmente seleccionables y legibles. 3. Dado que soy un visitante desde un dispositivo móvil, cuando navego por la página, la experiencia debe ser fluida y sin problemas de rendimiento. |
+| EPIC-023  | US-023        | Idiomas Adicionales                   | Como visitante del sitio web, quiero la opción de cambiar el idioma. | 1. Dado que soy un visitante, cuando deseo cambiar el idioma, debo encontrar un menú desplegable con opciones de idioma. 2. Dado que soy un visitante, cuando selecciono un idioma diferente, el contenido del sitio debe cambiar al idioma seleccionado. 3. Dado que soy un visitante, cuando cambio el idioma, la navegación y las secciones del sitio deben mantenerse coherentes en el nuevo idioma. |
+| EPIC-024  | US-024        | Política de Privacidad                | Como visitante del sitio web, quiero acceder a la política de privacidad. | 1. Dado que soy un visitante, cuando deseo revisar la política de privacidad, debo encontrar un enlace a la página de política de privacidad en el pie de página o en una sección relevante. 2. Dado que soy un visitante, cuando hago clic en el enlace de política de privacidad, debo ser redirigido a la página de política de privacidad donde se describe claramente la política de recopilación y uso de datos. 3. Dado que soy un visitante, cuando accedo a la política de privacidad, debo encontrar información sobre cómo optar por no participar en la recopilación de datos y cómo contactar al equipo de LOYALSIPS para preguntas sobre privacidad. |
+
+### Technical Story ID
+
+| Technical Story ID | Título                                      | Descripción                                                |
+|--------------------|---------------------------------------------|------------------------------------------------------------|
+| Technical Story 1  | Configuración de Imágenes de Alta Calidad | Configurar imágenes de alta calidad en la página principal. |
+| Technical Story 2  | Diseño Responsivo | Hacer que la página principal sea responsive y se ajuste a diferentes tamaños de pantalla. |
+| Technical Story 3  | Registro de Usuarios	 | Implementar el registro de usuarios y la generación automática de códigos de descuento. |
+| Technical Story 4  | Exploración de Eventos Pasados	 | Configurar la sección de eventos pasados con imágenes atractivas y descripciones detalladas.|
+| Technical Story 5  | Implementación de Testimonios	 | Crear un sistema para mostrar testimonios verificables y permitir a los clientes enviar sus propios testimonios.|
+| Technical Story 6  | Configuración de Información de Contacto	 | Agregar un formulario de contacto y un número de teléfono con funcionalidad de llamada directa. |
+| Technical Story 7  | Menú de Bebidas y Alimentos	 | Configurar la sección de menú con imágenes atractivas y opciones de filtrado. |
+| Technical Story 8  | Integración de Mapa	 | Incorporar un mapa interactivo con la ubicación exacta de LOYALSIPS. |
+| Technical Story 9  | Noticias y Eventos Futuros	 | Configurar la sección de noticias y eventos futuros con fechas y descripciones. |
+| Technical Story 10 | Experiencia Móvil Fluida	 | Optimizar la experiencia en dispositivos móviles y tabletas. | 
+| Technical Story 11 | Ofertas en Fechas Especiales	 | Configurar la sección de ofertas especiales con detalles actualizados según la temporada o evento. | 
+| Technical Story 12 | Sistema de Gestión de Inventarios	 | Desarrollar un sistema de gestión de inventarios en tiempo real. | 
+| Technical Story 13 | Navegación Intuitiva	 | Asegurarse de que la navegación sea clara y rápida en todo el sitio web. | 
+| Technical Story 14 | Contenido Atractivo	 | Crear contenido atractivo y relevante en la Landing Page. | 
+| Technical Story 15 | Enlace de Contacto	 | Configurar el enlace de contacto para llevar a la página de contacto con formulario y mapa. | 
+| Technical Story 16 | Visualización de Testimonios	 | Configurar la sección de testimonios para mostrar testimonios con nombres y fechas. | 
+| Technical Story 17 | Sección de Promociones	 | Configurar la sección de promociones para mostrar detalles y enlaces a ofertas. | 
+| Technical Story 18 | Enlaces a Redes Sociales	 | Agregar enlaces claros a las redes sociales de LOYALSIPS. | 
+| Technical Story 19 | Experiencia Responsiva	 | Asegurarse de que la Landing Page sea completamente responsiva. | 
+| Technical Story 20 | Opción de Cambio de Idioma	 | Agregar un menú desplegable para cambiar el idioma del sitio web. |  
+| Technical Story 21 | Acceso a Política de Privacidad	 | Configurar un enlace a la página de política de privacidad y describir la política de recopilación de datos. |  
+| Technical Story 22 | Estrategias de Marketing	 | Desarrollar estrategias de marketing y promoción para atraer y retener clientes en el bar. |  
+| Technical Story 23 | Combinación de Estilos en la Estética	 | Implementar estrategias de marketing que combinen elementos vintage y modernos en la estética del bar. |  
+| Technical Story 24 | Estrategia de Marketing Digital	 | Crear una estrategia de marketing digital centrada en las redes sociales. |  
+| Technical Story 25 | Promociones para Clientes Registrados	 | Agregar un apartado en el sitio web que ofrezca promociones especiales a los clientes registrados. |  
+| Technical Story 26 | Mejora de la Experiencia del Cliente	 | Mejorar la experiencia del cliente en el bar, basado en los comentarios y sugerencias recopilados. |  
+| Technical Story 27 | Sistema de Acumulación de Puntos	 | Implementar un sistema de acumulación de puntos para fomentar la lealtad de los clientes. |  
+| Technical Story 28 | Mejora del Proceso de Toma de Pedidos	 | Mejorar el proceso de toma de pedidos en el establecimiento. |  
+| Technical Story 29 | Sistema de Gestión de Inventarios	 | Desarrollar un sistema de gestión de inventarios fácil y dinámico de usar. |  
+| Technical Story 30 | Sitio Web Multiplataforma y Soporte	 | Hacer que el sitio web sea multiplataforma y añadir un apartado de soporte para resolver problemas de los usuarios. |    
+| Technical Story 31 | Análisis y Seguimiento	 | Realizar análisis y seguimiento de la operación del bar, incluyendo satisfacción del cliente, comportamiento de gasto y preferencias de bebidas. |  
+| Technical Story 32 | Seguimiento de la Satisfacción del Cliente	 | Necesito realizar un seguimiento de la satisfacción del cliente y lograr un aumento del 12.8% en comentarios positivos en comparación con la competencia. |  
+| Technical Story 33 | Análisis del Comportamiento de Gasto	 | Analizar el comportamiento de gasto de los clientes en función de la hora del día y los días de la semana. |  
+| Technical Story 34 | Adaptación del Menú y Oferta de Bebidas	 | Adaptar el menú y la oferta de bebidas en función de las preferencias de los clientes. |  
+| Technical Story 35 | Segmentación de Clientes	 | Segmentar a los clientes por frecuencia de visita y preferencias de bebidas para personalizar promociones. |  
+| Technical Story 36 | Programa de Fidelización de Clientes	 | Implementar un programa de fidelización de clientes a través de acumulación de puntos. |  
+| Technical Story 37 | Tendencias Actuales en la Industria	 | Estar al tanto de las tendencias actuales en la industria de bares, especialmente en la combinación de elementos vintage y modernos, para mantenerse competitivos. |
+
+
 ## 3.3. Impact Mapping
 La herramienta Impact Mapping representa de forma visual las metas que nos planteamos para llegar a cada sector de nuestro publico. 
 ### User Cliente:<br>
 Hemos llevado a cabo un proceso de Impact Mapping dirigido al usuario llamado "cliente", quien representa a los clientes que consumen en bares. A partir de las historias de usuario generadas por nuestro equipo, hemos elaborado diferentes opciones para abordar y satisfacer sus requerimientos. 
-### User Cliente:
 <br>
 <tr>
     <td>
@@ -1143,93 +1234,53 @@ Link de Cliente [Uxpressia](https://media.discordapp.net/attachments/11458983926
 Link de Administrador [Uxpressia](https://media.discordapp.net/attachments/1145898392631918606/1155293546316824616/2.png)  
 
 ## 3.4. Product Backlog.
-<table>
-  <tr>
-    <th><strong>#Orden </strong></th>
-    <th style="text-align: justify;"><strong>User Story ID </strong></th>
-    <th style="text-align: justify;"><strong>Título</strong></th>
-    <th style="text-align: justify;"><strong>Descripción</strong></th>
-    <th style="text-align: justify;"><strong>Story Points (1 / 2 / 3 / 5 / 8)</strong></th>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>1</strong></td>
-    <td style="text-align: justify;">US1</td>
-    <td style="text-align: justify;">Crear cuenta común</td>
-    <td style="text-align: justify;">Como usuario, quiero poder crear una cuenta en la plataforma utilizando mi dirección de correo electrónico y una contraseña, para poder acceder a las funciones de la plataforma y personalizar mi experiencia.</td>
-    <td style="text-align: justify;"> 3 </td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>2</strong></td>
-    <td style="text-align: justify;">“US2”</td>
-    <td style="text-align: justify;">Crear cuenta con otras plataformas </td>
-    <td style="text-align: justify;">Como usuario, quiero tener la opción de registrarme en la plataforma utilizando las credenciales de otras redes sociales o servicios (por ejemplo, Facebook o Google), para simplificar el proceso de registro y acceso</td>
-    <td style="text-align: justify;"> 5 </td>
-  </tr>
-  <tr>
-    <td style="text-align: justify;"><strong>3</strong></td>
-    <td style="text-align: justify;">US3 </td>
-    <td style="text-align: justify;">Entrar a la página como invitado</td>
-    <td style="text-align: justify;">Como usuario, quiero tener la opción de explorar la plataforma como invitado, sin necesidad de registrarse o iniciar sesión, para conocer las características básicas antes de comprometerme con una cuenta.</td>
-    <td style="text-align: justify;"> 2 </td>
-  </tr>
-<tr>
-    <td style="text-align: justify;"><strong>4</strong></td>
-    <td style="text-align: justify;">US4</td>
-    <td style="text-align: justify;">Catálogo de Bares</td>
-    <td style="text-align: justify;">Como usuario, quiero poder explorar un catálogo de bares disponibles en la plataforma, para conocer las opciones cercanas a mi ubicación o preferencias.</td>
-    <td style="text-align: justify;"> 4 </td>
-  </tr>
-<tr>
-    <td style="text-align: justify;"><strong>5</strong></td>
-    <td style="text-align: justify;">US5</td>
-    <td style="text-align: justify;">Añadir bar</td>
-    <td style="text-align: justify;">Como propietario de un bar, quiero poder agregar mi bar a la plataforma proporcionando detalles como el nombre del bar, ubicación, horario de apertura y cierre, tipo de cocina, y otros detalles relevantes.</td>
-    <td style="text-align: justify;"> 8 </td>
-  </tr>
-<tr>
-    <td style="text-align: justify;"><strong>6</strong></td>
-    <td style="text-align: justify;">US6</td>
-    <td style="text-align: justify;">Modificar mi Bar</td>
-    <td style="text-align: justify;"> Como propietario de un bar, quiero tener la capacidad de editar la información de mi bar en la plataforma, incluyendo detalles como el horario de funcionamiento, el menú, la ubicación, etc.</td>
-    <td style="text-align: justify;"> 6 </td>
-  </tr>
-<tr>
-    <td style="text-align: justify;"><strong>7</strong></td>
-    <td style="text-align: justify;">US7</td>
-    <td style="text-align: justify;">Eliminar mi Bar</td>
-    <td style="text-align: justify;">Como propietario de un bar, quiero poder eliminar mi bar de la plataforma si ya no está en funcionamiento o si ya no deseo estar listado en ella.</td>
-    <td style="text-align: justify;"> 4 </td>
-  </tr>
-<tr>
-    <td style="text-align: justify;"><strong>8</strong></td>
-    <td style="text-align: justify;">US8</td>
-    <td style="text-align: justify;">Mostrar mesas disponibles</td>
-    <td style="text-align: justify;">Como usuario, quiero ver la disponibilidad de mesas en los bares registrados en la plataforma para planificar mi visita.</td>
-    <td style="text-align: justify;"> 3 </td>
-  </tr>
-<tr>
-    <td style="text-align: justify;"><strong>9</strong></td>
-    <td style="text-align: justify;">US9</td>
-    <td style="text-align: justify;">Reservar mesas</td>
-    <td style="text-align: justify;">Como usuario, quiero poder reservar una mesa en un bar seleccionado, proporcionando detalles como la fecha, hora, número de personas y preferencias específicas.
-</td>
-    <td style="text-align: justify;"> 7 </td>
-  </tr>
-<tr>
-    <td style="text-align: justify;"><strong>10</strong></td>
-    <td style="text-align: justify;">US10</td>
-    <td style="text-align: justify;">Almacén de los productos</td>
-    <td style="text-align: justify;">Como propietario de un bar, quiero gestionar un almacén de productos en la plataforma, para tener un registro de los productos disponibles en mi establecimiento.</td>
-    <td style="text-align: justify;"> 5 </td>
-  </tr>
-<tr>
-    <td style="text-align: justify;"><strong>11</strong></td>
-    <td style="text-align: justify;">US11</td>
-    <td style="text-align: justify;">Administrar los productos</td>
-    <td style="text-align: justify;">Como propietario de un bar, quiero poder agregar, editar y eliminar productos en mi almacén, incluyendo detalles como el nombre del producto, precio, descripción y cantidad en stock.</td>
-    <td style="text-align: justify;"> 6 </td>
-  </tr>
-</table>
+
+<br><br>
+| <div align='center'> Orden | <div align='center'> User Story ID | <div align='center'> Descripción | <div align='center'> Story Points | 
+|---------|---------------|--------------------------------------------------------|------------------------|
+| 1       | US-002        | Promociones y Ofertas: Como usuario, deseo encontrar información actualizada sobre promociones. | <div align='center'> 3 |
+| 2       | US-003        | Registro de Usuarios Nuevos: Como usuario nuevo, quiero registrarme y obtener un descuento | <div align='center'> 3 |
+| 3       | US-004        | Exploración de Eventos Pasados:Como usuario interesado en eventos, quiero ver imágenes de eventos pasados. | <div align='center'> 3 |
+| 4       | US-005        | Testimonios de Clientes: Como usuario, deseo leer testimonios de clientes satisfechos.| <div align='center'> 3 |
+| 5       | US-006        | Información de Contacto: Como usuario, quiero encontrar información de contacto clara. | <div align='center'> 3 |
+| 6       | US-008        | Ubicación en el Mapa: Como usuario, quiero un mapa interactivo para encontrar LOYALSIPS. | <div align='center'> 3 |
+| 7       | US-014        | Exploración de Testimonios: Como usuario, deseo encontrar testimonios de clientes satisfechos. | <div align='center'> 3 |
+| 8       | US01          | Combinación de Estilos en la Estética: 	Implementar estrategias de marketing que combinen elementos vintage y modernos en la estética del bar.                 | <div align='center'> 3 |
+| 9       | US02          | Estrategia de Marketing Digital: Como propietario del bar, quiero una estrategia de marketing digital centrada en las redes sociales como Facebook, Twitter e Instagram                        | <div align='center'> 3 |
+| 10      | US13          | Tendencias Actuales en la Industria: Como propietario del bar, necesito estar al tanto de las tendencias actuales en la industria de bares, especialmente en la combinación de elementos vintage y modernos, para mantenernos competitivos                   | <div align='center'> 3 |
+| 11      | US-010        | Accesibilidad Móvil: Como usuario de dispositivos móviles, quiero una página responsive.| <div align='center'> 3 |
+| 12      | EPIC-018      | Información de Contacto: Como visitante del sitio web, quiero encontrar información de contacto. | <div align='center'> 3 |
+| 13      | EPIC-019      | Testimonios y Reseñas: Como visitante del sitio web, quiero leer testimonios y reseñas de clientes satisfechos. | <div align='center'> 3 |
+| 14      | US03          | Promociones para Clientes Registrados: Como propietario del bar, quiero agregar un apartado en el sitio web que ofrezca promociones especiales a los clientes registrados.                 | <div align='center'> 3 |
+| 15      | US04          | Sistema de Acumulación de Puntos: Como propietario del bar, quiero implementar un sistema de acumulación de puntos para fomentar la lealtad de los clientes. | <div align='center'> 5 |
+| 16      | US05          | Mejora del Proceso de Toma de Pedidos: Como propietario del bar, quiero mejorar el proceso de toma de pedidos en el establecimiento. | <div align='center'> 5 |
+| 17      | US08          | Seguimiento de la Satisfacción del Cliente:  Como propietario del bar, necesito realizar un seguimiento de la satisfacción del cliente y lograr un aumento del 12.8% en comentarios positivos en comparación con la competencia. | <div align='center'> 5 |
+| 18      | US11          | Segmentación de Clientes: Como propietario del bar, necesito segmentar a los clientes por frecuencia de visita y preferencias de bebidas para personalizar promociones. | <div align='center'> 5 |
+| 19      | US12          | Programa de Fidelización de Clientes: Como propietario del bar, necesito implementar un programa de fidelización de clientes a través de acumulación de puntos.| <div align='center'> 5 |
+| 20      | EPIC-016      | Navegación Intuitiva: Como visitante del sitio web, quiero una navegación intuitiva.| <div align='center'> 5 |
+| 21      | EPIC-017      | Contenido Atractivo: Como visitante del sitio web, quiero contenido atractivo y relevante. | <div align='center'> 5 |
+| 22      | US09          | Análisis del Comportamiento de Gasto: Como propietario del bar, necesito analizar el comportamiento de gasto de los clientes en función de la hora del día y los días de la semana.| <div align='center'> 5 |
+| 23      | US10          | Adaptación del Menú y Oferta de Bebidas: Como propietario del bar, necesito adaptar el menú y la oferta de bebidas en función de las preferencias de los clientes. | <div align='center'> 5 |
+| 24      | EPIC-022      | Experiencia Responsiva: Como visitante del sitio web desde dispositivos móviles, quiero una experiencia responsiva.| <div align='center'> 5 |
+| 25      | US-001        | Página Principal Atractiva: Como usuario, quiero ver una página principal atractiva sobre LOYALSIPS. | <div align='center'> 5 |
+| 26      | US-007        | Exploración del Menú: Como usuario, deseo ver el menú de bebidas y alimentos. | <div align='center'> 5 |
+| 27      | US-009        | Noticias y Eventos Futuros: Como usuario, quiero ver noticias y eventos futuros. | <div align='center'> 5 |
+| 28      | US-013        | Experiencia en Dispositivos Móviles:Como usuario, quiero una experiencia fluida en dispositivos móviles. | <div align='center'> 5 |
+| 29      | EPIC-020      | Mejora de la Experiencia del Cliente: Mejorar la experiencia del cliente en el bar, basado en los comentarios y sugerencias recopilados.| <div align='center'> 8 |
+| 30      | EPIC-021      | Acceso a Redes Sociales: Como visitante del sitio web, quiero acceso a las redes sociales de LOYALSIPS. | <div align='center'> 8 |
+| 31      | EPIC-023      | Idiomas Adicionales: Como visitante del sitio web, quiero la opción de cambiar el idioma.| <div align='center'> 8 |
+| 32      | EPIC-024      | Política de Privacidad: Como visitante del sitio web, quiero acceder a la política de privacidad.| <div align='center'> 8 |
+| 33      | US-015        | Información de Reservas: Como usuario, quiero poder realizar reservas de mesas desde la página principal. | <div align='center'> 5 |
+| 34      | EPIC02        | Mejora de la Experiencia del Cliente: Mejorar la experiencia del cliente en el bar, basado en los comentarios y sugerencias recopilados.| <div align='center'> 8 |
+| 35      | US06          | Sistema de Gestión de Inventarios: Desarrollar un sistema de gestión de inventarios fácil y dinámico de usar.| <div align='center'> 8 |
+| 36      | EPIC03        | Análisis y Seguimiento: Realizar análisis y seguimiento de la operación del bar, incluyendo satisfacción del cliente, comportamiento de gasto y preferencias de bebidas. | <div align='center'> 8 |
+| 37      | EPIC04        | Fidelización de Clientes y Segmentación: Implementar estrategias de fidelización de clientes y segmentación para aumentar la lealtad de los clientes y comprender mejor sus necesidades. | <div align='center'> 8 |
+| 38      | US-012        | Sistema de Gestión de Inventarios: Como usuario, deseo un sistema de gestión de inventarios. | <div align='center'> 8 |
+| 39      | EPIC01        | Estrategias de Marketing y Promoción: Desarrollar estrategias de marketing y promoción efectivas para atraer y retener clientes en el bar. | <div align='center'> 8 |
+ 
+
+
+<br><br>
 
 # CAPÍTULO IV: PRODUCT DESIGN
 
@@ -1330,15 +1381,46 @@ fácil identificación para los usuarios. Tenemos:
 
 ## 4.2.3. SEO Tags and Meta Tags
 
-«meta charset="UTF-8">
-«meta name="Author"lang="es" content= "The Crackelets Group' «meta name="tittle" content="Evento social"»
-«meta name="description"
-content="Sitio web acerca de preferencia de bares">
-«meta name-"application-name" content="The big fun">
-ameta
-name="keywords"
-content="bar,party,availability,music,drinks,girls,stock,places"-
-«meta name="viewport" content="*width=device-width, initial-scale=1.0">
+<p>En esta sección, se presentan las etiquetas que identificarán y le dará originalidad a nuestro sitio web (LoyalSips).</p>  
+
+#### <b>Para el sitio web (Landing Page)</b>  
+
+<p><b>Title:</b></p>
+
+* Título de la Página de Registro: "Regístrate y Gana Descuentos en Bares con LoyalSips" 
+* Título de la Página Principal: "LoyalSips - Tu Lealtad Recompensada en los Mejores Bares". 
+<p><b>Description:</b></p>
+
+* Descripción de la Página Principal: "Descubre LoyalSips, la aplicación que te recompensa por tus visitas a bares favoritos. Acumula puntos y obtén descuentos exclusivos en tragos y cervezas."  
+* Descripción de la Página de Registro: "Regístrate en LoyalSips y comienza a ganar puntos por tus compras en bares. ¡Aprovecha descuentos y ofertas especiales!" 
+<p><b>Keywords:</b></p>
+
+* Palabras Clave Generales: Lealtad en Bares, Descuentos en Bares, Puntos de Lealtad, Evaluación de Bares, Recompensas en Bares, Aplicación Móvil de Bares.  
+* Palabras Clave Específicas: Lealtad en la Vida Nocturna, Descuentos en Tragos, Ofertas de Cerveza, Calificación de Servicio de Bares. 
+<p><b>Authors:</b></p>
+
+* TechSolutions_Teams
+
+#### <b>Para el aplicativo móvil:</b>  
+
+
+<p><b>Title:</b></p>
+
+
+* Título de la Aplicación: "LoyalSips - Lealtad en Bares".    
+* Título de la Página de Registro: "Regístrate y Gana Descuentos en Bares con LoyalSips". 
+<p><b>Description:</b></p>
+
+* Descripción de la Aplicación: "LoyalSips es la aplicación que recompensa tu lealtad en bares. Acumula puntos por tus compras y disfruta de descuentos exclusivos en tragos y cervezas."  
+* Descripción de la Página de Registro: "Regístrate en LoyalSips y comienza a ganar puntos por tus compras en bares. ¡Aprovecha descuentos y ofertas especiales!" 
+<p><b>Keywords:</b></p>
+
+* Palabras Clave Generales: Lealtad en Bares, Descuentos en Bares, Puntos de Lealtad, Evaluación de Bares, Recompensas en Bares, Aplicación Móvil de Bares. 
+* Palabras Clave Específicas: Lealtad en la Vida Nocturna, Descuentos en Tragos, Ofertas de Cerveza, Calificación de Servicio de Bares. 
+<p><b>Authors:</b></p>
+
+* TechSolutions_Teams
+
 
 ## 4.2.4. Searching Systems.
 <p> En esta sección se presentarán los sistemas de búsqueda que se implementaran en la aplicación y la página web. Al hacer uso de esos sistemas, los usuarios podrán encontrar la información que requieren de diversas maneras.</p>
@@ -1439,13 +1521,15 @@ Para la elaboración del Mock-up del Landing page tanto para el apartado de escr
 
   <tr>
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155322587421888532/desktop-mock-up.png?">
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155582671615963136/Landing-Page-Mock-up.png">
       </div>
   </tr>
 
 <br>
 
-Link del [figma de escritorio](https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1)
+Link del [figma de escritorio](https://www.figma.com/file/E9eMnYI5CSVV8spAwLQYZq/Landing-Page?type=design&node-id=0%3A1&mode=design&t=WYpKs88LfehNolkz-1)
+
+
 
 ---
 
@@ -1834,7 +1918,19 @@ Para la implementación de los Mock-ups de las aplicaciones web, se siguieron lo
 
 - **Accesibilidad:** Se utilizó un diseño que permite a los usuarios acceder a la aplicación desde cualquier dispositivo. Esto ayuda a los usuarios a utilizar la aplicación en cualquier momento y lugar.
 
+**Web Application Mock-up para Desktop**
 
+  <tr>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155322587421888532/desktop-mock-up.png?">
+      </div>
+  </tr>
+
+<br>
+
+Link del [figma de escritorio](https://www.figma.com/file/WvBHU5rWPbgabHex3Er6jj/Landing-Page---LoyalSips?type=design&node-id=0%3A1&mode=design&t=E225PHq1IOJ3VIcx-1)
+
+**Web Application Mock-up para Mobile**
 
 Para el **sector Empresarial** se realizó el diseño que se muestra a continuación:
 
@@ -2226,7 +2322,7 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
  <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150053277724053534/structurizr-Container-001_2.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988320766136320/Container.png"></div>
     </td>
   </tr>
 
@@ -2234,27 +2330,38 @@ Sobre Software Architecture Container Diagrams, son representaciones visuales qu
 
 Con respecto a Software Architecture Components Diagrams, son representaciones visuales que ilustran cómo los sistemas de software se componen en diferentes módulos o componentes, mostrando las relaciones y dependencias entre ellos. 
 
-**Api Aplication:**  
 
-  <tr>
+  **Payment Bounded Context:** 
+    <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150098538810847333/structurizr-Component-001_1.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988320183140362/Payment_Bounded_Context.png"></div>
     </td>
   </tr>
-<br>
-<br>
 
-  **Landing Page:** 
-  
-  **Mobile App:** 
+  **Personal Data Bounded Context:** 
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988320451571762/Personal_Data_Bounded_Context.png"></div>
+    </td>
+  </tr>
 
-  **Web Aplication:**  
+  **Access Bounded Context:**  
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1150102558770212994/structurizr-Component-001_2.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988321118466149/Access_Content_Bounded_Context_1.png"></div>
+    </td>
+  </tr>
+
+  **User Operation Bounded Context:**  
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988321420447825/Access_Content_Bounded_Context_2.png"></div>
     </td>
   </tr>
 
@@ -2652,146 +2759,164 @@ Con respecto a los conventional commits de nuestro proyecto, como grupo para des
 </tr>
 
 ## 5.1.3. Source Code Style Guide & Conventions.
-Utilizaremos la guía de estilos y convenciones de codificación en C#, que replicamos
-en JavaScript por su similitud, ofrecida por Microsoft.
-Y para el HTML/CSS utilizaremos la guía de estilos desarrollado por la fundación Mozilla:
-Asimismo, utilizaremos las siguientes tecnologías:
 
-• IDEs:
+<p>En esta sección se mostrarán las diferentes pautas para poder mostrar nuestras convenciones, estilos y principios que utilizaremos para cada uno de los lenguajes que se emplearán en la creación de nuestra aplicación. </p>  
 
-➢ Visual Studio Enterprise 2022 (https://code.visualstudio.com/download )
 
-➢ VSCode (https://code.visualstudio.com/download )
+<p><b>Nomenclatura:</b></p>
 
-➢ WebStorm (https://www.jetbrains.com/eses/webstorm/download/#section=windows )
 
-• DevOps:
+<p> - Hemos utilizado nombres de variables, funciones y clases descriptivos y en minúsculas, siguiendo la notación camelCase.  </p>
+<p> -  Para las clases CSS y los identificadores HTML, hemos utilizado nombres en minúsculas separados por guiones (kebab-case).</p>
 
-➢ GitHub (https://docs.github.com/es )
 
-• Lenguajes:
+<p><b> Indentación y Espaciado:</b></p>
 
-➢ C# (https://docs.microsoft.com/en-us/dotnet/csharp/ )
 
-➢ JavaScript (https://developer.mozilla.org/es/docs/Web/JavaScript )
+<p> - Hemos empleado una sangría de 2 espacios para cada nivel de anidación.  </p>
+<p> -  Utilizamos espacios en lugar de tabulaciones.</p>
+<p> -  Dejamos una línea en blanco entre bloques de código lógicos.</p>
+<p> -  Limitamos las líneas de código a 80-100 caracteres de ancho.</p>
 
-➢ CSS (https://developer.mozilla.org/es/docs/Web/CSS )
 
-➢ HTML (https://developer.mozilla.org/es/docs/Web/HTML )
-www.easycloud.ga
-113
+<p><b> Comentarios:</b></p>
+<p> -   Hemos agregado comentarios claros y concisos para explicar el propósito de las funciones, métodos y secciones de código.</p>
+<p> - Documentamos las funciones y métodos utilizando JSDoc o una convención similar. </p>
 
-• Frameworks:
 
-➢ Vue2 (https://vuejs.org/guide/introduction.html )
+<p><b> Organización del Código:</b></p>
+<p> -  Organizamos el código en módulos y componentes separados para facilitar el mantenimiento. </p>
+<p> - Seguimos un patrón de arquitectura, como el patrón MVC (Model-View-Controller) o el patrón de componentes. </p>
 
-➢ Vite (https://vitejs.dev/guide/ )
 
-➢ASP.NET core (https://docs.microsoft.com/enus/aspnet/core/?view=aspnetcore-6.0 )
+<p><b> Estándares de JavaScript:</b></p>
+<p> - Utilizamos ECMAScript 6 (ES6) o versiones posteriores de JavaScript.  </p>
+<p> -  Declara variables utilizando "let" o "const" en lugar de "var".</p>
+<p> - Utiliza "async/await" para las operaciones asincrónicas en lugar de "callbacks". </p>
+<p> - Evitamos el uso excesivo de variables globales. </p>
 
-• Librerías:
 
-Boostrap (https://getbootstrap.com/docs/4.1/gettingstarted/introduction/ )
+<p><b> Estándares de CSS:</b></p>
 
-• Herramientas:
 
-➢ Figma (https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/ )
+<p> -   Utilizamos hojas de estilo en cascada (CSS) y preprocesadores como Sass o LESS para mejorar la legibilidad y el mantenimiento del código CSS.</p>
+<p> -  Agrupamos las reglas CSS por funcionalidad y utilizamos comentarios para indicar secciones significativas.</p>
+<p> -  Minimizamos la especificidad de las reglas CSS y evitamos la anidación excesiva.</p>
 
-➢ Pivotal Tracker (https://www.pivotaltracker.com/help/api/#top )
 
-➢ Microsoft Teams (https://www.microsoft.com/es-ww/microsoftteams/download-app )
+<p><b>Pruebas Unitarias: </b></p>
 
-➢ NodeJS. (https://nodejs.org/es/download/ )
 
-También, las siguientes reglas:
+<p> -  Implementamos pruebas unitarias para las funciones y métodos críticos utilizando un marco de prueba, como Jest o Mocha. </p>  
 
-• Convenciones de idioma:
 
-➢Todo texto utilizado debe ser internalizado en español e inglés.
+<p><b> Control de Versiones:</b></p>
 
-➢ El nombre de variables, funciones y demás artefactos escritos en código deben ser inglés.
 
-• Tecnologías:
+<p> -  Utilizamos un sistema de control de versiones, como Git, y seguimos las mejores prácticas de ramificación y fusionado. </p>
 
-➢ Seguiremos utilizando las tecnologías consideradas para el desarrollo de la
-aplicación durante los siguientes Sprints, como: C#, JavaScript, Html y CSS.
 
-• Herramientas:
+<p><b> Compatibilidad y Rendimiento:</b></p>
+<p> - Aseguramos que el sitio web sea compatible con los navegadores más populares y se cargue de manera eficiente. </p>
 
-➢ Seguiremos utilizando las tecnologías consideradas para el desarrollo de la
-aplicación, durante los siguientes sprints, como: Rider, Visual Studio,
-Github, Git, WebStorm.
+
+<p><b> Seguridad:</b></p>
+<p> -  Implementamos medidas de seguridad para proteger los datos de los usuarios, como la validación de entrada y la prevención de ataques de inyección.</p>
+
 
 
 ## 5.1.4. Software Deployment Configuration.
 
-Para la configuración del despliegue, utilizaremos lo siguiente:
-Landing Page:
 
-• Infraestructura
+<p>En esta situación en equipo ah implementado la configuración de "LoyalSips", permitiendo una gestión eficiente del código fuente en GitHub, despliegues automáticos con GitHub Actions, y asegurando la compatibilidad con servidores web y bases de datos MySQL, garantizando así un funcionamiento suave, seguro y conciso de nuestra aplicación web. </p>  
 
-•Proveedor: Azure
 
-• Servicio: Static Web App
+<p><b> 1. Repositorio de GitHub:</b></p>
 
-• DNS provider: freenom.com
 
-• Automatización: Git Actions
+<p> -  Nuestro proyecto está alojado en un repositorio de GitHub, lo que nos permite gestionar nuestro código fuente de manera colaborativa y realizar un seguimiento de las versiones.</p>  
 
-• URL (Landing Page Desplegada): https://easycloud.tv/
 
-Backend:
-
-• Infraestructura
-
-• Proveedor: Azure
-
-• Servicio: Static Web App
-
-• DNS provider: freenom.com
-
-• Automatización: Git Actions
-
-• URL (Web App Desplegada): https://easycloud.tv/
-
-Frontend:
-
-• Infraestructura
-
-• Proveedor: Azure
-
-• Servicio: Static Web App
-
-• DNS provider: freenom.com
-
-• Automatización: Git Actions
-
-• URL (Web App Desplegada): https://easycloud.tv/
+<p><b> 2. Branch de Desarrollo:</b></p>
+<p> - Utilizamos un enfoque de ramificación en nuestro repositorio de GitHub con una rama principal ("main") para el código de producción y una rama de desarrollo ("develop") para nuevas características y correcciones de errores. </p>  
+<p><b>3. Automatización de Implementación: </b></p>
+<p> - Hemos configurado GitHub Actions para automatizar el proceso de implementación. Las pruebas y los despliegues se realizan automáticamente cuando se realizan cambios en el repositorio. </p>  
+<p><b> 4. Configuración del Servidor:</b></p>
+<p> -  Hemos configurado un servidor web que admite HTML, CSS y MySQL para alojar nuestra aplicación web. El servidor tiene el entorno adecuado para ejecutar nuestra aplicación sin problemas.</p>  
+<p><b>5. Base de Datos: </b></p>
+<p> -  Hemos configurado una base de datos MySQL para almacenar datos importantes de la aplicación, como información de usuarios, bares y ofertas. La base de datos está respaldada regularmente y se toman medidas para garantizar la seguridad de los datos.</p>  
+<p><b>6. Script de Base de Datos: </b></p>
+<p> -  Creamos un script SQL que contiene instrucciones para crear la estructura de la base de datos y cargar datos iniciales.</p>  
+<p><b> 7. Variables de Entorno:</b></p>
+<p> -  Utilizamos variables de entorno para gestionar configuraciones sensibles, como contraseñas de base de datos y claves de acceso a servicios externos. Estas configuraciones no se almacenan en texto plano en nuestro código fuente.</p>  
+<p><b>8. Implementación Manual: </b></p>
+<p> -Realizamos implementaciones manuales utilizando Git para clonar o actualizar nuestro repositorio en el servidor web cuando es necesario. Nos aseguramos de que las rutas de archivo y las configuraciones se actualicen adecuadamente.  </p>  
+<p><b>9. Pruebas de Implementación: </b></p>
+<p> - Antes de cada implementación en producción, realizamos pruebas exhaustivas en un entorno de desarrollo o prueba para identificar y corregir posibles problemas. </p>  
+<p><b> 10. Monitorización y Mantenimiento:</b></p>
+<p> - Configuramos herramientas de monitorización y gestión de registros para supervisar la salud de nuestra aplicación en producción. También establecimos un plan de mantenimiento regular para aplicar actualizaciones y correcciones de seguridad.</p>
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+
+<p>En esta sección el equipo ha implementado a la página de inicio, servicios y aplicaciones de "LoyalSips" que se enfoca en presentar de manera efectiva los bares y ofertas, permitiendo a los usuarios buscar, reservar y calificar, tanto en el sitio web como en la aplicación móvil.</p> 
 
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1.
 
 
-|              Sprint #             |                                                                                                                                                                                      Sprint 1                                                                                                                                                                                      |
-|:---------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   **Sprint Planning Background**  |                                                                                                                                                                                                                                                                                                                                                                                    |
-|                Date               |                                                                                                                                                                                     2020-09-06                                                                                                                                                                                     | 
-|                Time               |                                                                                                                                                                                      02:45 PM                                                                                                                                                                                      | 
-|              Location             |                                                                                                                                                                              Mediante Sala de Discord                                                                                                                                                                              | 
-|            Prepared By            |                                                                                                                                                                           López Huarcaya, Leonardo Paul                                                                                                                                                                            | 
-|  Attendees (to planning meeting)  |                                                                                                                                                       Leonardo Lopez/ Sandro Alarcon/ Louis Alfaro/Jose Ampudia/ Jean Morin                                                                                                                                                        | 
-|    Sprint n – 1 Review Summary    |                                                                                                                                                                                                                                                                                                                                                                                    | 
-| Sprint n – 1 Retrospective Summary |                                                                                                                                                                                                                                                                                                                                                                                    | 
-|  **Sprint Goal & User Stories**   |                                                                                                                                                                                                                                                                                                                                                                                    |
-|           Sprint 1 Goal           | Desarrollar y lanzar una infrasestructura y documentación del del sistema de gestión de bares que permita a los propietarios registrar menús, gestionar pedidos y realizar un seguimiento de las ventas, con un enfoque en la usabilidad y la estabilidad, con el objetivo de tener una solución funcional lista para pruebas de usuario al final de esta iteración de dos semanas |
-|         Sprint n Velocity         |                                                                                                                                                                     Para este sprint se estimo 20 Story Points                                                                                                                                                                     |
-|        Sum of Story Points        |                                                                                                                                                                 La suma total de Story Points de este sprint es 18                                                                                                                                                                 |
-
-
-
+<table align="center">
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1</th>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Planning Background</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Date</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2023-08-30</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Time</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">20:03 PM</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Location</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se llevo una reunión virtual para conversar en relación a los deberes que cada uno debe desarrollar – acordado todo ello en la plataforma de videoconferencia “Google Meet” -.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Prepared By</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">José Carlos Isaac Ampudia Flores</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Alfaro Coveñas, Louis Piero 	 / López Huarcaya, Leonardo Paul</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1 - Review Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Desarrollamos la primera versión de nuestro “Landing page” - representativo de nuestro startup -, asemejando las ideas y sugerencias que nuestros entrevistados nos sugirieron para adecuar tanto los colores, como las dimensiones e interacciones que tendrá dentro su proceso de interacción. No hemos recibido “feedbacks”, pero para el siguiente “sprint” nos estaremos comunicando con ellos para que nos brinden unas sugerencias de como se ve este primer boceto y en que podemos mejorar para las siguientes entregas.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1 - Retrospective Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Con respecto a las opiniones que enmarcamos cada uno de nosotros, sentimos que este primer boceto del “Lading page”, a quedado de lo mejor. Claramente, nos faltaría arreglar algunos cuantos iconos y añadir nuevas funcionalidades; pero, prácticamente eso sería lo único en lo cual hemos diferido un poco entre todos.</td>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1 Goal</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El objetivo que se tuvo para este sprint mayormente fue abarcando el lado visual que tendrá el invitado al momento de observar el “Lading page” así como la sección de comentarios para que los usuarios puedan dejar los comentarios o valoraciones en el bar que han visitado.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 1 Velocity</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este _sprint,_ el equipo de desarrollo llegó a un acuerdo en aceptar sin ningún altercado un enfoque de 3 “story points” para este Sprint 1.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, solo hemos abarcado en este _sprint_ el _User Story_ con identificador “HU03” el cual equivale 3 puntos.</td>
+</tr>
+</table>
 
 #### 5.2.1.2. Sprint Backlog 1.
 
@@ -2814,7 +2939,49 @@ Frontend:
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-Por el momento esta sección aun no ha sido implementada, para las siguientes entregas estará completa.
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Branch</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit ID</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message Body</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Main</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">53dbf63</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">First commit</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se creó el proyecto</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">09/09/23 02:34:33 AM</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/TS-LadingPage-Complete</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2efc62ea98b24baaf464b47c28c056b8c343cf17</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat-home-section add</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se creo el apartado _home_ con la primera vista del <strong>“Landing page”</strong></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">09/09/23 02:47:54 AM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/IsaacAmp24/LoyalSips-LandingPage">https://github.com/IsaacAmp24/LoyalSips-LandingPage</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Feature/TS-LadingPage-Complete</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">bd4d5c722a94c87960fb8c0bee8915689200f2da</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">LandingPage-Complete add</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se desarrollo el apartado del <em>footer</em>, apartado de comentarios y cambios en la paleta de colores para la muestra del <strong>“Landing page”</strong></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">09/09/23 15:54:46 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Develop</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5fb19f51a13a24c872b936b5b76599e72f357daf</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">This is develop</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se desarrolló el <em>merge</em> para unir todas las <em>branches</em>.</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">09/09/23 15:55:32 PM</td>
+</tr>
+</table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo del despliegue del Landing page. En esta sección presentamos la implementación del Landing page, tratando de alcanzar el diseño original que se realizó en Figma, de tal modo que el usuario tenga una buena experiencia de usuario.
@@ -2922,6 +3089,95 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
     </td>
 </tr>
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint planning 2.
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop.
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Web-Application](https://github.com/Aplicaciones-Web-Point-bar/Frontend_LoyalSips.git) | Feature/TS-Web-Application | feature:home-section add     | Initial commit | Se creó el proyecto | 25/09/2023|
+
+<br>
+
+| Web Application Desplegada                                          |[Web Application Loyal-Sips]()                | 
+|---------------------|---------------------|
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+En el sprint 2, se logró implementar la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales, este apartado se realizó respetando los principios de diseño que se presentaron en el Diseño de Figma, además se tuvo en cuenta la experiencia de usuario para que el usuario pueda interactuar de manera intuitiva con el Web Application. A continuación se muestran algunas evidencias de lo mencionado.
+
+1. Se muestra la sección de **Home**, en el cual el usuario podrá observar el menú de opciones y podrá interactuar con ello.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+  </tr><br>
+
+  2. Se muestra la sección de **About**, en el cual el usuario podrá observar la información acerca de la empresa.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+  </tr><br>
+
+  3. Se muestra la sección de **Contact**, en el cual el usuario podrá observar la información de contacto de la empresa.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+</tr><br>
+
+4. Se muestra la sección de **Services**, en el cual el usuario podrá observar los servicios que ofrece la empresa.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+</tr><br>
+
+5. Se muestra la sección de **Support**, en el cual el usuario podrá observar los servicios de soporte que ofrece la empresa.
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+    </td>
+</tr><br>
+
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+
+
 
 ## Conclusiones y recomendaciones.
 
@@ -2935,6 +3191,21 @@ Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la 
 https://drive.google.com/file/d/1ET_5D6EqUCFAp90LES0_h5k-oqez2F-x/view?usp=sharing
 
 ## Bibliografía
+
+- Drink Go: Pide y paga sin cola - Aplicaciones en Google Play. (n.d.). Retrieved from https://play.google.com/store/apps/details?id=com.ingencode.drinkgo&hl=es&gl=US&pli=1
+
+- TPV con Control de Ventas e Inventario: App y PC. (n.d.). Retrieved from https://www.appkyte.com/
+
+- (N.d.). Retrieved from https://www.yelp.com/
+
+- Java Documentation - Get Started. (2023). Retrieved from https://docs.oracle.com/en/java/
+ 
+- MozDevNet. (n.d.). JavaScript. Retrieved from https://developer.mozilla.org/es/docs/Web/J
+
+- The starting point for learning TypeScript. (n.d.). Retrieved from https://www.typescriptlang.org/docs/
+
+- Java Documentation - Get Started. (2023). Retrieved from https://docs.oracle.com/en/java/
+
 ## Anexos
 <div align="center">Anexos A: Historial de vinculos</div>
 <br>
