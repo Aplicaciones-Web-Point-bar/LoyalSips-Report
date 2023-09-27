@@ -2439,10 +2439,7 @@ En el diseño de bases de datos para bares, se deben considerar elementos como l
 
 ### 4.8.1. Database Diagram
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/969784880017842216/1149495852549799956/Diagrama_de_Clases_Point_Bar-2023-09-07_19-00.png?width= " height=auto></div>
-    </td>
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1156627281452736522/image.png?ex=6515a898&is=65145718&hm=75eb2c2a38f63b036c5db8f74c1794bbf47bc353fc9810638fef8fd7709583e4&">
 </tr>
 
 ---
