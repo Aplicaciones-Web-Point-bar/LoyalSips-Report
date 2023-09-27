@@ -8,13 +8,14 @@
 
 <br>
 
-## <center>Ingeniería de Software</center>
+## <center>Ingeniería de Software 2023-2</center>
 ### <center>Aplicaciones Web - SI730 </center>
-## Informe de TB1
-- **Sección:** SW51
-- **Docente:** Juan Carlos Tinoco Licas
-- **Ciclo:** 2023-02
-- **Nombre del grupo:** Team 4
+
+### Docente: Juan Carlos Tinoco Licas
+
+## Informe de Trabajo Final
+
+- **Nombre del grupo:** TeachSolutions
 - **Nombre de la Startup:** LoyalSlip
 
 ## Integrantes
