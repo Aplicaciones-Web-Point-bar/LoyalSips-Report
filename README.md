@@ -2343,7 +2343,7 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988320451571762/Personal_Data_Bounded_Context.png"></div>
+      <img src="https://media.discordapp.net/attachments/1093325259530321921/1156418611611701339/Personal_Data.png"></div>
     </td>
   </tr>
 
