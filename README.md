@@ -2533,11 +2533,9 @@ Para ello, tenemos la misma documentación actual que explica como funciona.
 ### 5.1.2. Source Code Management.
 Para la siguiene sección, Source Code Management nos hace referencia a la funcion de seguimiento de modificaciones que los integrantes del equipo ejerce durante el desarollo del proyecto hasta su conclusion de este mismo. Para ello, cabe mencionar la importacia de un repositorio o sistema  de control de versiones el cual es Github. 
 
-Landing Page,  
+Landing Page: https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-LandingPage
 
-Web Services,  
-
-Frontend Web Applications. 
+Frontend Web Applications:  https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin
 
 ### Gitflow 
 
