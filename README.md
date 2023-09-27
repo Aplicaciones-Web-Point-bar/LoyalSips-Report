@@ -254,7 +254,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           -Colaboró con la implementacion Lean UX Canvas, Segmento Objetivo, Registro de entrevistas, User Journey Mapping, Empathy Mapping, Product Backlog.<br><br>
           <strong>López, Leonardo</strong><br>
           <strong>TB1:</strong><br>
-          Asistió parcialmente a reuniones claves organizadas por el equipo de trabajo, aportando parcialmente ideas para la solución del proyecto. No realizó sus tareas establecidas a tiempo, lo cual perjudicó de forma clara el avance óptimo del proyecto.<br><br>
+          Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
           -Colaboró con la implementacion del Lean UX Problem Statements, As-is Scenario Mapping, User Stories, Sprint Planing 1, Sprint Backlog 1, no cumplió con el Development Evidence for Sprint Review.
         </td>
         <td><strong></strong><br>
@@ -281,7 +281,11 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <br><br>
           <strong>López, Leonardo</strong><br>
           <strong>TB1</strong><br>
-          Posee conocimientos en C++, HTML, CSS y Java Script, como tambien otros lenguajes.
+          Posee conocimientos en git hub, git flow y el formato MarkDown, como tambien algunos lenguajes.
+            <br><br>
+            <strong>TP1:</strong><br>
+          Posee conocimientos en lenguajes de progamación como HTML, CSS, Java Script y algunos framework como Angular Y Vue.
+            <br><br>
     </td>
     <td><strong></strong><br>La capacidad de manejar varios lenguajes de programación es bastante importante, lo cual influyó mucho para la elaboración del trabajo, dentro de ellos está el conocimiento de los lenguajes de HTML, CSS y Java Script, para la implementación de la Landing Page de manera correcta, por otro lado, la capacidad de poder manejar os diagramas de modelado C4, lo cual nos ayudó a mostrar de diferentes maneras el enfoque que tendrá nuestro proyecto final, no dejemos de lado la herramienta Figma, que nos sirvió para realizar el diseño del proyecto, y de esta manera poder ayudarnos para la implementación de la Landing Page.</td>
   </tr>
