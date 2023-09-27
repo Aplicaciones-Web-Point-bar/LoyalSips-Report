@@ -32,13 +32,20 @@
 
 ## Registros de versiones del Informe
 
-|   Version     |   Fecha   | Autor                   |   Descripción de la modificación|
-|:-------------:|:---------:|:------------------------|:------------------------|
-|1              |   28/08/2023    | Ampudia Flores          |- Implementó el diseño del figma tanto para desktop como para movil, además la codificacción de la Landing Page desplegable. |
-|1              |   29/08/2023   | Alarcon Rondon          |- Implementó los diagramas en el modelo C4, como la configuracion de como se realizo el desarrollo del presente trabajo, en el cual se utilizó Github con el apoyo de Gitflow |
-|1              |   30/08/2023        | Morin Fuentes           |- Implementó los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma. |
-|1              |  06/09/2023  | Louis Alfaro Coveñas    |- Implementó el apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos. |
-|1              |  08/09/2023 | Leonardo López Huarcaya |- Implementó el Sprint Planing 1, como el Sprint Backlog 1, no logró completar el Development Evidence for Sprint Review. |
+| Version |   Fecha    | Autor                                | Descripción de la modificación                                                                                                                                                   |
+|:-------:|:----------:|:-------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1    | 28/08/2023 | Ampudia Flores                       | - Implementó el diseño del figma tanto para desktop como para movil, además la codificacción de la Landing Page desplegable.                                                     |
+|    1    | 29/08/2023 | Alarcon Rondon                       | - Implementó los diagramas en el modelo C4, como la configuracion de como se realizo el desarrollo del presente trabajo, en el cual se utilizó Github con el apoyo de Gitflow    |
+|    1    | 30/08/2023 | Morin Fuentes                        | - Implementó los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma.                                                          |
+|    1    | 06/09/2023 | Louis Alfaro Coveñas                 | - Implementó el apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos.                                  |
+|    1    | 08/09/2023 | Leonardo López Huarcaya              | - Implementó el Sprint Planing 1, como el Sprint Backlog 1, no logró completar el Development Evidence for Sprint Review.                                                        |
+|    2    | 15/09/2023 | Ampudia Flores                       | - Corrección del diseño del figma tanto para desktop como para movil, además la codificacción de la Landing Page desplegable.                                                    |
+|    2    | 20/09/2023 | Alarcon Rondon                       | - Corrección de los diagramas en el modelo C4, como la configuracion de como se realizo el desarrollo del presente trabajo, en el cual se utilizó Github con el apoyo de Gitflow |
+|    2    | 22/09/2023 | Morin Fuentes                        | - Corrección de los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma.                                                       |
+|    2    | 19/09/2023 | Louis Alfaro Coveñas                 | - Corrección del apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos.                                 |
+|    2    | 22/09/2023 | Leonardo López Huarcaya              | - Corrección del Sprint Planing 1, como el Sprint Backlog 1 y el Development Evidence for Sprint Review.                                                                         |
+|    2    | 20/09/2023 | Leonardo López <br/> Ampudia Flores <br/>Alarcon Rondon<br/>Morin Fuentes<br/>Louis Alfaro Coveñas  | Primera versión del frontend, agregando los componentes mas escenciales.<br/>Correvión de la landing page                                                                        |
+
 
 <br>
 
