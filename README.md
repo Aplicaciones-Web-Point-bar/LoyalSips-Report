@@ -3122,7 +3122,26 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 |        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
 |       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
 
-#### 5.2.2.2. Sprint Backlog 2.
+#### 5.2.2.2 Sprint Backlog 2
+
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
+
+
+|   Sprint #    |     Sprint 1     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Alfaro Coveñas, Louis Piero       | In-Process|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Alfaro Coveñas, Louis Piero      | In-Process|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Alarcón Rondón Sandro Fourfive | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Morin Fuentes. Jean Pierre       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Ampudia Flores, José Carlos Isaac       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Ampudia Flores, José Carlos Isaac            | Done|
+
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
