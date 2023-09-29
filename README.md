@@ -3103,7 +3103,24 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint planning 2.
+#### 5.2.2.1 Sprint Planning 2
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega.
+
+|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-09-21                                                                                                               |
+|              Time               |                                                                                                                11:24 AM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                    Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Alfaro Coveñas, Louis Piero 	 / López Huarcaya, Leonardo Paul                                     |
+|     Sprint 1 Review Summary     |                                                                                           Se alcanzo diseñar las 2 HU de nuestro landing page                                                                                           |
+| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
+|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
+|       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
 
 #### 5.2.2.2. Sprint Backlog 2.
 
