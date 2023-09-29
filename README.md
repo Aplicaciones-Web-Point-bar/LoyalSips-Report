@@ -59,6 +59,8 @@ Para la entrega del informe, se ha utilizado el siguiente repositorio de GitHub,
 | Link del repositorio | https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-TB1-Origin.git |
 |--|--|
 
+Link del video de exposicion: https://drive.google.com/drive/folders/1RP4wDkWHZFEQK1r9VCYfjRamnhmdURbj?usp=sharing
+
 A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe.
 
 <table style="margin: 0 auto;">
@@ -3211,7 +3213,7 @@ Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Lan
 
 <br>
 
-| Web Application Desplegada                                          |[Web Application Loyal-Sips]()                | 
+| Web Application Desplegada                                          |[Web Application Loyal-Sips](https://webloyalsips.web.app)                | 
 |---------------------|---------------------|
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
@@ -3266,24 +3268,65 @@ En el sprint 2, se logró implementar la primera versión del Web Application, e
 
 **Para el Web Application:**
 
-  <tr>
+<tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1157154081429794896/image.png"></div>
     </td>
   </tr>
-  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157154315874611201/image.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156881747238203433/Captura_de_pantalla_2023-09-28_041451.png"></div>
     </td>
   </tr>
-    <tr>
+
+
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212040671268874/image.png"></div>
+    </td>
+  </tr>
+
+
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212233923838033/image.png"></div>
+    </td>
+  </tr>
+
+
+
+<tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157154954646126634/image.png"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156847998140162080/Captura_de_pantalla_2023-09-28_015610.png"></div>
     </td>
-  </tr><br>
+</tr>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212614137491486/Captura_de_pantalla_2023-09-29_020935.png"></div>
+    </td>
+</tr>
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212790755426354/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212873290948628/image.png"></div>
+    </td>
+</tr>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -3345,6 +3388,25 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1156881747238203433/Captura_de_pantalla_2023-09-28_041451.png"></div>
     </td>
   </tr>
+
+
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212040671268874/image.png"></div>
+    </td>
+  </tr>
+
+
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212233923838033/image.pngs"></div>
+    </td>
+  </tr>
+
+
+
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
@@ -3354,7 +3416,23 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://cdn.discordapp.com/attachments/1146639921830973515/1157170437286019112/image.png?ex=6517a273&is=651650f3&hm=eefce15bff16bc7eb3523ff8a388747a2c9f6594b3d9828b0c7feba324adac24&"></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212614137491486/Captura_de_pantalla_2023-09-29_020935.png"></div>
+    </td>
+</tr>
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212790755426354/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212873290948628/image.png"></div>
+
     </td>
 </tr>
 
