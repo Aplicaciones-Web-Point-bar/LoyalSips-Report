@@ -238,6 +238,18 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8 Team Collaboration Insights during Sprint](5218-team-collaboration-insights-during-sprint)
+        <br>
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
+
+
 
 
 
@@ -3126,6 +3138,60 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint planning 2.
+
+
+<table align="center">
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2</th>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Planning Background</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Date</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2023-09-25</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Time</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">16:10 PM</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Location</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El lugar de reunión fue en la plataforma de videoconferencia virtual <strong>“Google Meet”</strong>, de lo cual se desarrolló para conversar en relación a los deberes que cada uno debe desarrollar para este <em>sprint 2.</em> -.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Prepared By</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, Jose Carlos Isaac</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Lopez Huarcaya, Leonardo / Huamani Sánchez, José Diego</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 - Review Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se desarrolló la versión actualizada del <strong>“Landing page”</strong> de nuestro <em>startup</em>, asemejando la inclusión de los nuevos <em>user stories</em> que nos corresponden para este nuevo <em>sprint</em>. Adicional a ello, se elaboró la primera versión de nuestro <strong>“Web Application”</strong>, añadiendo las funcionalidades óptimas que solicitan tanto los clientes como los empresarios que interactuarán con el mismo. Con respecto a los <em>feedbacks</em>, hemos recibido que a les gustaría que el <strong>“Landing page”</strong> tenga un poco más de interacción para que logre llamar más la atención de más personas.</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 - Retrospective Summary</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta sección, los <em>team members</em> sentimos que las nuevas funcionalidades añadidas al <strong>“Landing page”</strong>, fueron unas de las más acertadas – conllevando a una nueva perspectiva del mismo -. Sin embargo, en el caso del <strong>“Web Application”</strong>, hemos sentido que pudieron mejorarse algunas funcionales en el <em>CRUD.</em></td>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 Goal</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El principal objetivo que se tuvo para este <em>sprint 2</em>, se focalizó en el lado funcional y mejoras visuales en la versión del <strong>“Landing Page”.</strong> Por otro lado, con respecto al <strong>“Web Application”</strong> se enfocó en la parte funcional en los apartados interactivos como los son el segmento de “Soporte” y “Contacto” aplicando el sistema <em>CRUD.</em> </td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 Velocity</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este <em>sprint</em>, el <strong>“Scrum Developer Team”</strong> llegó a un acuerdo en aceptar sin ningún altercado un enfoque de 26 <em>story points</em> para este <em>Sprint 2.</em></td>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, hemos abarcado en este sprint los <em>User Story</em> con identificadores <strong>“US13”</strong> equivale 5 puntos, <strong>“US14”</strong> 3 puntos, <strong>“US16”</strong> el cual equivale 5 puntos, el <strong>“US17”</strong> que equivale 5 puntos, el <strong>“US18”</strong> que equivale 3 puntos y el <strong>“US22”</strong> que equivale 5 puntos respectivamente.</td>
+</tr>
+</table>
 
 #### 5.2.2.2. Sprint Backlog 2.
 
