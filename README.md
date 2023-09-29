@@ -260,7 +260,6 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
 
 
 
-
 <br>
 
 <div align='justify'>
@@ -3039,7 +3038,7 @@ Para la entrega del Sprint 1, se tuvo pensado alcanzar el desarrollo completo de
 | [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | Feature/TS-LandingPage | feature:home-section add     | Initial commit | Se creó el proyecto | 08/09/2023          |
 <br>
 
-| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://isaacamp24.github.io/LoyalSips-LandingPage/Archivos/)                | 
+| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://isaacamp24.github.io/LoyalSips-LandingPage)                | 
 |---------------------|---------------------|
 
 <br>
@@ -3173,7 +3172,7 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Lopez Huarcaya, Leonardo / Huamani Sánchez, José Diego</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Lopez Huarcaya, Leonardo / Alfaro Coveñas, Louis Piero.</td>
 </tr>
 <tr>
   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 - Review Summary</th>
@@ -3202,10 +3201,343 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 #### 5.2.2.2. Sprint Backlog 2.
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+<div align='justify'>
+<p>Para el caso de lo que se llevó a cabo en el desarrollo de la aplicación web de “LilSyps”, se optó por fraccionar el proyecto en 4 <em>sprints</em>, de los cuales, en esta oportunidad, nos logramos ubicar en el <em>sprint 2</em>. Este mismo tuvo una duración de 2 semanas de lo cual comenzó el día 20 de septiembre del año 2023 y, como principal objetivo, se planteó elaborar una actualización al <em>landing page</em> para que logré ser más vistosa y ofrezca de manera más clarividente los servicios que nuestro <strong>“startup”</strong> ofrece. Aparte de eso, se estableció el comienzo de la elaboración de nuestra aplicación web para que cumpla tanto con los puntos de funcionalidad y atractividad visual – logrando cumplir con las perspectivas de nuestros clientes y stakeholders interesados -.</p>
+</div>
 
+<div align="center">
+<img src="https://media.discordapp.net/attachments/892430247042105427/1156287781182652467/5f045d4a-0baa-4ae5-ab28-e434a7dc311c.png?ex=65146c69&is=65131ae9&hm=091245fd6ce0e257fb538f482500f38df750b8b485a326fdfc06be20a675944e&=&width=1221&height=562" alt="Sprint-Backlog2-Image" style="width:600px;height:auto;">
+</div>
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+<div align="center">
+<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
+</div>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2</td>
+</tr>
+<tr>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">User Story</th>
+ <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Work Item / Task</th>
+</tr>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Description</th>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US13</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia en dispositivos Móviles</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA02</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuación de elementos del landing page para móviles</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Acoplar el tamaño adecuado para dispositivos móviles</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Leonardo Paul López Huarcaya</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US14</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Exploración de testimonios</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA03</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Apartado de visualización de los comentarios de las personas</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permitirá a los usuarios verificar los comentarios que dejen los clientes en referencia a la atención de nuestro startup</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Piero Alfaro Coveñas</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US16</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Navegación intuitiva</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA04</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Menú de navegación</em></td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permitirá a los usuarios interactuar con el menú de navegación</em></td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA05</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Redacción del encabezado y el slogan</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Define el propósito de lo que ofrecerá nuestro startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA06</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Botón de interacción</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Iniciará las interacciones para que conozca de todos los servicios que logra ofrecer nuestra página web</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA07</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de los cards para adecuar el contenido</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacios donde se acomodará la información e imágenes</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Leonardo Paul López Huarcaya</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA08</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción acerca del startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Narra la descripción del propósito que logra ofrecer nuestro startup con los clientes</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Leonardo Paul López Huarcaya</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA09</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación del header</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacio de interacción con los elementos para direccionarse a otra parte de la página</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Piero Alfaro Coveñas</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US17</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Contenido Atractivo</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA10</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregación de interacciones</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite que los elementos que se proyecten tengan una visibilidad más agradable ante cada acción</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA11</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Colocación de imágenes representativas al startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ejemplificación de los sucesos representativos de nuestro startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA12</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregación de los colores representativos al startup</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuar los colores representativos del startup para una mejor visibilidad</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US18</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Información de contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA13</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción del apartado de “contacto”</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Narrar el contenido de lo que ofrece el apartado de contacto</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA14</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Generar formularios para digitar datos del usuario</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacios para que los usuarios logren concretar sus datos y soliciten ayuda de alguien de soporte para los ayude</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA15</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Botón de confirmación de datos</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Valida la confirmación de sus datos y procede a enviarlos</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Piero Alfaro Coveñas</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+<tr>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US22</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia Responsiva</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA16</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuación de los elementos a dispositivos móviles</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Enfoca de manera más óptima los elementos en el Web Application</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Piero Alfaro Coveñas</td>
+ <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
+</tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+<p>Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong> y en el desarrollo de la primera version de nuestro <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Repository</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Branch</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit ID</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commit Message Body</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Commited on (Date)</th>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-LandingPage">https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-LandingPage</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/LandingPage-Services</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">fda5fb3</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Services): section Services update
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Services): section Services update
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">27/09/23 21:29:19 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-LandingPage">https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-LandingPage</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/LandingPage-Review</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3d38b1e</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Review): section review update
+</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Review): section review update
+</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">27/09/23 22:36:36 PM</td>
+</tr>
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">LoyalSips/Main</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">26c67bb</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">initial commit</th>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se creó el proyecto</td>
+  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">25/09/23 08:29:46 AM</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">LoyalSips/Main</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3881ea8</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: added initial dependencies</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: added initial dependencies</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">25/09/23 15:06:03 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">LoyalSips/Main</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ea3e5b5</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: Image</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: Image</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">25/09/23 15:18:21 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">LoyalSips/Main</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">b96a162</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">docs: updated readme with summary.</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">docs: updated readme with summary.</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">25/09/23 15:20:44 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">LoyalSips/Main</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">90ac31e</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: add Login</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: add Login</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">26/09/23 18:29:41 PM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-Signup-and-about</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3e64d57</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: create sing-up and about</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: create sing-up and about</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">26/09/23 20:02:48 PM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-Signup-and-about</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3e64d57</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: update</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: update</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">26/09/23 22:12:50 PM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-Services</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ddad19a</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">develop add - feat(services): seccion servicios aniadida</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">develop add - feat(services): seccion servicios aniadida</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">27/09/23 01:43:18 AM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-readme</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">e65d58a</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(readme): readme update</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(readme): readme update</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">27/09/23 04:44:07 AM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-Services_Section</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">737093b</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Services): Section Services add</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Services): Section Services add</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">27/09/23 14:52:55 PM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-Support</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4bb473c</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(support): logica aniadida</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(support): logica aniadida</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">27/09/23 15:38:42 PM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-Support</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">f7e1b70</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Support): Section Support complete</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feat(Support): Section Support complete</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">27/09/23 16:31:26 PM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-JSON_file</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3e96315</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: json file works perfectly in the drinks section</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">chore: json file works perfectly in the drinks section</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">27/09/23 16:34:35 PM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-Contact</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">49d0dad</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Contact</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Contact</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">28/09/23 02:49:01 AM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/TP1-Home</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">20a7ea6</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Home-Modificado</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Home-Modificado</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">28/09/23 02:55:09 AM</td>
+</tr>
+<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><a href="https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin">https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin</a></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">feature/About_Section</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3e016c4</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">About Section update</td>
+     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">About Section update</td>
+      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">28/09/23 03:41:07 AM</td>
+</tr>
+</table>
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop.
 
@@ -3218,62 +3550,192 @@ Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Lan
 | Web Application Desplegada                                          |[Web Application Loyal-Sips]()                | 
 |---------------------|---------------------|
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
 
-En el sprint 2, se logró implementar la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales, este apartado se realizó respetando los principios de diseño que se presentaron en el Diseño de Figma, además se tuvo en cuenta la experiencia de usuario para que el usuario pueda interactuar de manera intuitiva con el Web Application. A continuación se muestran algunas evidencias de lo mencionado.
+En el sprint 2, se logró implementar la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales, este apartado se realizó respetando los principios de diseño que se presentaron en el Diseño de Figma, además se tuvo en cuenta la experiencia de usuario para que el usuario pueda interactuar de manera intuitiva con el Web Application. A continuación se muestran algunas evidencias de lo mencionado y la actualización del Landing Page:
 
-1. Se muestra la sección de **Home**, en el cual el usuario podrá observar el menú de opciones y podrá interactuar con ello.
+1. **User Story 01:** Como usuario, quiero ver una página principal atractiva sobre LOYALSIPS.
 
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156849911153823834/Captura_de_pantalla_2023-09-28_020815.png"></div>
     </td>
   </tr><br>
 
-  2. Se muestra la sección de **About**, en el cual el usuario podrá observar la información acerca de la empresa.
 
-<tr>
+2. **User Story 02:** Como usuario quiero poder ver una pequeña descripcion de lo que es LOYALSIPS.
+
+  <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156850741735067739/image.png"></div>
     </td>
   </tr><br>
 
-  3. Se muestra la sección de **Contact**, en el cual el usuario podrá observar la información de contacto de la empresa.
+3. **User Story 03:** Como usuario quiero poder ver los servicios que ofrece LOYALSIPS.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156851197072920596/image.png"></div>
+    </td>
+  </tr><br>
+
+  4. **User Story 04:** Como usuario quiero poder ver las reseñas de los clientes de LOYALSIPS y poder dar una calificación respectiva.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156851915150340096/Captura_de_pantalla_2023-09-28_021500.png"></div>
+    </td>
+  </tr><br>
+
+  4. **User Story 05:** Como usuario quiero poder ver la información de contacto de LOYALSIPS, y poder contactarlo.
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156852713934569582/Captura_de_pantalla_2023-09-28_021918.png"></div>
+    </td>
+  </tr><br>
+
+**Para el Web Application:**
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157154081429794896/image.png"></div>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157154315874611201/image.png"></div>
+    </td>
+  </tr>
+    <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157154954646126634/image.png"></div>
+    </td>
+  </tr><br>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Sin embargo, no se pudo dar uso de una fake-api para los archivos json, pero estamos trabajando internamente para el desarrollo exitoso.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y la creación de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. 
+
+**Para el Landing Page:**
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156849911153823834/Captura_de_pantalla_2023-09-28_020815.png"></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156850741735067739/image.png"></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156851197072920596/image.png"></div>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156851915150340096/Captura_de_pantalla_2023-09-28_021500.png"></div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156852713934569582/Captura_de_pantalla_2023-09-28_021918.png"></div>
+    </td>
+  </tr><br>
+
+  **Para el Web Application:**
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157154081429794896/image.png"></div>
+    </td>
+  </tr>
+
+<tr>
+  <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156881747238203433/Captura_de_pantalla_2023-09-28_041451.png"></div>
+    </td>
+  </tr>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156847998140162080/Captura_de_pantalla_2023-09-28_015610.png"></div>
+    </td>
+</tr>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+|Nombre|Rol|
+|------|---|
+|Alarcón Rondón, Sandro Fourfive|Implementación de la sección Bares del Web Application.|
+|Ampudia Flores, José Carlos Isaac|Implementación de la sección Services, Support, actualización de fondo, corrección de colores. Por parte del Landing Page, actualización del Landing Page, en la sección Review.|
+|Louis Piero Alfaro Coveñas|Actualizacion de colores del Login y otras secciones.|
+|Lopez Huarcaya, Leonardo Paul|Implementación de la sección Home, en el cual el usuario podrá observar algunas de las bebidas.|
+|Morin Fuentes, Jean Pierre|Implementación de la sección About y Contacto. |
+
+**Repositorio de Landing Page:**
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157156054510092288/image.png"></div>
     </td>
-</tr><br>
-
-4. Se muestra la sección de **Services**, en el cual el usuario podrá observar los servicios que ofrece la empresa.
+</tr>
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157156280234954813/image.png"></div>
     </td>
 </tr><br>
 
-5. Se muestra la sección de **Support**, en el cual el usuario podrá observar los servicios de soporte que ofrece la empresa.
+**Repositorio de Web Application:**
 
 <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1156118313160687696/image.png?ex=6513ce95&is=65127d15&hm=16d330b464b1103e1c3f075d90e222d87215cda02baa157c17fa5d9ef9f54d71&=&width=1309&height=671"></div>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157156739502846013/image.png"></div>
     </td>
-</tr><br>
+</tr>
 
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157157035960442991/image.png"></div>
+    </td>
+</tr>
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
-
-
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639922271363083/1157157260804497478/image.png"></div>
+    </td>
+</tr><br
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
