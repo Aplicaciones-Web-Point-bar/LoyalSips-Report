@@ -3132,11 +3132,61 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint planning 2.
+#### 5.2.2.1 Sprint Planning 2
 
-#### 5.2.2.2. Sprint Backlog 2.
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega.
+
+|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-09-21                                                                                                               |
+|              Time               |                                                                                                                11:24 AM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                    Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Alfaro Coveñas, Louis Piero 	 / López Huarcaya, Leonardo Paul                                     |
+|     Sprint 1 Review Summary     |                                                                                           Se alcanzo diseñar las 2 HU de nuestro landing page                                                                                           |
+| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
+|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
+|       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
+
+#### 5.2.2.2 Sprint Backlog 2
+
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
+
+
+|   Sprint #    |     Sprint 1     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Alfaro Coveñas, Louis Piero       | In-Process|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Alfaro Coveñas, Louis Piero      | In-Process|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Alarcón Rondón Sandro Fourfive | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Morin Fuentes. Jean Pierre       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Ampudia Flores, José Carlos Isaac       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Ampudia Flores, José Carlos Isaac            | Done|
+
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
+
+En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
+
+|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+|  Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
+|Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
+| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
+|   Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
+|   Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(Arquimentor-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
 
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
