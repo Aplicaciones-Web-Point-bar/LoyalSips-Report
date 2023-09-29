@@ -3399,9 +3399,10 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1157157260804497478/image.png"></div>
     </td>
-</tr><br
+</tr><br>
 
 ## 5.3. Validation Interviews.
+
 ### 5.3.1. Diseño de Entrevistas.
 
 ### 5.3.2. Registro de Entrevistas.
