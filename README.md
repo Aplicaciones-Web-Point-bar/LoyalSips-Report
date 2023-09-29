@@ -3351,6 +3351,12 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1156847998140162080/Captura_de_pantalla_2023-09-28_015610.png"></div>
     </td>
 </tr>
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://cdn.discordapp.com/attachments/1146639921830973515/1157170437286019112/image.png?ex=6517a273&is=651650f3&hm=eefce15bff16bc7eb3523ff8a388747a2c9f6594b3d9828b0c7feba324adac24&"></div>
+    </td>
+</tr>
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
