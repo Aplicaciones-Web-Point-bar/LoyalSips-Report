@@ -89,6 +89,35 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TP.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Correccion de detalles en Lean UX Assumptions, Corrección de detalles en el apartado de entrevistas, Corrección del To-be Scenario Mapping, Implementacion de Landing Page Mock-up Desktop actualizada, Implementacion de Landing Page actualizada, despliegue del Landing Page por Github pages.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Corrección del Impact mapping y actualización, Corrección de los diagramas de DDD, Implementación de la seccion Contact de la Web Application. <br><br></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Corrección y actualización de Needfinding y User Personas, Corrección y actualización de User Stories, Implementación de la sección Home, Drinks, y creación del repositorio del Web Application.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Lopez Huarcaya</td>
+    <td style="text-align: justify;">Corrección y actualización del Problem Statements, Actualización de plantilla de entrevistas, Corrección de nomenclaturas del DataBase Diagram, Implementación de la sección About us del Web Application.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alfaro Coveñas</td>
+    <td style="text-align: justify;">Actualización y corrección del As-is Scenario Mapping y otros mapas, Actualización del Product Backlog, Actualización del Class Diagrams, Actualización Conclusiones y Anexos.</td>
+  </tr>
+</table>
+<br>
 
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
