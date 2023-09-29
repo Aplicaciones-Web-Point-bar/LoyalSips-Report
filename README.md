@@ -8,13 +8,14 @@
 
 <br>
 
-## <center>Ingeniería de Software</center>
+## <center>Ingeniería de Software 2023-2</center>
 ### <center>Aplicaciones Web - SI730 </center>
-## Informe de TB1
-- **Sección:** SW51
-- **Docente:** Juan Carlos Tinoco Licas
-- **Ciclo:** 2023-02
-- **Nombre del grupo:** Team 4
+
+### Docente: Juan Carlos Tinoco Licas
+
+## Informe de Trabajo Final
+
+- **Nombre del grupo:** TeachSolutions
 - **Nombre de la Startup:** LoyalSlip
 
 ## Integrantes
@@ -32,13 +33,20 @@
 
 ## Registros de versiones del Informe
 
-|   Version     |   Fecha   | Autor                   |   Descripción de la modificación|
-|:-------------:|:---------:|:------------------------|:------------------------|
-|1              |   28/08/2023    | Ampudia Flores          |- Implementó el diseño del figma tanto para desktop como para movil, además la codificacción de la Landing Page desplegable. |
-|1              |   29/08/2023   | Alarcon Rondon          |- Implementó los diagramas en el modelo C4, como la configuracion de como se realizo el desarrollo del presente trabajo, en el cual se utilizó Github con el apoyo de Gitflow |
-|1              |   30/08/2023        | Morin Fuentes           |- Implementó los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma. |
-|1              |  06/09/2023  | Louis Alfaro Coveñas    |- Implementó el apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos. |
-|1              |  08/09/2023 | Leonardo López Huarcaya |- Implementó el Sprint Planing 1, como el Sprint Backlog 1, no logró completar el Development Evidence for Sprint Review. |
+| Version |   Fecha    | Autor                                | Descripción de la modificación                                                                                                                                                   |
+|:-------:|:----------:|:-------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1    | 28/08/2023 | Ampudia Flores                       | - Implementó el diseño del figma tanto para desktop como para movil, además la codificacción de la Landing Page desplegable.                                                     |
+|    1    | 29/08/2023 | Alarcon Rondon                       | - Implementó los diagramas en el modelo C4, como la configuracion de como se realizo el desarrollo del presente trabajo, en el cual se utilizó Github con el apoyo de Gitflow    |
+|    1    | 30/08/2023 | Morin Fuentes                        | - Implementó los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma.                                                          |
+|    1    | 06/09/2023 | Louis Alfaro Coveñas                 | - Implementó el apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos.                                  |
+|    1    | 08/09/2023 | Leonardo López Huarcaya              | - Implementó el Sprint Planing 1, como el Sprint Backlog 1, no logró completar el Development Evidence for Sprint Review.                                                        |
+|    2    | 15/09/2023 | Ampudia Flores                       | - Corrección del diseño del figma tanto para desktop como para movil, además la codificacción de la Landing Page desplegable.                                                    |
+|    2    | 20/09/2023 | Alarcon Rondon                       | - Corrección de los diagramas en el modelo C4, como la configuracion de como se realizo el desarrollo del presente trabajo, en el cual se utilizó Github con el apoyo de Gitflow |
+|    2    | 22/09/2023 | Morin Fuentes                        | - Corrección de los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma.                                                       |
+|    2    | 19/09/2023 | Louis Alfaro Coveñas                 | - Corrección del apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos.                                 |
+|    2    | 22/09/2023 | Leonardo López Huarcaya              | - Corrección del Sprint Planing 1, como el Sprint Backlog 1 y el Development Evidence for Sprint Review.                                                                         |
+|    2    | 20/09/2023 | Leonardo López <br/> Ampudia Flores <br/>Alarcon Rondon<br/>Morin Fuentes<br/>Louis Alfaro Coveñas  | Primera versión del frontend, agregando los componentes mas escenciales.<br/>Correvión de la landing page                                                                        |
+
 
 <br>
 
@@ -287,7 +295,7 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           -Colaboró con la implementacion Lean UX Canvas, Segmento Objetivo, Registro de entrevistas, User Journey Mapping, Empathy Mapping, Product Backlog.<br><br>
           <strong>López, Leonardo</strong><br>
           <strong>TB1:</strong><br>
-          Asistió parcialmente a reuniones claves organizadas por el equipo de trabajo, aportando parcialmente ideas para la solución del proyecto. No realizó sus tareas establecidas a tiempo, lo cual perjudicó de forma clara el avance óptimo del proyecto.<br><br>
+          Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
           -Colaboró con la implementacion del Lean UX Problem Statements, As-is Scenario Mapping, User Stories, Sprint Planing 1, Sprint Backlog 1, no cumplió con el Development Evidence for Sprint Review.
         </td>
         <td><strong></strong><br>
@@ -314,7 +322,11 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <br><br>
           <strong>López, Leonardo</strong><br>
           <strong>TB1</strong><br>
-          Posee conocimientos en C++, HTML, CSS y Java Script, como tambien otros lenguajes.
+          Posee conocimientos en git hub, git flow y el formato MarkDown, como tambien algunos lenguajes.
+            <br><br>
+            <strong>TP1:</strong><br>
+          Posee conocimientos en lenguajes de progamación como HTML, CSS, Java Script y algunos framework como Angular Y Vue.
+            <br><br>
     </td>
     <td><strong></strong><br>La capacidad de manejar varios lenguajes de programación es bastante importante, lo cual influyó mucho para la elaboración del trabajo, dentro de ellos está el conocimiento de los lenguajes de HTML, CSS y Java Script, para la implementación de la Landing Page de manera correcta, por otro lado, la capacidad de poder manejar os diagramas de modelado C4, lo cual nos ayudó a mostrar de diferentes maneras el enfoque que tendrá nuestro proyecto final, no dejemos de lado la herramienta Figma, que nos sirvió para realizar el diseño del proyecto, y de esta manera poder ayudarnos para la implementación de la Landing Page.</td>
   </tr>
@@ -2384,7 +2396,7 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
-      <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988320451571762/Personal_Data_Bounded_Context.png"></div>
+      <img src="https://media.discordapp.net/attachments/1093325259530321921/1156418611611701339/Personal_Data.png"></div>
     </td>
   </tr>
 
@@ -2468,10 +2480,7 @@ En el diseño de bases de datos para bares, se deben considerar elementos como l
 
 ### 4.8.1. Database Diagram
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-    <div align='center'>
-      <img src="https://media.discordapp.net/attachments/969784880017842216/1149495852549799956/Diagrama_de_Clases_Point_Bar-2023-09-07_19-00.png?width= " height=auto></div>
-    </td>
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1156627281452736522/image.png?ex=6515a898&is=65145718&hm=75eb2c2a38f63b036c5db8f74c1794bbf47bc353fc9810638fef8fd7709583e4&">
 </tr>
 
 ---
@@ -2565,11 +2574,9 @@ Para ello, tenemos la misma documentación actual que explica como funciona.
 ### 5.1.2. Source Code Management.
 Para la siguiene sección, Source Code Management nos hace referencia a la funcion de seguimiento de modificaciones que los integrantes del equipo ejerce durante el desarollo del proyecto hasta su conclusion de este mismo. Para ello, cabe mencionar la importacia de un repositorio o sistema  de control de versiones el cual es Github. 
 
-Landing Page,  
+Landing Page: https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-LandingPage
 
-Web Services,  
-
-Frontend Web Applications. 
+Frontend Web Applications:  https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin
 
 ### Gitflow 
 
