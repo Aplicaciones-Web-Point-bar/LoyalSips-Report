@@ -3143,248 +3143,61 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint planning 2.
+#### 5.2.2.1 Sprint Planning 2
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega.
+
+|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-09-21                                                                                                               |
+|              Time               |                                                                                                                11:24 AM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                    Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Alfaro Coveñas, Louis Piero 	 / López Huarcaya, Leonardo Paul                                     |
+|     Sprint 1 Review Summary     |                                                                                           Se alcanzo diseñar las 2 HU de nuestro landing page                                                                                           |
+| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
+|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
+|       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
+
+#### 5.2.2.2 Sprint Backlog 2
+
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
 
 
-<table align="center">
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2</th>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Planning Background</td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Date</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2023-09-25</td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Time</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">16:10 PM</td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Location</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El lugar de reunión fue en la plataforma de videoconferencia virtual <strong>“Google Meet”</strong>, de lo cual se desarrolló para conversar en relación a los deberes que cada uno debe desarrollar para este <em>sprint 2.</em> -.</td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Prepared By</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, Jose Carlos Isaac</td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Attendees (to planning meeting)</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Lopez Huarcaya, Leonardo / Alfaro Coveñas, Louis Piero.</td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 - Review Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Se desarrolló la versión actualizada del <strong>“Landing page”</strong> de nuestro <em>startup</em>, asemejando la inclusión de los nuevos <em>user stories</em> que nos corresponden para este nuevo <em>sprint</em>. Adicional a ello, se elaboró la primera versión de nuestro <strong>“Web Application”</strong>, añadiendo las funcionalidades óptimas que solicitan tanto los clientes como los empresarios que interactuarán con el mismo. Con respecto a los <em>feedbacks</em>, hemos recibido que a les gustaría que el <strong>“Landing page”</strong> tenga un poco más de interacción para que logre llamar más la atención de más personas.</td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 - Retrospective Summary</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">En esta sección, los <em>team members</em> sentimos que las nuevas funcionalidades añadidas al <strong>“Landing page”</strong>, fueron unas de las más acertadas – conllevando a una nueva perspectiva del mismo -. Sin embargo, en el caso del <strong>“Web Application”</strong>, hemos sentido que pudieron mejorarse algunas funcionales en el <em>CRUD.</em></td>
-</tr>
-<tr>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint Goal  & User Stories</td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 Goal</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">El principal objetivo que se tuvo para este <em>sprint 2</em>, se focalizó en el lado funcional y mejoras visuales en la versión del <strong>“Landing Page”.</strong> Por otro lado, con respecto al <strong>“Web Application”</strong> se enfocó en la parte funcional en los apartados interactivos como los son el segmento de “Soporte” y “Contacto” aplicando el sistema <em>CRUD.</em> </td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2 Velocity</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para este <em>sprint</em>, el <strong>“Scrum Developer Team”</strong> llegó a un acuerdo en aceptar sin ningún altercado un enfoque de 26 <em>story points</em> para este <em>Sprint 2.</em></td>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sum of Story Points</th>
-  <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Para esta oportunidad, hemos abarcado en este sprint los <em>User Story</em> con identificadores <strong>“US13”</strong> equivale 5 puntos, <strong>“US14”</strong> 3 puntos, <strong>“US16”</strong> el cual equivale 5 puntos, el <strong>“US17”</strong> que equivale 5 puntos, el <strong>“US18”</strong> que equivale 3 puntos y el <strong>“US22”</strong> que equivale 5 puntos respectivamente.</td>
-</tr>
-</table>
+|   Sprint #    |     Sprint 1     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Alfaro Coveñas, Louis Piero       | In-Process|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Alfaro Coveñas, Louis Piero      | In-Process|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Alarcón Rondón Sandro Fourfive | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Morin Fuentes. Jean Pierre       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Ampudia Flores, José Carlos Isaac       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Ampudia Flores, José Carlos Isaac            | Done|
 
-#### 5.2.2.2. Sprint Backlog 2.
 
-<div align='justify'>
-<p>Para el caso de lo que se llevó a cabo en el desarrollo de la aplicación web de “LilSyps”, se optó por fraccionar el proyecto en 4 <em>sprints</em>, de los cuales, en esta oportunidad, nos logramos ubicar en el <em>sprint 2</em>. Este mismo tuvo una duración de 2 semanas de lo cual comenzó el día 20 de septiembre del año 2023 y, como principal objetivo, se planteó elaborar una actualización al <em>landing page</em> para que logré ser más vistosa y ofrezca de manera más clarividente los servicios que nuestro <strong>“startup”</strong> ofrece. Aparte de eso, se estableció el comienzo de la elaboración de nuestra aplicación web para que cumpla tanto con los puntos de funcionalidad y atractividad visual – logrando cumplir con las perspectivas de nuestros clientes y stakeholders interesados -.</p>
-</div>
+#### 5.2.2.3.Development Evidence for Sprint Review.
 
-<div align="center">
-<img src="https://media.discordapp.net/attachments/892430247042105427/1156287781182652467/5f045d4a-0baa-4ae5-ab28-e434a7dc311c.png?ex=65146c69&is=65131ae9&hm=091245fd6ce0e257fb538f482500f38df750b8b485a326fdfc06be20a675944e&=&width=1221&height=562" alt="Sprint-Backlog2-Image" style="width:600px;height:auto;">
-</div>
+En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
 
-<div align="center">
-<p><strong>Link del Trello:</strong> <a href="https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps">https://trello.com/invite/b/Ur4cdqv5/ATTI301dda79eeaf09d3da0cad90264aabc15504BED8/sprint-2-lilsyps</a></p>
-</div>
-
-<table>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint #</th>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Sprint 2</td>
-</tr>
-<tr>
- <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">User Story</th>
- <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Work Item / Task</th>
-</tr>
-<tr>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">ID</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Title</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Description</th>
-  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Estimation (hours)</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Assigned To</th>
-   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Status (To Do / In - process / To - review / Done)</th>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US13</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia en dispositivos Móviles</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA02</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuación de elementos del landing page para móviles</em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Acoplar el tamaño adecuado para dispositivos móviles</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Leonardo Paul López Huarcaya</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US14</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Exploración de testimonios</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA03</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Apartado de visualización de los comentarios de las personas</td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permitirá a los usuarios verificar los comentarios que dejen los clientes en referencia a la atención de nuestro startup</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Piero Alfaro Coveñas</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
-<td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US16</td>
-   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Navegación intuitiva</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA04</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Menú de navegación</em></td>
-     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permitirá a los usuarios interactuar con el menú de navegación</em></td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
-       <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
-      <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA05</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Redacción del encabezado y el slogan</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Define el propósito de lo que ofrecerá nuestro startup</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA06</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Botón de interacción</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Iniciará las interacciones para que conozca de todos los servicios que logra ofrecer nuestra página web</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA07</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación de los cards para adecuar el contenido</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacios donde se acomodará la información e imágenes</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Leonardo Paul López Huarcaya</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA08</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción acerca del startup</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Narra la descripción del propósito que logra ofrecer nuestro startup con los clientes</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Leonardo Paul López Huarcaya</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA09</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Creación del header</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacio de interacción con los elementos para direccionarse a otra parte de la página</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Piero Alfaro Coveñas</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US17</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Contenido Atractivo</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA10</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregación de interacciones</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Permite que los elementos que se proyecten tengan una visibilidad más agradable ante cada acción</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ampudia Flores, José Carlos Isaac</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA11</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Colocación de imágenes representativas al startup</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ejemplificación de los sucesos representativos de nuestro startup</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA12</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Agregación de los colores representativos al startup</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuar los colores representativos del startup para una mejor visibilidad</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Alarcón Rondón, Sandro Fourfive</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US18</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Información de contacto</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA13</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción del apartado de “contacto”</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Narrar el contenido de lo que ofrece el apartado de contacto</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA14</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Generar formularios para digitar datos del usuario</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Espacios para que los usuarios logren concretar sus datos y soliciten ayuda de alguien de soporte para los ayude</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Morin Fuentes, Jean Pierre</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"> </td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA15</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Botón de confirmación de datos</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Valida la confirmación de sus datos y procede a enviarlos</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Piero Alfaro Coveñas</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-<tr>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">US22</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Experiencia Responsiva</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">TA16</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Adecuación de los elementos a dispositivos móviles</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Enfoca de manera más óptima los elementos en el Web Application</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Louis Piero Alfaro Coveñas</td>
- <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;"><strong>Done</strong></td>
-</tr>
-</table>
-
-#### 5.2.2.3. Development Evidence for Sprint Review.
+|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+|  Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
+|Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
+| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
+|   Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
+|   Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(Arquimentor-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
 
 <p>Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> en diferentes repositorios. Durante este sprint, nos enfocamos en realizar los ajustes de mejora para nuestro <strong>Landing Page</strong> y en el desarrollo de la primera version de nuestro <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Los commits registrados en diversos repositorios reflejan el trabajo realizado en estas áreas en específico.</p>
 
