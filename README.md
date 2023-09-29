@@ -3432,6 +3432,7 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212873290948628/image.png"></div>
+
     </td>
 </tr>
 
