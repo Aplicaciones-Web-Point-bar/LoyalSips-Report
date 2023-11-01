@@ -121,6 +121,33 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TB2.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Actualizacion de links de repositorios, corrección de detalles en el informa y estructura, implementación de la seccion Support para el Backend del proyecto, actualizacion del Frontend de la aplicacion, sectores como home, login, register, etc.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Actualizacion y diseño del Frontend de la Aplicacion y el Backend. <br><br></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Implementacion de las entrevistas y validacion del producto, del mismo modo actualizacion del Frontend y Backend.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Lopez Huarcaya</td>
+    <td style="text-align: justify;">Implementacion del Backend para las tablas de Users, Pubs, y creacion del repositorio.</td>
+  </tr>
+</table>
+<br>
+
+
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
 
@@ -130,7 +157,6 @@ Miembros:
 - Alarcon Rondon (Alarsandro)
 - Morin Fuentes (Jeanpi-MF)
 - López Huarcaya (leonardox-lh)
-- Alfaro Coveñas (LouisAlfaro)
 </div>
 
 
@@ -258,6 +284,16 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
+        <br>
+    - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-2)
+        - [5.2.3.2. Sprint Backlog 2](#5232-sprint-backlog-2)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](5238-team-collaboration-insights-during-sprint)
 
 
 
@@ -282,22 +318,39 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TP:</strong><br>
           Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
           - Colaboró con la implementación del Lean UX Assumptions e Hypothsys, como también en la implementación del diseño del prototipo del proyecto y la Landing Page desplegada, el cual se usó un repositorio de Github, con el uso de HTML, CSS y JavaScript.<br><br>
+          <strong>TB2:</strong><br>
+          Para la entrega del TB2, se presenta la implementación del Sprint 3, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
+          - Colaboró con la implementacion de actualizaciones en el Frontend de la aplicación y el desarrollo del Backend para la secccion Support de la aplicacion.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
           - Colaboró con la implementacion del Solution Profile, Lean UX Problem Statements, como tambien en el desarrollo del Needfinding, To-be Scenario Mapping, los Style Guidelines, el Team Collaboration Insights during Sprint y avance de conclusiones.<br><br>
+          <strong>TP:</strong><br>
+          Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
+          - Colaboró con la implementacion del Solution Profile, Lean UX Problem Statements, como tambien en el desarrollo del Needfinding, To-be Scenario Mapping, los Style Guidelines, el Team Collaboration Insights during Sprint y avance de conclusiones.<br><br>
+          <strong>TB2:</strong><br>
+          Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
+          - Colaboro con la implementacion del codigo en general y si alguno de mis compañeros necesitan ayuda los apoyo, backend, fronted, colabore con la creacion del DB.json.<br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
-          -Colaboró con la implementacion del Startup Profile, el análisis competitivo, el desarrollo de los diagramas DDD, como también el Software Configuration Management, especialmente en Software Development Environment Configuration y Source Code Management.<br><br>
-          <strong>Alfaro, Louis</strong><br>
-          <strong>TB1:</strong><br>
-          Asistió parcialmente a reuniones claves organizadas por el equipo de trabajo, aportando parcialmente ideas para la solución del proyecto. No realizó sus tareas establecidas a tiempo, lo cual perjudicó de forma clara el avance óptimo del proyecto.<br><br>
-          -Colaboró con la implementacion Lean UX Canvas, Segmento Objetivo, Registro de entrevistas, User Journey Mapping, Empathy Mapping, Product Backlog.<br><br>
+          - Colaboró con la implementacion del Startup Profile, el análisis competitivo, el desarrollo de los diagramas DDD, como también el Software Configuration Management, especialmente en Software Development Environment Configuration y Source Code Management.<br><br>
+          <strong>TP:</strong><br>
+          Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
+          - Colaboro con la implementacion y actualización del Impact mapping, ya que anteriormente, no estaba del todo clarividente en su semejanza. Póstumo a ello, realicé las correcciones y actualización de los “Domain Driven Design” – pertenecientes a nuestro Software Architecture Components -. Como último task que desarrollé, ha sido la implementación de la sección contact para el “Web Application”.<br><br>
+          <strong>TB2:</strong><br>
+          Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
+          - Para la siguiente entrega se realiazaron las entrevistas de los 2 segmentos de usuarios clientes y empresarios. Asimismo, en la integración de Testin suite evidence for sprint review y Execution evidence for sprint review..<br><br>
           <strong>López, Leonardo</strong><br>
           <strong>TB1:</strong><br>
           Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
           -Colaboró con la implementacion del Lean UX Problem Statements, As-is Scenario Mapping, User Stories, Sprint Planing 1, Sprint Backlog 1, no cumplió con el Development Evidence for Sprint Review.
+          <strong>TP:</strong><br>
+          Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
+          -Colaboró con el desarrollo del Frontend de la aplicacion, en el sector de Home, respetando el diseño inicial del producto, implementando mejorias para la experiencia del usuario.<br><br>
+          <strong>TB2:</strong><br>
+          Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
+          -Colaboró con la implementación del Backend de la aplicacion, especialmente en la creacion de las entidades de Users & Pubs o Bares.<br><br>
         </td>
         <td><strong></strong><br>
         Para la elaboración de nuestro proyecto, fue necesaria la comunicación en equipo, una de las herramientas claves fue Discord y WhatsApp, en el que se designó los temas para cada integrante del equipo.</td>
@@ -309,13 +362,26 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, además, el manejo de base de datos, en el que incluye modelo relacional y no relacional.<br><br>
           <strong>TP:</strong><br>
           En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, de tal modo que la capacidad de aplicar habilidades y conocimientos para la implementación del mismo, es muy importante.<br><br>
+          <strong>TB2:</strong><br>
+          En la siguiente entrega, es importante poseer conocimientos previos en el lenguaje de C# y el uso de la herramienta Postman, para la implementación del backend de la aplicación.<br><br> 
           <strong>Morin, Jean</strong><br>
           <strong>TB1</strong><br>
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, como también C++, python y otros.
           <br><br>
+          <strong>TP</strong><br>
+          En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, por lo que el conocimiento de lenguajes como html, css y javascript es importante para la implementación del mismo.<br><br>
+          <strong>TB2</strong><br>
+          Para esta entrega de la TB2, se implementara el Backend de la aplicacion por lo que es importante el conocimiento y manejo de C# y metodos de testing como Postman.<br><br>
+          <br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1</strong><br>
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, el uso de Python e implementacion de algoritmos y manejo del modelo C4.
+          <br><br>
+          <strong>TP</strong><br>
+          Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, lo cual es importante para el desarrollo del Frontend de la aplicacion.
+          <br><br>
+          <strong>TB2</strong><br>
+          En esta seccion se necesitara el conocimiento de C# para la implementacion del Backend de la aplicacion, lo cual facilitara la implementacion del mismo.
           <br><br>
           <strong>Alfaro, Louis</strong><br>
           <strong>TB1</strong><br>
@@ -325,9 +391,12 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB1</strong><br>
           Posee conocimientos en git hub, git flow y el formato MarkDown, como tambien algunos lenguajes.
             <br><br>
-            <strong>TP1:</strong><br>
+            <strong>TP:</strong><br>
           Posee conocimientos en lenguajes de progamación como HTML, CSS, Java Script y algunos framework como Angular Y Vue.
-            <br><br>
+          <br><br>
+          <strong>TB2</strong><br>
+          Para esta entrega es importante el conocimiento de C# para la elaboracion del Backend de la aplicacion, lo cual facilitara la implementacion del mismo.
+          <br><br>
     </td>
     <td><strong></strong><br>La capacidad de manejar varios lenguajes de programación es bastante importante, lo cual influyó mucho para la elaboración del trabajo, dentro de ellos está el conocimiento de los lenguajes de HTML, CSS y Java Script, para la implementación de la Landing Page de manera correcta, por otro lado, la capacidad de poder manejar os diagramas de modelado C4, lo cual nos ayudó a mostrar de diferentes maneras el enfoque que tendrá nuestro proyecto final, no dejemos de lado la herramienta Figma, que nos sirvió para realizar el diseño del proyecto, y de esta manera poder ayudarnos para la implementación de la Landing Page.</td>
   </tr>
