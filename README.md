@@ -3501,7 +3501,6 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212873290948628/image.png"></div>
-
     </td>
 </tr>
 
@@ -3553,6 +3552,145 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1157157260804497478/image.png"></div>
     </td>
 </tr><br>
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1 Sprint Planning 3
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión del Backend de la aplicacion y las correcciones de la anterior entrega.
+
+
+
+
+#### 5.2.3.2 Sprint Backlog 3
+
+El objetivo principal del Sprint 3 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
+
+
+
+
+
+
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+<p>Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> para el desarrollo de la primera version de nuestro <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Los commits registrados en el repositorio reflejan el trabajo realizado en estas áreas en específico.</p>
+
+
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend de la aplicación.
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Backend](https://github.com/Aplicaciones-Web-Point-bar/LoyalSips.Api.git) | main | feat(Pubs)     | Add Collections Pubs | Se creó el proyecto | 23/10/2023|
+
+<br>
+
+| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://webloyalsips.web.app)                | 
+|---------------------|---------------------|
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En el sprint 3, se logró implementar la primera versión del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support, los cuales se muestran a continuacion:
+
+**Evidencia de Backend LoyalSips**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639921830973515/1169512390950387742/image.png"></div>
+    </td>
+</tr><br>
+
+**Evidencia de Backend en la Base de Datos**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169528821402325002/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530402784956426/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530471810617464/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (GET)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169531555924951072/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (PUT)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532219602260028/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532621538209852/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (DELETE)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169533514346135593/image.png"></div>
+    </td>
+</tr><br>
+
+
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la actualizacion de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Por otro lado, se logró implementar la primera version del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, la actualizacion de la version que se tenia inicialmente del Frontend de la aplicacion y la primera version del Backend de la aplicacion. 
+
+ 
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+|Nombre|Rol|
+|------|---|
+|Alarcón Rondón, Sandro Fourfive|Implementación de la sección Bares del Web Application.|
+|Ampudia Flores, José Carlos Isaac|Implementación de la sección Services, Support, actualización de fondo, corrección de colores. Por parte del Landing Page, actualización del Landing Page, en la sección Review.|
+|Louis Piero Alfaro Coveñas|Actualizacion de colores del Login y otras secciones.|
+|Lopez Huarcaya, Leonardo Paul|Implementación de la sección Home, en el cual el usuario podrá observar algunas de las bebidas.|
+|Morin Fuentes, Jean Pierre|Implementación de la sección About y Contacto. |
+
+
+
 
 ## 5.3. Validation Interviews.
 
