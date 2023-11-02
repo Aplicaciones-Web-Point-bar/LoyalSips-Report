@@ -3666,6 +3666,41 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
     </td>
 </tr><br>
 
+**Entidad Support (POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725855740739624/image.png"></div>
+    </td>
+</tr><br>
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725903346090086/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (GET)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726396042580071/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (DELETE)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726748376698990/image.png"></div>
+    </td>
+</tr><br>
+
 
 
 
@@ -3677,18 +3712,133 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 
 Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, la actualizacion de la version que se tenia inicialmente del Frontend de la aplicacion y la primera version del Backend de la aplicacion. 
 
- 
+**Evidencia de la actualizacion de Frontend de la Aplicacion**
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735022572478546/image.png"></div>
+    </td>
+</tr><br>
+
+**Eleccion de segmento objetivo**
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735483610365952/image.png"></div>
+    </td>
+</tr><br>
+
+**Login Sector cliente**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735520700608583/image.png"></div>
+    </td>
+</tr><br>
+
+**Register Sector cliente**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735550736015400/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Login Sector Empresario**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735644982026321/image.png"></div>
+    </td>
+</tr><br>
+
+**Register Sector Empresario**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735681384394802/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Section Profile**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735919063011328/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Section Support**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169737118092898475/image.png"></div>
+    </td>
+</tr><br>
+
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 |Nombre|Rol|
 |------|---|
-|Alarcón Rondón, Sandro Fourfive|Implementación de la sección Bares del Web Application.|
-|Ampudia Flores, José Carlos Isaac|Implementación de la sección Services, Support, actualización de fondo, corrección de colores. Por parte del Landing Page, actualización del Landing Page, en la sección Review.|
-|Louis Piero Alfaro Coveñas|Actualizacion de colores del Login y otras secciones.|
-|Lopez Huarcaya, Leonardo Paul|Implementación de la sección Home, en el cual el usuario podrá observar algunas de las bebidas.|
-|Morin Fuentes, Jean Pierre|Implementación de la sección About y Contacto. |
+|Alarcón Rondón, Sandro Fourfive| Implementacion de la seccion Points para el Backend de la aplicación.|
+|Ampudia Flores, José Carlos Isaac|Implementación de la sección Support para el Backend de la aplicacion.|
+|Lopez Huarcaya, Leonardo Paul|Implementación de la sección Users & Pubs para el Backend de la aplicación.|
+|Morin Fuentes, Jean Pierre|Implementación de la sección Points para el Backend de la aplicación. |
 
+**Evidencia de la actualizacion del Frontend de la aplicacion**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169731335250780160/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169731782128717975/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169732625871679548/image.png"></div>
+    </td>
+</tr><br>
+
+
+
+**Evidencia de la implementacion del Backend de la aplicacion**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169730597996986461/image.png"></div>
+    </td>
+</tr><br>
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169732940536754307/image.png"></div>
+    </td>
+</tr><br>
 
 
 
