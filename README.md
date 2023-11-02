@@ -2473,7 +2473,7 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
   **Access Bounded Context:**  
 
   <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td style="border: 1px solid #dddddd;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988321118466149/Access_Content_Bounded_Context_1.png"></div>
     </td>
@@ -3555,10 +3555,25 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
 
 ### 5.2.3. Sprint 3
 
+
 #### 5.2.3.1 Sprint Planning 3
 
 Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión del Backend de la aplicacion y las correcciones de la anterior entrega.
 
+|            Sprint #             |                                                                                                                Sprint 3                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-10-21                                                                                                               |
+|              Time               |                                                                                                                08:24 PM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                     Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Alfaro Coveñas, Louis Piero / López Huarcaya, Leonardo Paul                                      |
+|     Sprint 2 Review Summary     |                                                                                     En resumen se alcanzo diseñar la primera version del frontend                                                                                      |
+| Sprint 2 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
+|        Sprint 2 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
 
 
 
@@ -3568,6 +3583,17 @@ El objetivo principal del Sprint 3 es tener una primera version de nuestra Front
 <br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
 
 
+|   Sprint #    |     Sprint 3     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
 
 
 
@@ -3577,6 +3603,17 @@ El objetivo principal del Sprint 3 es tener una primera version de nuestra Front
 
 <p>Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> para el desarrollo de la primera version de nuestro <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Los commits registrados en el repositorio reflejan el trabajo realizado en estas áreas en específico.</p>
 
+|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  Leonardo/Frontend-Arquimentor  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+|  Leonardo/Frontend-Arquimentor  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
+| kurtPuican/Frontend-Arquimentor |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
+| KurtPuican/Frontend-Arquimentor |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
+|   Rafael/Frontend-Arquimentor   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
+|   Rafael/Frontend-Arquimentor   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+| JulianaYS/Frontend-Arquimentor  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| JulianaYS/Frontend-Arquimentor  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+| DiegoR/Frontend-Arquimentor  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(Arquimentor-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
 
 
 
@@ -3707,6 +3744,18 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la actualizacion de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Por otro lado, se logró implementar la primera version del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support.
+
+|       Endpoint	       |  Acción   | Verbo HTTP |             Parámetros             |                                                                                  Ejemplo de Request                                                                                  |            Respuesta             |  Captura   |                          
+|:---------------------:|:---------:|:----------:|:----------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------:|:----------:|
+|     /api/v1/pubs      |  Listar   |    GET     |              Ninguno               |                                                                                                                                                                                      |     Listado de publicaciones     | <img src=""> |
+|     /api/v1/pubs      |   Crear   |    POST    |              Ninguno               |  | Publicación creada  exitosamente |<img src=""> |
+|   /api/v1/pubs/{id}   |  Obtener  |    GET     | Mentorid(int):Id de la publicación |                                                                                    /api/v1/pubs/5                                                                                    |     Detalle del bar con id 3     |<img src="">  |
+|   /api/v1/pubs/{Id}   | Modificar |    PUT     |    id(int):Id de la publicación    |                                                                                    /api/v1/pubs/5                                                                                    |    Actualizar el bar con id 3    | <img src="">  |
+|   /api/v1/pubs/{Id}   | Eliminar  |   DELETE   |    id(int):Id de la publicación    |                                                                                    /api/v1/pubs/5                                                                                    |     Eliminar el bar con id 3     | <img src="">  |
+|      /api/v1/support       |  Listar   |    GET     |              Ninguno               |                                                                                                                                                                                      |        Lista de supports         | <img src="">  |
+|   /api/v1/support    |   Crear   |    POST    |              Ninguno               |                                                                                                                                                                                      |       Creación de supports       | <img src="">  |
+| /api/v1/support/{Id} |    Eliinar    |     Delete     |       id(int):Id del support       |                                                                                  /api/v1/support/1                                                                                   |    Eliminar support con id 1     | <img src="">  |
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
