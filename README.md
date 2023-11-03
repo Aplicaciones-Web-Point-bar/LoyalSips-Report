@@ -59,7 +59,6 @@ Para la entrega del informe, se ha utilizado el siguiente repositorio de GitHub,
 | Link del repositorio | https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-TB1-Origin.git |
 |--|--|
 
-Link del video de exposicion: https://drive.google.com/drive/folders/1RP4wDkWHZFEQK1r9VCYfjRamnhmdURbj?usp=sharing
 
 A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe.
 
@@ -3901,7 +3900,29 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 
 ## 5.4. Video About-the-Product.
 
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169781275276628058/image.png"></div>
+    </td>
+</tr><br>
 
+[Link del video About the Product](https://drive.google.com/file/d/1ET_5D6EqUCFAp90LES0_h5k-oqez2F-x/view?usp=sharing)
+
+<br>
+
+
+## Video About-the-Team.
+
+<tr>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169788228069507122/image.png"></div>
+    </td>
+</tr><br>
+
+[Link del video About the Team](https://drive.google.com/file/d/1HCmNGgocCY-M1TAkckIX5lgqKAyELJdI/view?usp=drive_link)
+
+<br>
 
 ## Conclusiones y recomendaciones.
 
@@ -3909,10 +3930,6 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 2. Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
 3. Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
 Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
-
-## Video About-the-Team.
-
-https://drive.google.com/file/d/1ET_5D6EqUCFAp90LES0_h5k-oqez2F-x/view?usp=sharing
 
 ## Bibliografía
 
