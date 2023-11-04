@@ -3892,9 +3892,198 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 
 ## 5.3. Validation Interviews.
 
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la website que esta destinada a optimizar la venta de los empresarios de los bares y por parte de los clientes que desean comprar bebidas. Para ello, se realizó una serie de entrevistas a los usuarios que se encuentran en el segmento objetivo, para poder obtener una retroalimentación de la website y poder mejorarla.
+
+
 ### 5.3.1. Diseño de Entrevistas.
 
+Para la realizacion del diseño de entrevistas se tuvo en cuenta los siguientes puntos:
+
+**Objetivo de la entrevista:** El objetivo de la entrevista es obtener una retroalimentación de la website y poder mejorarla.
+
+**Preguntas de la entrevista:** Las preguntas que se realizaron en la entrevista fueron las siguientes:
+
+- **Para el segmento cliente:**
+<br>
+  - ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+<br>
+  - ¿Los perfiles de los bares proporcionan la información necesaria para tomar decisiones informadas sobre que bar elegir?
+<br>
+  - ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que puedan acceder a servicios en el sitio web?
+<br>
+  - ¿La plataforma cumple con tus expectativas en términos de brindar buenos servicios y promociones para que pueda ir a consumir a un bar del sitio web?
+<br>
+  - ¿Recomendarías esta plataforma a otros amigos que deseen los mismos servicios y productos? ¿Por qué?
+<br>
+  
+
+- **Para el segmento empresario:**
+<br>
+  - ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+  <br>
+  - ¿Los perfiles de los bares proporcionan la información necesaria para informar todos los beneficios y estancias que brinda su negocio?
+  <br>
+  - ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que los bares puedan fidelizar más a sus clientes?
+  <br>
+  - ¿La plataforma cumple con tus expectativas en términos de brindar oportunidades en marketing para brindar su servicio a diversas personas?
+  <br>
+  - ¿Recomendarías esta plataforma a otras personas que deseen brindar sus servicios y productos de su bar? ¿Por qué?
+  <br>
+
+
 ### 5.3.2. Registro de Entrevistas.
+
+**Segmento objetivo 1 (Cliente):**
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Giovani Ramos</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Cliente</td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170268228757508117/image.png" alt="Entrevistado 1"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Giovani Ramos nos cuenta su experiencia al usar nuestra website, a medida que pasa la entrevista, nos va contando que lo que más le llama la atención es el hecho de poder ver los perfiles de los bares y al ver los productos y las ofertas que cada bar posee, le hace fácil de usar. Seguidamente nos cuenta que la facilidad que ve la descripcion de los bares le dan una idea de ver que bar elegir. Por otra parte, Giovani nos sugiere que al momento de mostrar la tabla de los bares, haya un tipo de filtro de acuerdo a las bebidas que uno quiere buscar. En conclusion, Giovani manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>0:01 - 4:41</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alexander Paredes</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Cliente </td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170273895631290368/image.png" alt="Entrevistado 2"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Alexander Paredes nos cuenta su experiencia al usar nuestra website, nos comenta que tanto la descripcion de los bares como la visualizacion de su puntaje respectivo se visualiza de manera efectiva. Seguidamente nos cuenta que Interfaz y la paleta de colores se adecua correctamente al proposito del negocio. Por otra parte, Alexander nos sugiere que dentro del sitio web exista un ChatBot, el cual ayude a verificar productos de manera mas detallada de cada bar, del mismo modo para pedir ayuda, entre otros. En conclusion, Alexander manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>4:42 - 8:47</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alan Galavis</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Cliente </td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170275302899990588/sector_cliente_3.png" alt="Entrevistado 3"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Alan Galavis nos cuenta su experiencia al usar nuestra website, el apartado de Home es una de las secciones que para Alan le parece bastante atractiva, dado que presenta distintas secciones en el cual puede ver las ofertas de los bares y su respectivo puntaje, lo cual es esencial para la idea del negocio. Seguidamente nos cuenta que la seccion de Soporte le parece esencial porque existen situaciones en las que los usuarios que usen la website necesiten una consulta especifica. Por otra parte, Alan Galavis nos sugiere que al en la seccion de Support, no se pida nuevamente el nombre del usuario ni tampoco la contraseña, dado que el usuario cuando ya inicie sesion, tendra esa seccion ya habilitada, por lo que no tendria mucho sentido volver a pedir el nombre de usuario ni la contraseña, solo hubiera un apartado para la descripcion de la pregunta respectivamente. En conclusion, Alan manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>8:48 - 16:57</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+**Segmento objetivo 2 (Empresario):**
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Juan Mendoza</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Empresario</td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170276783996813353/sector_cliente3.png" alt="Entrevistado 4"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Juan Mendoza nos cuenta su experiencia al usar nuestra website, Juan esta iniciando un negocio de un bar y tiene intereses en poder promocionar su negocio y obtener mas ingresos, nos va comentando que el hecho de poder poner sus ofertas en el sitio web le ayuda bastante a que clientes puedan conocer su negocio y realizar un consumo dirigiendose a su bar. Seguidamente nos cuenta la interfaz de la website es bastante llamativa y de acorde al proposito de la idea de negocio. Por otra parte, Juan Mendoza nos sugiere que la informacion que se muestra no sea con demasiadas opciones porque esto puede marear al usuario, en este caso al empresario, de ese modo que existan opciones concisas. En conclusion, Juan manifiesta que la website esta buena, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>16:58 - 24:42</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Fernando Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Empresario</td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170279003895103498/segmento_empresario_2.png" alt="Entrevistado 5"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Fernando Gonzales nos cuenta su experiencia al usar nuestra website, recalca que la interfaz de usuario es bastante buena y esta a la vez es intuitiva para la usabilidad del cliente con elementos visuales atractivos. Ademas el hecho de poder mostrar la descripcion de los bares es esencial para la ganancia de clientes y por ende más ingresos. Por otra parte, Fernando nos sugiere que exista una funcion en el que el usuario pueda tener una interaaccion mas directa con el bar, un historial de compras realizadas para poder ver las ganancias de los bares y la posibilidad de realizar retroalimentacion a los bares para sus mejoras en precios respectivamente. En conclusion, Fernando manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>24:43 - 28:46</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Brian Rivas</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Empresario</td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170281273047138354/segmento_empresario_3.png" alt="Entrevistado 6"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Brian Rivas nos comenta su experiencia al usar nuestra website, nos menciona que la interfaz es intuitiva dado que el usuario si esta perdido, puede navegar por el navbar que ofrece varias secciones. Ademas, nos cuenta que la descripcion de los bares o los perfiles, muestran informacion limitada, pudiendo mostrar cosas precisas y que sean atractivas para el cliente, lo cual beneficiaria a la ganancia de clientes de los bares y por ende el incremento de ingresos del mismo. Por otra parte, Brian nos sugiere que las letras que se muestran en el sitio web sean mas legibles para el usuario, esto mejoraria la experiencia de usuario lo cual es un punto muy importante para la comodidad del usuario. En conclusion, Brian manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>28:47 - 34:01</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
 
 ### 5.3.3. Evaluaciones según heurísticas.
 <div align='center'>
