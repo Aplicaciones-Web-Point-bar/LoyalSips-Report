@@ -3904,31 +3904,32 @@ Para la realizacion del diseño de entrevistas se tuvo en cuenta los siguientes 
 **Preguntas de la entrevista:** Las preguntas que se realizaron en la entrevista fueron las siguientes:
 
 - **Para el segmento cliente:**
-<br>
-  - ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
-<br>
-  - ¿Los perfiles de los bares proporcionan la información necesaria para tomar decisiones informadas sobre que bar elegir?
-<br>
-  - ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que puedan acceder a servicios en el sitio web?
-<br>
-  - ¿La plataforma cumple con tus expectativas en términos de brindar buenos servicios y promociones para que pueda ir a consumir a un bar del sitio web?
-<br>
-  - ¿Recomendarías esta plataforma a otros amigos que deseen los mismos servicios y productos? ¿Por qué?
-<br>
+
+  1.  ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+
+  2.  ¿Los perfiles de los bares proporcionan la información necesaria para tomar decisiones informadas sobre que bar elegir?
+
+  2. ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que puedan acceder a servicios en el sitio web?
+
+  3. ¿La plataforma cumple con tus expectativas en términos de brindar buenos servicios y promociones para que pueda ir a consumir a un bar del sitio web?
+
+  4. ¿Recomendarías esta plataforma a otros amigos que deseen los mismos servicios y productos? ¿Por qué?
+
   
 
 - **Para el segmento empresario:**
-<br>
+
+
   - ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
-  <br>
+
   - ¿Los perfiles de los bares proporcionan la información necesaria para informar todos los beneficios y estancias que brinda su negocio?
-  <br>
+
   - ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que los bares puedan fidelizar más a sus clientes?
-  <br>
+
   - ¿La plataforma cumple con tus expectativas en términos de brindar oportunidades en marketing para brindar su servicio a diversas personas?
-  <br>
+
   - ¿Recomendarías esta plataforma a otras personas que deseen brindar sus servicios y productos de su bar? ¿Por qué?
-  <br>
+
 
 
 ### 5.3.2. Registro de Entrevistas.
