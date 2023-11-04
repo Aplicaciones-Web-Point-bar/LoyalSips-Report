@@ -3905,15 +3905,15 @@ Para la realizacion del diseño de entrevistas se tuvo en cuenta los siguientes 
 
 - **Para el segmento cliente:**
 
-  1.  ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+  - ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
 
-  2.  ¿Los perfiles de los bares proporcionan la información necesaria para tomar decisiones informadas sobre que bar elegir?
+  - ¿Los perfiles de los bares proporcionan la información necesaria para tomar decisiones informadas sobre que bar elegir?
 
-  2. ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que puedan acceder a servicios en el sitio web?
+  - ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que puedan acceder a servicios en el sitio web?
 
-  3. ¿La plataforma cumple con tus expectativas en términos de brindar buenos servicios y promociones para que pueda ir a consumir a un bar del sitio web?
+  - ¿La plataforma cumple con tus expectativas en términos de brindar buenos servicios y promociones para que pueda ir a consumir a un bar del sitio web?
 
-  4. ¿Recomendarías esta plataforma a otros amigos que deseen los mismos servicios y productos? ¿Por qué?
+  - ¿Recomendarías esta plataforma a otros amigos que deseen los mismos servicios y productos? ¿Por qué?
 
   
 
