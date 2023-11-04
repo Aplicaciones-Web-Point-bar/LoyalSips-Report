@@ -3897,6 +3897,241 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 ### 5.3.2. Registro de Entrevistas.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+<div align='center'>
+  <h2>Evaluación de Heurísticas y Principios de Experiencia de Usuario (UX)</h2>
+  <h3>Usabilidad - Diseño Inclusivo - Arquitectura de la Información</h3>
+</div>
+
+<b>CARRERA:</b> Ingeniería de Softwaregit 
+
+<b>CURSO:</b> Aplicaciones Web
+
+<b>SECCIÓN:</b> SW51
+
+<b>PROFESORES:</b> Todos
+
+<b>AUDITOR:</b> TeachSolutions
+
+<b>CLIENTE(S):</b>
+
+- Leonardo Paul López Huarcaya
+- Sandro Fourfive Alarcon Rondon
+- José Carlos Isaac Ampudia Flores
+- Jean Pierre Morin Fuentes
+
+## SITE o APP A EVALUAR:
+
+### Loyalsips
+
+Objetivo: El objetivo principal de la evaluación es identificar posibles deficiencias en la aplicación web Loyalsips.
+
+Método: La revisión de la aplicación web se realizará utilizando la Lista Heurística de Nielsen, la cual fue desarrollada inicialmente por Jakob Nielsen y se utiliza como referencia para este proceso de evaluación.
+
+
+<strong>TAREAS A EVALUAR:</strong>
+<p>El alcance de esta evaluación incluye la revisión de las siguientes tareas:</p>
+
+<ol>
+<li>Cambio de idioma en la página</li>
+<li>Sección del <strong><em>navbar</em></strong> en el <em>Landing Page</em></li>
+<li>Sección de <strong>Support</strong> en el <em>Web Application</em></li>
+<li>Sección <strong>Home</strong> en el <em>Web Application</em></li>
+<li>Descripción de la presentación de la sección del <strong>About us</strong> del <em>startup</em></li>
+<li>Sección <strong>Drinks</strong> en el <em>Web Application</em></li>
+</ol>
+
+<br>
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+
+<ol>
+<li>Ingresar con una cuenta</li>
+<li>Crear una cuenta nuvea</li>
+<li>Redireccionamiento de las cards</li>
+<li>Envió de comentarios a soporte</li>
+</ol>
+
+<br>
+
+<strong>ESCALA DE SEVERIDAD:</strong>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nivel</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+   superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+</tr>
+</table>
+
+<br>
+
+<strong>TABLA RESUMEN:</strong>
+
+<br>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">#</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Problema</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Escala de severidad</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Heurística/Principio violada(o)</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">No se puede denotar el límite definido a lo que respecta el inicio de la sección <em>footer</em>.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Effectiveness. Can users achieve their desired goals on your website?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección <strong>Home</strong>, dicha presentación da un toque de seriedad en vez de llamatividad.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it delightful?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección de <strong>Support</strong>, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it clear?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Se desconoce quienes son los miembros del equipo que conforman el <strong>startup</strong></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it communicative?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: User Satisfaction. Do users like to use your website and recommend it to others?</td>
+</tr>
+</table>
+
+<br>
+
+<strong>DESCRIPCIÓN DE PROBLEMAS:</strong>
+<p><strong>Problema #1:</strong> No se puede denotar el límite definido a lo que respecta el inicio de la sección footer.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Effectiveness. Can users achieve their desired goals on your website?</p>
+
+<strong>Problema:</strong>
+<p>En la presentación del <em>Landing Page</em>, se lográ visualizar todo el contenido de lo que respecta a la información representativa del <em>startup</em> en mención; sin embago, al momento de visualizar la parte final del mismo, no se lográ definir si este pertece aun al cuerpo de la página o ya llegó a su fin, por lo que lográ generar ciertas dudas y confunsiones al momento de la interacción.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166064197843562599/image.png?ex=654920e9&is=6536abe9&hm=7629ca94af814d35e89735d502cff6104f4f82cd58bccc27ffab6534f9949252&=&width=1191&height=564" alt="Problem#1_Footer" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda colocar un color un color diferente al apartado del <em>footer</em> para que se diferencia del resto del cuerpo de la pagina; asimismo, colocar un copyright para darle un enfoque más apropiado.</p>
+
+<hr><br>
+
+<p><strong>Problema #2:</strong> En la sección Home, dicha presentación da un toque de seriedad en vez de llamatividad.</p>
+
+<p><strong>Severidad:</strong> 1</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it delightful?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de apreciar la página principal del <em>Web Application</em>, podemos denotar una presentación con tonalidades un tanto sutiles y oscuras a la vez, por lo que si más que todo se está enfocando en temática noche y un ambiente de satisfacción - que es lo que representa un bar -, debe cambiar un tanto la presentación del fondo y adecuarlo a algo que se compacte con un nuevo enfoque visual que impacte sin perder los colores representativos de la marca.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973515/1170217665709752451/image.png?ex=65583d21&is=6545c821&hm=90ef74d24665ebf934bdd8c190d885b0649d7a29f98d6da539d6b17905ed8fce&=&" alt="Problem#2_Home" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda mostrar contenido representivo a lo qué tranmitimos a nuestros clientes - un fondo dentro de las instalaciones o un grupo de personas diviertiendose por ejemlo, sería una excelente idea -.</p>
+
+<hr><br>
+
+<p><strong>Problema #3:</strong> En la sección de Support, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</p>
+
+<p><strong>Severidad:</strong> 4</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it clear?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de argumentar las posibles dudas que pueda presentar dentro de la página, nos percatamos que también hay una guía de posibles preguntas frecuentes de las cuales ya se puede obtener una respuesta; el problema radíca en que esas preguntas, están en un idioma que la gran mayoría de usuarios desconoce, por lo que genera cierta sensación de confusión y dudas al momento de consultar.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166065262299185294/image.png?ex=654921e6&is=6536ace6&hm=1023c487862ae1b335db5de4543c04d61c4b4683d1b115670b7e2fd3c94aeeaf&=&width=1198&height=564" alt="Problem#3_Support" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar preguntas frecuentes verdaderas en lugar del típico <em>Lorem</em> para así dar un toque más de credibilidad y evitar que los usuarios se confundan.</p>
+
+<hr><br>
+
+<p><strong>Problema #4:</strong> Se desconoce quienes son los miembros del equipo que conforman el startup.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it communicative?</p>
+
+<strong>Problema:</strong>
+<p>En la sección del <em>Profile</em>, no se logra visualizar con exactitud la información detallada de perfil del usuario, por lo que genera cierta dudosidad al momento de interactuar dentro de él, ya que deja a la mente del usuario de que esto no es algo confiable.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973515/1170218166614503475/image.png?ex=65583d98&is=6545c898&hm=ec5118375776d4c824997f05f71bb41c97ace5aef93f8125c8fc97565f9f5d7e&=&" alt="Problem#4_AboutUs" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar debajo de la <em>card</em> que describe el <strong>startup</strong> un subtitulo que defina a los integrantes que conforman este equipo para que los usuarios sepan un poco de los autores de los cuales, gracias a ello, se pudo llevar a cabo todo ello. </p>
+
+<hr><br>
+
+<p><strong>Problema #5:</strong> El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: User Satisfaction. Do users like to use your website and recommend it to others?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de visualizar el catálogo de bares que se tiene dentro del bar, explica de manea muy sencilla y apreciable a la vez de las bebidas que dentro del lugar sirven; pero, lo que si deja mucho que desear, es el tema de detalle de lo que contiene o de lo que se compone el bar, ya que al dejarlo solo así, no impacta o no llama tanto la atención de los nuevos usuarios que tal vbz nunca han ido a visitar un bar.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973515/1170219322937970708/image.png?ex=65583eac&is=6545c9ac&hm=be8686967aaee910b0a495141fa5514e9c5968b89fbe88c501b4ca6bc641f39b&=&" alt="Problem#5_Drinks" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda añadir más información que detalle un poco más de los insumos que contienen los bares y dichas promociones para dar un mejor panorama en la elección de lo que el mismo usuario desee consumir.</p>
+
+<br>
+
+
+
+### Web Aplicaion
+
 
 ## 5.4. Video About-the-Product.
 
