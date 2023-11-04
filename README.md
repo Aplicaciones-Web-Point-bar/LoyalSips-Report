@@ -4332,7 +4332,7 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
     </td>
 </tr><br>
 
-[Link del video About the Product](https://drive.google.com/file/d/1ET_5D6EqUCFAp90LES0_h5k-oqez2F-x/view?usp=sharing)
+[upc-pre202302-si730-sw51-TechSolutions-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeC0Rfsm_vRJoU4LwTHoC-kBvZqxmxx_a9LtIcDGDjKJUg?e=oxzmHq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 <br>
 
@@ -4341,11 +4341,11 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 
 <tr>
     <div align='center'> 
-    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169788228069507122/image.png"></div>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1170385700164743209/image.png"></div>
     </td>
 </tr><br>
 
-[Link del video About the Team](https://drive.google.com/file/d/1HCmNGgocCY-M1TAkckIX5lgqKAyELJdI/view?usp=drive_link)
+[upc-pre202302-si730-sw51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EW3Ip1FfAh1Mn6BR0wa0FfcB_LmLCtzjsbES0rF2ojaQTw?e=kueZ8q)
 
 <br>
 
