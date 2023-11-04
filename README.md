@@ -3566,12 +3566,12 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 |              Time               |                                                                                                                08:24 PM                                                                                                                |
 |            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
 |           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
-| Attendees (to planning meeting) |                                     Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / Alfaro Coveñas, Louis Piero / López Huarcaya, Leonardo Paul                                      |
-|     Sprint 2 Review Summary     |                                                                                     En resumen se alcanzo diseñar la primera version del frontend                                                                                      |
-| Sprint 2 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| Attendees (to planning meeting) |                                     Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / López Huarcaya, Leonardo Paul                                      |
+|     Sprint 3 Review Summary     |                                                                                     En resumen se alcanzo actualizar la primera version del Frontend que se tenía realizado. Por otro lado, se realizó la primera version del Backend de la aplicacion, con las tablas principales para la idea de negocio de la aplicación.                                                                                      |
+| Sprint 3 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
 | **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
-|          Sprint 2 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
-|        Sprint 2 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
+|          Sprint 3 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
+|        Sprint 3 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
 |       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
 
 
@@ -3579,47 +3579,50 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 #### 5.2.3.2 Sprint Backlog 3
 
 El objetivo principal del Sprint 3 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
-<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
 
 
 |   Sprint #    |     Sprint 3     | | |                              ||
 |:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
 |               | Work-Item / Task |
 | User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
-|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
-|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
-|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
-|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
-|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
-|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
+|     US023     |        T1        |Imolementar el login y register para ambos segmentos objetivos |3 h |      Ampudia Jose       | Done|
+|     US003     |        T2        |Implementar la secccion Support para realizar alguna pregunta |3 h |      Ampudia Jose       | Done|
+|     US014     |        T3        |Poder visualizar la descripcion de los bares. |3 h | Leonardo Lopez | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Ampudia Flores        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Alarcon Sandro       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Ampudia Jose       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Morin Fuentes            | Done|
+|     US010     |        T7        | Implementar la seccion de Points para el Backend |5 h |            Morin Fuentes            | Done|
+|     US010     |        T7        | Implementar la seccion de Point para el Backend |5 h |            Alarcon Sandro            | Done|
+|     US011     |        T7        | Implementar la seccion de Support para el Backend |5 h |            Ampudia Jose            | Done|
+|     US008     |        T7        | Implementar la seccion de Users & Pubs para el backend |5 h |            Leonardo Lopez            | Done|
 
 
 
 
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.3.3.Development Evidence for Sprint Review.
 
 <p>Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> para el desarrollo de la primera version de nuestro <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Los commits registrados en el repositorio reflejan el trabajo realizado en estas áreas en específico.</p>
 
 |           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
 |:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
-|  Leonardo/Frontend-Arquimentor  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
-|  Leonardo/Frontend-Arquimentor  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
-| kurtPuican/Frontend-Arquimentor |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
-| KurtPuican/Frontend-Arquimentor |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
-|   Rafael/Frontend-Arquimentor   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
-|   Rafael/Frontend-Arquimentor   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
-| JulianaYS/Frontend-Arquimentor  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
-| JulianaYS/Frontend-Arquimentor  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
-| DiegoR/Frontend-Arquimentor  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(Arquimentor-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
+|  Leonardo/Frontend-LoyalSips  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+|  Leonardo/Frontend-LoyalSips  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project Vue             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Vue |     21/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
+|   JeanPmf/Frontend-LoyalSips   | feature/User-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
+|   AlarSandro/Frontend-LoyalSips   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+| AlarSandro/Frontend-LoyalSips  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(LoyalSips-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
 
 
 
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
-Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend de la aplicación.
+Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend de la aplicación. Por el momento no se pudo desplegar el Backend de la aplicacion, pero para la siguiente entrega lo tendremos listo.
 
 | Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
@@ -3627,10 +3630,14 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 
 <br>
 
-| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://webloyalsips.web.app)                | 
+| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips-44e19.web.app/home)                | 
 |---------------------|---------------------|
 
-#### 5.2.2.5. Execution Evidence for Sprint Review.
+| Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
+|---------------------|---------------------|
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
 
 En el sprint 3, se logró implementar la primera versión del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support, los cuales se muestran a continuacion:
 
@@ -3740,7 +3747,7 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 
 
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la actualizacion de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Por otro lado, se logró implementar la primera version del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support.
 
@@ -3756,7 +3763,7 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 | /api/v1/support/{Id} |    Eliinar    |     Delete     |       id(int):Id del support       |                                                                                  /api/v1/support/1                                                                                   |    Eliminar support con id 1     | <img src="">  |
 
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, la actualizacion de la version que se tenia inicialmente del Frontend de la aplicacion y la primera version del Backend de la aplicacion. 
 
@@ -3837,7 +3844,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 
 
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 |Nombre|Rol|
 |------|---|
