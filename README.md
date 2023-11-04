@@ -59,7 +59,6 @@ Para la entrega del informe, se ha utilizado el siguiente repositorio de GitHub,
 | Link del repositorio | https://github.com/Aplicaciones-Web-Point-bar/LoyalSips-TB1-Origin.git |
 |--|--|
 
-Link del video de exposicion: https://drive.google.com/drive/folders/1RP4wDkWHZFEQK1r9VCYfjRamnhmdURbj?usp=sharing
 
 A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe.
 
@@ -121,6 +120,33 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TB2.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Actualizacion de links de repositorios, corrección de detalles en el informa y estructura, implementación de la seccion Support para el Backend del proyecto, actualizacion del Frontend de la aplicacion, sectores como home, login, register, etc.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Actualizacion y diseño del Frontend de la Aplicacion y el Backend. <br><br></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Implementacion de las entrevistas y validacion del producto, del mismo modo actualizacion del Frontend y Backend.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Lopez Huarcaya</td>
+    <td style="text-align: justify;">Implementacion del Backend para las tablas de Users, Pubs, y creacion del repositorio.</td>
+  </tr>
+</table>
+<br>
+
+
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
 
@@ -130,7 +156,6 @@ Miembros:
 - Alarcon Rondon (Alarsandro)
 - Morin Fuentes (Jeanpi-MF)
 - López Huarcaya (leonardox-lh)
-- Alfaro Coveñas (LouisAlfaro)
 </div>
 
 
@@ -258,6 +283,16 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
+        <br>
+    - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-2)
+        - [5.2.3.2. Sprint Backlog 2](#5232-sprint-backlog-2)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](5238-team-collaboration-insights-during-sprint)
 
 
 
@@ -282,22 +317,39 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TP:</strong><br>
           Para la entrega del Trabajo parcial, se presenta la implementación del Sprint 2, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
           - Colaboró con la implementación del Lean UX Assumptions e Hypothsys, como también en la implementación del diseño del prototipo del proyecto y la Landing Page desplegada, el cual se usó un repositorio de Github, con el uso de HTML, CSS y JavaScript.<br><br>
+          <strong>TB2:</strong><br>
+          Para la entrega del TB2, se presenta la implementación del Sprint 3, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
+          - Colaboró con la implementacion de actualizaciones en el Frontend de la aplicación y el desarrollo del Backend para la secccion Support de la aplicacion.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
           - Colaboró con la implementacion del Solution Profile, Lean UX Problem Statements, como tambien en el desarrollo del Needfinding, To-be Scenario Mapping, los Style Guidelines, el Team Collaboration Insights during Sprint y avance de conclusiones.<br><br>
+          <strong>TP:</strong><br>
+          Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
+          - Colaboró con la implementacion del Solution Profile, Lean UX Problem Statements, como tambien en el desarrollo del Needfinding, To-be Scenario Mapping, los Style Guidelines, el Team Collaboration Insights during Sprint y avance de conclusiones.<br><br>
+          <strong>TB2:</strong><br>
+          Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
+          - Colaboro con la implementacion del codigo en general y si alguno de mis compañeros necesitan ayuda los apoyo, backend, fronted, colabore con la creacion del DB.json.<br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
-          -Colaboró con la implementacion del Startup Profile, el análisis competitivo, el desarrollo de los diagramas DDD, como también el Software Configuration Management, especialmente en Software Development Environment Configuration y Source Code Management.<br><br>
-          <strong>Alfaro, Louis</strong><br>
-          <strong>TB1:</strong><br>
-          Asistió parcialmente a reuniones claves organizadas por el equipo de trabajo, aportando parcialmente ideas para la solución del proyecto. No realizó sus tareas establecidas a tiempo, lo cual perjudicó de forma clara el avance óptimo del proyecto.<br><br>
-          -Colaboró con la implementacion Lean UX Canvas, Segmento Objetivo, Registro de entrevistas, User Journey Mapping, Empathy Mapping, Product Backlog.<br><br>
+          - Colaboró con la implementacion del Startup Profile, el análisis competitivo, el desarrollo de los diagramas DDD, como también el Software Configuration Management, especialmente en Software Development Environment Configuration y Source Code Management.<br><br>
+          <strong>TP:</strong><br>
+          Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
+          - Colaboro con la implementacion y actualización del Impact mapping, ya que anteriormente, no estaba del todo clarividente en su semejanza. Póstumo a ello, realicé las correcciones y actualización de los “Domain Driven Design” – pertenecientes a nuestro Software Architecture Components -. Como último task que desarrollé, ha sido la implementación de la sección contact para el “Web Application”.<br><br>
+          <strong>TB2:</strong><br>
+          Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
+          - Para la siguiente entrega se realiazaron las entrevistas de los 2 segmentos de usuarios clientes y empresarios. Asimismo, en la integración de Testin suite evidence for sprint review y Execution evidence for sprint review..<br><br>
           <strong>López, Leonardo</strong><br>
           <strong>TB1:</strong><br>
           Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
           -Colaboró con la implementacion del Lean UX Problem Statements, As-is Scenario Mapping, User Stories, Sprint Planing 1, Sprint Backlog 1, no cumplió con el Development Evidence for Sprint Review.
+          <strong>TP:</strong><br>
+          Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
+          -Colaboró con el desarrollo del Frontend de la aplicacion, en el sector de Home, respetando el diseño inicial del producto, implementando mejorias para la experiencia del usuario.<br><br>
+          <strong>TB2:</strong><br>
+          Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
+          -Colaboró con la implementación del Backend de la aplicacion, especialmente en la creacion de las entidades de Users & Pubs o Bares.<br><br>
         </td>
         <td><strong></strong><br>
         Para la elaboración de nuestro proyecto, fue necesaria la comunicación en equipo, una de las herramientas claves fue Discord y WhatsApp, en el que se designó los temas para cada integrante del equipo.</td>
@@ -309,13 +361,26 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, además, el manejo de base de datos, en el que incluye modelo relacional y no relacional.<br><br>
           <strong>TP:</strong><br>
           En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, de tal modo que la capacidad de aplicar habilidades y conocimientos para la implementación del mismo, es muy importante.<br><br>
+          <strong>TB2:</strong><br>
+          En la siguiente entrega, es importante poseer conocimientos previos en el lenguaje de C# y el uso de la herramienta Postman, para la implementación del backend de la aplicación.<br><br> 
           <strong>Morin, Jean</strong><br>
           <strong>TB1</strong><br>
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, como también C++, python y otros.
           <br><br>
+          <strong>TP</strong><br>
+          En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, por lo que el conocimiento de lenguajes como html, css y javascript es importante para la implementación del mismo.<br><br>
+          <strong>TB2</strong><br>
+          Para esta entrega de la TB2, se implementara el Backend de la aplicacion por lo que es importante el conocimiento y manejo de C# y metodos de testing como Postman.<br><br>
+          <br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1</strong><br>
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, el uso de Python e implementacion de algoritmos y manejo del modelo C4.
+          <br><br>
+          <strong>TP</strong><br>
+          Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, lo cual es importante para el desarrollo del Frontend de la aplicacion.
+          <br><br>
+          <strong>TB2</strong><br>
+          En esta seccion se necesitara el conocimiento de C# para la implementacion del Backend de la aplicacion, lo cual facilitara la implementacion del mismo.
           <br><br>
           <strong>Alfaro, Louis</strong><br>
           <strong>TB1</strong><br>
@@ -325,9 +390,12 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB1</strong><br>
           Posee conocimientos en git hub, git flow y el formato MarkDown, como tambien algunos lenguajes.
             <br><br>
-            <strong>TP1:</strong><br>
+            <strong>TP:</strong><br>
           Posee conocimientos en lenguajes de progamación como HTML, CSS, Java Script y algunos framework como Angular Y Vue.
-            <br><br>
+          <br><br>
+          <strong>TB2</strong><br>
+          Para esta entrega es importante el conocimiento de C# para la elaboracion del Backend de la aplicacion, lo cual facilitara la implementacion del mismo.
+          <br><br>
     </td>
     <td><strong></strong><br>La capacidad de manejar varios lenguajes de programación es bastante importante, lo cual influyó mucho para la elaboración del trabajo, dentro de ellos está el conocimiento de los lenguajes de HTML, CSS y Java Script, para la implementación de la Landing Page de manera correcta, por otro lado, la capacidad de poder manejar os diagramas de modelado C4, lo cual nos ayudó a mostrar de diferentes maneras el enfoque que tendrá nuestro proyecto final, no dejemos de lado la herramienta Figma, que nos sirvió para realizar el diseño del proyecto, y de esta manera poder ayudarnos para la implementación de la Landing Page.</td>
   </tr>
@@ -2404,7 +2472,7 @@ Con respecto a Software Architecture Components Diagrams, son representaciones v
   **Access Bounded Context:**  
 
   <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td style="border: 1px solid #dddddd;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1145898392631918606/1155988321118466149/Access_Content_Bounded_Context_1.png"></div>
     </td>
@@ -3191,15 +3259,15 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 
 |           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
 |:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
-|  Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
-|  Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
-|Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
-| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
-|   Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
-|   Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
-| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
-| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
-| Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(Arquimentor-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
+|  [Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git)  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+|  [Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git)  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
+|[Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git) |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
+| [Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git) |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
+|   [Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git)   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
+|   [Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git)   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+| [Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git)  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| [Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git)  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+| [Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git)  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(Arquimentor-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
 
 <br>
 
@@ -3209,7 +3277,7 @@ Para la entrega del Sprint 2, se tuvo pensado alcanzar la actualización del Lan
 
 | Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
-| [LoyalSips-Web-Application](https://github.com/Aplicaciones-Web-Point-bar/Frontend_LoyalSips.git) | Feature/TS-Web-Application | feature:home-section add     | Initial commit | Se creó el proyecto | 25/09/2023|
+| [LoyalSips-Web-Application](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git) | Feature/TS-Web-Application | feature:home-section add     | Initial commit | Se creó el proyecto | 25/09/2023|
 
 <br>
 
@@ -3432,7 +3500,6 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
     <td style="border: 1px solid #dddddd; padding: 8GITpx;">
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639922271363083/1157212873290948628/image.png"></div>
-
     </td>
 </tr>
 
@@ -3485,17 +3552,809 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
     </td>
 </tr><br>
 
+### 5.2.3. Sprint 3
+
+
+#### 5.2.3.1 Sprint Planning 3
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión del Backend de la aplicacion y las correcciones de la anterior entrega.
+
+|            Sprint #             |                                                                                                                Sprint 3                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-10-21                                                                                                               |
+|              Time               |                                                                                                                08:24 PM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                     Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / López Huarcaya, Leonardo Paul                                      |
+|     Sprint 3 Review Summary     |                                                                                     En resumen se alcanzo actualizar la primera version del Frontend que se tenía realizado. Por otro lado, se realizó la primera version del Backend de la aplicacion, con las tablas principales para la idea de negocio de la aplicación.                                                                                      |
+| Sprint 3 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 3 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
+|        Sprint 3 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
+
+
+
+#### 5.2.3.2 Sprint Backlog 3
+
+El objetivo principal del Sprint 3 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+
+
+|   Sprint #    |     Sprint 3     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US023     |        T1        |Imolementar el login y register para ambos segmentos objetivos |3 h |      Ampudia Jose       | Done|
+|     US003     |        T2        |Implementar la secccion Support para realizar alguna pregunta |3 h |      Ampudia Jose       | Done|
+|     US014     |        T3        |Poder visualizar la descripcion de los bares. |3 h | Leonardo Lopez | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Ampudia Flores        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Alarcon Sandro       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Ampudia Jose       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Morin Fuentes            | Done|
+|     US010     |        T7        | Implementar la seccion de Points para el Backend |5 h |            Morin Fuentes            | Done|
+|     US010     |        T7        | Implementar la seccion de Point para el Backend |5 h |            Alarcon Sandro            | Done|
+|     US011     |        T7        | Implementar la seccion de Support para el Backend |5 h |            Ampudia Jose            | Done|
+|     US008     |        T7        | Implementar la seccion de Users & Pubs para el backend |5 h |            Leonardo Lopez            | Done|
+
+
+
+
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+
+<p>Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de <em>commits</em> para el desarrollo de la primera version de nuestro <em>Frontend Web Application</em> respecto a nuestro <strong>Startup</strong>. Los commits registrados en el repositorio reflejan el trabajo realizado en estas áreas en específico.</p>
+
+|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  Leonardo/Frontend-LoyalSips  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+|  Leonardo/Frontend-LoyalSips  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project Vue             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Vue |     21/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
+|   JeanPmf/Frontend-LoyalSips   | feature/User-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
+|   AlarSandro/Frontend-LoyalSips   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+| AlarSandro/Frontend-LoyalSips  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(LoyalSips-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
+
+
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend de la aplicación. Por el momento no se pudo desplegar el Backend de la aplicacion, pero para la siguiente entrega lo tendremos listo.
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Backend](https://github.com/Aplicaciones-Web-Point-bar/LoyalSips.Api.git) | main | feat(Pubs)     | Add Collections Pubs | Se creó el proyecto | 23/10/2023|
+
+<br>
+
+| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips-44e19.web.app/home)                | 
+|---------------------|---------------------|
+
+| Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
+|---------------------|---------------------|
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En el sprint 3, se logró implementar la primera versión del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support, los cuales se muestran a continuacion:
+
+**Evidencia de Backend LoyalSips**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639921830973515/1169512390950387742/image.png"></div>
+    </td>
+</tr><br>
+
+**Evidencia de Backend en la Base de Datos**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169528821402325002/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530402784956426/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530471810617464/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (GET)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169531555924951072/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (PUT)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532219602260028/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532621538209852/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (DELETE)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169533514346135593/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725855740739624/image.png"></div>
+    </td>
+</tr><br>
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725903346090086/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (GET)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726396042580071/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (DELETE)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726748376698990/image.png"></div>
+    </td>
+</tr><br>
+
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se tuvo pensado la creación de la actualizacion de la primera versión del Web Application, el cual se enfocará en la parte funcional y visual de los apartados principales que se muestran en el Web Application Desktop. Por otro lado, se logró implementar la primera version del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support.
+
+|       Endpoint	       |  Acción   | Verbo HTTP |             Parámetros             |                                                                                  Ejemplo de Request                                                                                  |            Respuesta             |  Captura   |                          
+|:---------------------:|:---------:|:----------:|:----------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------:|:----------:|
+|     /api/v1/pubs      |  Listar   |    GET     |              Ninguno               |                                                                                                                                                                                      |     Listado de publicaciones     | <img src=""> |
+|     /api/v1/pubs      |   Crear   |    POST    |              Ninguno               |  | Publicación creada  exitosamente |<img src=""> |
+|   /api/v1/pubs/{id}   |  Obtener  |    GET     | Mentorid(int):Id de la publicación |                                                                                    /api/v1/pubs/5                                                                                    |     Detalle del bar con id 3     |<img src="">  |
+|   /api/v1/pubs/{Id}   | Modificar |    PUT     |    id(int):Id de la publicación    |                                                                                    /api/v1/pubs/5                                                                                    |    Actualizar el bar con id 3    | <img src="">  |
+|   /api/v1/pubs/{Id}   | Eliminar  |   DELETE   |    id(int):Id de la publicación    |                                                                                    /api/v1/pubs/5                                                                                    |     Eliminar el bar con id 3     | <img src="">  |
+|      /api/v1/support       |  Listar   |    GET     |              Ninguno               |                                                                                                                                                                                      |        Lista de supports         | <img src="">  |
+|   /api/v1/support    |   Crear   |    POST    |              Ninguno               |                                                                                                                                                                                      |       Creación de supports       | <img src="">  |
+| /api/v1/support/{Id} |    Eliinar    |     Delete     |       id(int):Id del support       |                                                                                  /api/v1/support/1                                                                                   |    Eliminar support con id 1     | <img src="">  |
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, la actualizacion de la version que se tenia inicialmente del Frontend de la aplicacion y la primera version del Backend de la aplicacion. 
+
+**Evidencia de la actualizacion de Frontend de la Aplicacion**
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735022572478546/image.png"></div>
+    </td>
+</tr><br>
+
+**Eleccion de segmento objetivo**
+
+ <tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735483610365952/image.png"></div>
+    </td>
+</tr><br>
+
+**Login Sector cliente**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735520700608583/image.png"></div>
+    </td>
+</tr><br>
+
+**Register Sector cliente**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735550736015400/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Login Sector Empresario**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735644982026321/image.png"></div>
+    </td>
+</tr><br>
+
+**Register Sector Empresario**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735681384394802/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Section Profile**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735919063011328/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Section Support**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169737118092898475/image.png"></div>
+    </td>
+</tr><br>
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+|Nombre|Rol|
+|------|---|
+|Alarcón Rondón, Sandro Fourfive| Implementacion de la seccion Points para el Backend de la aplicación.|
+|Ampudia Flores, José Carlos Isaac|Implementación de la sección Support para el Backend de la aplicacion.|
+|Lopez Huarcaya, Leonardo Paul|Implementación de la sección Users & Pubs para el Backend de la aplicación.|
+|Morin Fuentes, Jean Pierre|Implementación de la sección Points para el Backend de la aplicación. |
+
+**Evidencia de la actualizacion del Frontend de la aplicacion**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169731335250780160/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169731782128717975/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169732625871679548/image.png"></div>
+    </td>
+</tr><br>
+
+
+
+**Evidencia de la implementacion del Backend de la aplicacion**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169730597996986461/image.png"></div>
+    </td>
+</tr><br>
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169732940536754307/image.png"></div>
+    </td>
+</tr><br>
+
+
+
 ## 5.3. Validation Interviews.
+
+Dentro de la sección "Validation Interviews" de nuestro proyecto, nos enfocamos en perfeccionar la website que esta destinada a optimizar la venta de los empresarios de los bares y por parte de los clientes que desean comprar bebidas. Para ello, se realizó una serie de entrevistas a los usuarios que se encuentran en el segmento objetivo, para poder obtener una retroalimentación de la website y poder mejorarla.
+
 
 ### 5.3.1. Diseño de Entrevistas.
 
+Para la realizacion del diseño de entrevistas se tuvo en cuenta los siguientes puntos:
+
+**Objetivo de la entrevista:** El objetivo de la entrevista es obtener una retroalimentación de la website y poder mejorarla.
+
+**Preguntas de la entrevista:** Las preguntas que se realizaron en la entrevista fueron las siguientes:
+
+- **Para el segmento cliente:**
+
+  - ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+
+  - ¿Los perfiles de los bares proporcionan la información necesaria para tomar decisiones informadas sobre que bar elegir?
+
+  - ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que puedan acceder a servicios en el sitio web?
+
+  - ¿La plataforma cumple con tus expectativas en términos de brindar buenos servicios y promociones para que pueda ir a consumir a un bar del sitio web?
+
+  - ¿Recomendarías esta plataforma a otros amigos que deseen los mismos servicios y productos? ¿Por qué?
+
+  
+
+- **Para el segmento empresario:**
+
+
+  - ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+
+  - ¿Los perfiles de los bares proporcionan la información necesaria para informar todos los beneficios y estancias que brinda su negocio?
+
+  - ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que los bares puedan fidelizar más a sus clientes?
+
+  - ¿La plataforma cumple con tus expectativas en términos de brindar oportunidades en marketing para brindar su servicio a diversas personas?
+
+  - ¿Recomendarías esta plataforma a otras personas que deseen brindar sus servicios y productos de su bar? ¿Por qué?
+
+
+
 ### 5.3.2. Registro de Entrevistas.
 
+**Segmento objetivo 1 (Cliente):**
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Giovani Ramos</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Cliente</td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170268228757508117/image.png" alt="Entrevistado 1"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Giovani Ramos nos cuenta su experiencia al usar nuestra website, a medida que pasa la entrevista, nos va contando que lo que más le llama la atención es el hecho de poder ver los perfiles de los bares y al ver los productos y las ofertas que cada bar posee, le hace fácil de usar. Seguidamente nos cuenta que la facilidad que ve la descripcion de los bares le dan una idea de ver que bar elegir. Por otra parte, Giovani nos sugiere que al momento de mostrar la tabla de los bares, haya un tipo de filtro de acuerdo a las bebidas que uno quiere buscar. En conclusion, Giovani manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>0:01 - 4:41</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alexander Paredes</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Cliente </td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170273895631290368/image.png" alt="Entrevistado 2"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Alexander Paredes nos cuenta su experiencia al usar nuestra website, nos comenta que tanto la descripcion de los bares como la visualizacion de su puntaje respectivo se visualiza de manera efectiva. Seguidamente nos cuenta que Interfaz y la paleta de colores se adecua correctamente al proposito del negocio. Por otra parte, Alexander nos sugiere que dentro del sitio web exista un ChatBot, el cual ayude a verificar productos de manera mas detallada de cada bar, del mismo modo para pedir ayuda, entre otros. En conclusion, Alexander manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>4:42 - 8:47</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Alan Galavis</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Cliente </td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170275302899990588/sector_cliente_3.png" alt="Entrevistado 3"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Alan Galavis nos cuenta su experiencia al usar nuestra website, el apartado de Home es una de las secciones que para Alan le parece bastante atractiva, dado que presenta distintas secciones en el cual puede ver las ofertas de los bares y su respectivo puntaje, lo cual es esencial para la idea del negocio. Seguidamente nos cuenta que la seccion de Soporte le parece esencial porque existen situaciones en las que los usuarios que usen la website necesiten una consulta especifica. Por otra parte, Alan Galavis nos sugiere que al en la seccion de Support, no se pida nuevamente el nombre del usuario ni tampoco la contraseña, dado que el usuario cuando ya inicie sesion, tendra esa seccion ya habilitada, por lo que no tendria mucho sentido volver a pedir el nombre de usuario ni la contraseña, solo hubiera un apartado para la descripcion de la pregunta respectivamente. En conclusion, Alan manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>8:48 - 16:57</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+**Segmento objetivo 2 (Empresario):**
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Juan Mendoza</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Empresario</td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170276783996813353/sector_cliente3.png" alt="Entrevistado 4"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Juan Mendoza nos cuenta su experiencia al usar nuestra website, Juan esta iniciando un negocio de un bar y tiene intereses en poder promocionar su negocio y obtener mas ingresos, nos va comentando que el hecho de poder poner sus ofertas en el sitio web le ayuda bastante a que clientes puedan conocer su negocio y realizar un consumo dirigiendose a su bar. Seguidamente nos cuenta la interfaz de la website es bastante llamativa y de acorde al proposito de la idea de negocio. Por otra parte, Juan Mendoza nos sugiere que la informacion que se muestra no sea con demasiadas opciones porque esto puede marear al usuario, en este caso al empresario, de ese modo que existan opciones concisas. En conclusion, Juan manifiesta que la website esta buena, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>16:58 - 24:42</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Fernando Gonzales</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Empresario</td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170279003895103498/segmento_empresario_2.png" alt="Entrevistado 5"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Fernando Gonzales nos cuenta su experiencia al usar nuestra website, recalca que la interfaz de usuario es bastante buena y esta a la vez es intuitiva para la usabilidad del cliente con elementos visuales atractivos. Ademas el hecho de poder mostrar la descripcion de los bares es esencial para la ganancia de clientes y por ende más ingresos. Por otra parte, Fernando nos sugiere que exista una funcion en el que el usuario pueda tener una interaaccion mas directa con el bar, un historial de compras realizadas para poder ver las ganancias de los bares y la posibilidad de realizar retroalimentacion a los bares para sus mejoras en precios respectivamente. En conclusion, Fernando manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>24:43 - 28:46</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td><strong>Entrevistado</strong></td>
+    <td>Brian Rivas</td>
+  </tr>
+  <tr>
+    <td><strong>Rol</strong></td>
+    <td>Empresario</td>
+  </tr>
+    <tr>
+    <td><img src="https://media.discordapp.net/attachments/1146639921830973516/1170281273047138354/segmento_empresario_3.png" alt="Entrevistado 6"></td>
+    <td><strong>Resumen</strong><br>Durante la entrevista, el entrevistado Brian Rivas nos comenta su experiencia al usar nuestra website, nos menciona que la interfaz es intuitiva dado que el usuario si esta perdido, puede navegar por el navbar que ofrece varias secciones. Ademas, nos cuenta que la descripcion de los bares o los perfiles, muestran informacion limitada, pudiendo mostrar cosas precisas y que sean atractivas para el cliente, lo cual beneficiaria a la ganancia de clientes de los bares y por ende el incremento de ingresos del mismo. Por otra parte, Brian nos sugiere que las letras que se muestran en el sitio web sean mas legibles para el usuario, esto mejoraria la experiencia de usuario lo cual es un punto muy importante para la comodidad del usuario. En conclusion, Brian manifiesta que la website cumple con sus expectativas, sin embargo con algunas cosas por mejorar, pero en teoría cumple con lo esencial.</td>
+  </tr>
+  <tr>
+    <td><strong>Timing</strong></td>
+    <td>28:47 - 34:01</td>
+  </tr>
+    <tr>
+    <td><strong>URL</strong></td>
+    <td><a href="https://upcedupe-my.sharepoint.com/personal/u202114140_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202114140_upc_edu_pe%2FDocuments%2Fupc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview">upc-pre-202302-si730-sw51-TechSolutions-validation-sprint-3</a></td>
+  </tr>
+</table>
+
 ### 5.3.3. Evaluaciones según heurísticas.
+<div align='center'>
+  <h2>Evaluación de Heurísticas y Principios de Experiencia de Usuario (UX)</h2>
+  <h3>Usabilidad - Diseño Inclusivo - Arquitectura de la Información</h3>
+</div>
+
+<b>CARRERA:</b> Ingeniería de Softwaregit 
+
+<b>CURSO:</b> Aplicaciones Web
+
+<b>SECCIÓN:</b> SW51
+
+<b>PROFESORES:</b> Todos
+
+<b>AUDITOR:</b> TeachSolutions
+
+<b>CLIENTE(S):</b>
+
+- Leonardo Paul López Huarcaya
+- Sandro Fourfive Alarcon Rondon
+- José Carlos Isaac Ampudia Flores
+- Jean Pierre Morin Fuentes
+
+## SITE o APP A EVALUAR:
+
+### Loyalsips
+
+Objetivo: El objetivo principal de la evaluación es identificar posibles deficiencias en la aplicación web Loyalsips.
+
+Método: La revisión de la aplicación web se realizará utilizando la Lista Heurística de Nielsen, la cual fue desarrollada inicialmente por Jakob Nielsen y se utiliza como referencia para este proceso de evaluación.
+
+
+<strong>TAREAS A EVALUAR:</strong>
+<p>El alcance de esta evaluación incluye la revisión de las siguientes tareas:</p>
+
+<ol>
+<li>Cambio de idioma en la página</li>
+<li>Sección del <strong><em>navbar</em></strong> en el <em>Landing Page</em></li>
+<li>Sección de <strong>Support</strong> en el <em>Web Application</em></li>
+<li>Sección <strong>Home</strong> en el <em>Web Application</em></li>
+<li>Descripción de la presentación de la sección del <strong>About us</strong> del <em>startup</em></li>
+<li>Sección <strong>Drinks</strong> en el <em>Web Application</em></li>
+</ol>
+
+<br>
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+
+<ol>
+<li>Ingresar con una cuenta</li>
+<li>Crear una cuenta nuvea</li>
+<li>Redireccionamiento de las cards</li>
+<li>Envió de comentarios a soporte</li>
+</ol>
+
+<br>
+
+<strong>ESCALA DE SEVERIDAD:</strong>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nivel</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+   superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+</tr>
+</table>
+
+<br>
+
+<strong>TABLA RESUMEN:</strong>
+
+<br>
+
+<table>
+<tr>
+  <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">#</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Problema</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Escala de severidad</th>
+   <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Heurística/Principio violada(o)</th>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">No se puede denotar el límite definido a lo que respecta el inicio de la sección <em>footer</em>.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Effectiveness. Can users achieve their desired goals on your website?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección <strong>Home</strong>, dicha presentación da un toque de seriedad en vez de llamatividad.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it delightful?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">En la sección de <strong>Support</strong>, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it clear?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Se desconoce quienes son los miembros del equipo que conforman el <strong>startup</strong></td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: Is it communicative?</td>
+</tr>
+<tr>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+   <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: User Satisfaction. Do users like to use your website and recommend it to others?</td>
+</tr>
+</table>
+
+<br>
+
+<strong>DESCRIPCIÓN DE PROBLEMAS:</strong>
+<p><strong>Problema #1:</strong> No se puede denotar el límite definido a lo que respecta el inicio de la sección footer.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Effectiveness. Can users achieve their desired goals on your website?</p>
+
+<strong>Problema:</strong>
+<p>En la presentación del <em>Landing Page</em>, se lográ visualizar todo el contenido de lo que respecta a la información representativa del <em>startup</em> en mención; sin embago, al momento de visualizar la parte final del mismo, no se lográ definir si este pertece aun al cuerpo de la página o ya llegó a su fin, por lo que lográ generar ciertas dudas y confunsiones al momento de la interacción.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166064197843562599/image.png?ex=654920e9&is=6536abe9&hm=7629ca94af814d35e89735d502cff6104f4f82cd58bccc27ffab6534f9949252&=&width=1191&height=564" alt="Problem#1_Footer" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda colocar un color un color diferente al apartado del <em>footer</em> para que se diferencia del resto del cuerpo de la pagina; asimismo, colocar un copyright para darle un enfoque más apropiado.</p>
+
+<hr><br>
+
+<p><strong>Problema #2:</strong> En la sección Home, dicha presentación da un toque de seriedad en vez de llamatividad.</p>
+
+<p><strong>Severidad:</strong> 1</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it delightful?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de apreciar la página principal del <em>Web Application</em>, podemos denotar una presentación con tonalidades un tanto sutiles y oscuras a la vez, por lo que si más que todo se está enfocando en temática noche y un ambiente de satisfacción - que es lo que representa un bar -, debe cambiar un tanto la presentación del fondo y adecuarlo a algo que se compacte con un nuevo enfoque visual que impacte sin perder los colores representativos de la marca.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973515/1170217665709752451/image.png?ex=65583d21&is=6545c821&hm=90ef74d24665ebf934bdd8c190d885b0649d7a29f98d6da539d6b17905ed8fce&=&" alt="Problem#2_Home" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda mostrar contenido representivo a lo qué tranmitimos a nuestros clientes - un fondo dentro de las instalaciones o un grupo de personas diviertiendose por ejemlo, sería una excelente idea -.</p>
+
+<hr><br>
+
+<p><strong>Problema #3:</strong> En la sección de Support, al momento de obtener las posibles preguntas, estás no proporcionan una preguntas clarivendentes.</p>
+
+<p><strong>Severidad:</strong> 4</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it clear?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de argumentar las posibles dudas que pueda presentar dentro de la página, nos percatamos que también hay una guía de posibles preguntas frecuentes de las cuales ya se puede obtener una respuesta; el problema radíca en que esas preguntas, están en un idioma que la gran mayoría de usuarios desconoce, por lo que genera cierta sensación de confusión y dudas al momento de consultar.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/892430247042105427/1166065262299185294/image.png?ex=654921e6&is=6536ace6&hm=1023c487862ae1b335db5de4543c04d61c4b4683d1b115670b7e2fd3c94aeeaf&=&width=1198&height=564" alt="Problem#3_Support" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar preguntas frecuentes verdaderas en lugar del típico <em>Lorem</em> para así dar un toque más de credibilidad y evitar que los usuarios se confundan.</p>
+
+<hr><br>
+
+<p><strong>Problema #4:</strong> Se desconoce quienes son los miembros del equipo que conforman el startup.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: Is it communicative?</p>
+
+<strong>Problema:</strong>
+<p>En la sección del <em>Profile</em>, no se logra visualizar con exactitud la información detallada de perfil del usuario, por lo que genera cierta dudosidad al momento de interactuar dentro de él, ya que deja a la mente del usuario de que esto no es algo confiable.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973515/1170218166614503475/image.png?ex=65583d98&is=6545c898&hm=ec5118375776d4c824997f05f71bb41c97ace5aef93f8125c8fc97565f9f5d7e&=&" alt="Problem#4_AboutUs" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda agregar debajo de la <em>card</em> que describe el <strong>startup</strong> un subtitulo que defina a los integrantes que conforman este equipo para que los usuarios sepan un poco de los autores de los cuales, gracias a ello, se pudo llevar a cabo todo ello. </p>
+
+<hr><br>
+
+<p><strong>Problema #5:</strong> El catálogo de bebidas tiene una escasa descripción. Falta detallar un poco más acerca de lo que contiene cada una de las bebidas.</p>
+
+<p><strong>Severidad:</strong> 3</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: User Satisfaction. Do users like to use your website and recommend it to others?</p>
+
+<strong>Problema:</strong>
+<p>Al momento de visualizar el catálogo de bares que se tiene dentro del bar, explica de manea muy sencilla y apreciable a la vez de las bebidas que dentro del lugar sirven; pero, lo que si deja mucho que desear, es el tema de detalle de lo que contiene o de lo que se compone el bar, ya que al dejarlo solo así, no impacta o no llama tanto la atención de los nuevos usuarios que tal vbz nunca han ido a visitar un bar.</p>
+
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973515/1170219322937970708/image.png?ex=65583eac&is=6545c9ac&hm=be8686967aaee910b0a495141fa5514e9c5968b89fbe88c501b4ca6bc641f39b&=&" alt="Problem#5_Drinks" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendacion:</strong>
+<p>Se recomienda añadir más información que detalle un poco más de los insumos que contienen los bares y dichas promociones para dar un mejor panorama en la elección de lo que el mismo usuario desee consumir.</p>
+
+<br>
+
+
+
+### Web Aplicaion
+
 
 ## 5.4. Video About-the-Product.
 
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169781275276628058/image.png"></div>
+    </td>
+</tr><br>
 
+[upc-pre202302-si730-sw51-TechSolutions-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeC0Rfsm_vRJoU4LwTHoC-kBvZqxmxx_a9LtIcDGDjKJUg?e=oxzmHq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+<br>
+
+
+## Video About-the-Team.
+
+<tr>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1170385700164743209/image.png"></div>
+    </td>
+</tr><br>
+
+[upc-pre202302-si730-sw51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EW3Ip1FfAh1Mn6BR0wa0FfcB_LmLCtzjsbES0rF2ojaQTw?e=kueZ8q)
+
+<br>
 
 ## Conclusiones y recomendaciones.
 
@@ -3503,10 +4362,6 @@ Para la entrega del Sprint 2, se alcanzó la actualizacion de la Landing page y 
 2. Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
 3. Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
 Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
-
-## Video About-the-Team.
-
-https://drive.google.com/file/d/1ET_5D6EqUCFAp90LES0_h5k-oqez2F-x/view?usp=sharing
 
 ## Bibliografía
 
