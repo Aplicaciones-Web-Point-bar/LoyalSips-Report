@@ -3896,6 +3896,212 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 </tr><br>
 
 
+### 5.2.4. Sprint 4
+
+
+#### 5.2.4.1 Sprint Planning 4
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo la mejora respectiva de la primera versión del Backend de la aplicacion, teniendo en cuenta la implementación de security y la mejora de la primera versión del Frontend de la aplicacion.
+
+|            Sprint #             |                                                                                                                Sprint 4                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-11-01                                                                                                               |
+|              Time               |                                                                                                                08:25 PM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                     Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / López Huarcaya, Leonardo Paul                                      |
+|     Sprint 4 Review Summary     |                                                                                     En resumen se alcanzo actualizar la version del Frontend que se tenía realizado. Por otro lado, se realizó la actualización del Backend de la aplicacion, con las tablas principales para la idea de negocio de la aplicación, además se tuvo pensado implementar la sección de **Security** para el backend de la aplicacion, y se tuvo como mejora, la conexión entre el backend y frontend de la aplicacion.                                                                                      |
+| Sprint 4 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 4 Goal          |                                                       Goal: Tener la  versión del backend actualizada y terminada <br> Metrica de cumplimiento:Se muestra la version del backend actualizada y la conexion de backend con frontend.                                                        |
+|        Sprint 4 Velocity        |                                                                                              Para esta entrega se aeptara 10 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
+
+#### 5.2.4.2 Sprint Backlog 4
+
+El objetivo principal del Sprint 3 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+
+
+|   Sprint #    |     Sprint 4     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US015     |        T1        |Implementacion del Backend, en especial la tabla Inventories |3 h |      Ampudia Jose       | Done|
+|     US006     |        T2        |Implementar la secccion Support para realizar alguna pregunta |3 h |      Ampudia Jose       | Done|
+|     US011     |        T3        |Poder visualizar la descripcion de los bares. |3 h | Leonardo Lopez | In-Process|
+|     US003     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Alarcon Sandro       | Done|
+|     US009     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Ampudia Jose       | Done|
+|     US013     |        T8        | Implementar la seccion de Points para el Backend |5 h |            Morin Fuentes            | Done|
+|     US018     |        T9        | Implementar la seccion de Point para el Backend |5 h |            Alarcon Sandro            | Done|
+|     US015     |        T10        | Implementar la seccion de Support para el Backend |5 h |            Ampudia Jose            | Done|
+|     US006     |        T11        | Implementar la seccion de Users & Pubs para el backend |5 h |            Leonardo Lopez            | Done|
+
+
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de commits para el desarrollo de la actualizacion de nuestro Frontend Web Application respecto a nuestro Startup y además la actualizacion del Backend de la aplicacion. Los commits registrados en el repositorio reflejan el trabajo realizado en estas áreas en específico.
+
+|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  Leonardo/Backend-LoyalSips  |     feature/User     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(User): add table User                 |         Agregar la tabla User para el backend de la aplicacion,          |     21/10/2023     |
+|  Leonardo/Backend-LoyalSips  |     feature/Pubs     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(Pubs): add table Pubs               | Se agrego la tabla Pubs para el backend de la aplicacion |     21/10/2023     |
+| IsaacAmp24/Backend-LoyalSips |    feature(Support)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(Support): add table Support            |                      Se agrego la tabla Support para el backend de la aplicacion                       |     26/10/2023     |
+| IsaacAmp24/Backend-LoyalSips |  feature(Inventories)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(Inventories): add table Inventories and atributes       |                    Se agrego la tabla Inventario para el backend de la aplicacion                    |     26/10/2023     |
+|   JeanPmf/Backend-LoyalSips   | feature/Points |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(Points): add table Points    |                   Se agrego la tabla Points para el backend de la aplicacion                   |     25/10/2023     |
+|   AlarSandro/Backend-LoyalSips   | feature/Points |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(Points): add table Points         |                           Incorporación de la tabla Points para el backend de la aplicacion                            |     25/10/2023     |
+| IsaacAmp24/Backend-LoyalSips  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+| AlarSandro/Frontend-LoyalSips  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(LoyalSips-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend de la aplicación. Por el momento no se pudo desplegar el Backend de la aplicacion, pero para la siguiente entrega lo tendremos listo.
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Backend](https://github.com/Aplicaciones-Web-Point-bar/LoyalSips.Api.git) | main | feat(Initial)     | Initial commit | Se creó el proyecto | 23/10/2023|
+
+<br>
+
+| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips-44e19.web.app/home)                | 
+|---------------------|---------------------|
+
+| Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
+|---------------------|---------------------|
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En el sprint 3, se logró implementar la primera versión del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support, los cuales se muestran a continuacion:
+
+**Evidencia de Backend LoyalSips**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1176347371647553536/image.png"></div>
+    </td>
+</tr><br>
+
+**Evidencia de Backend en la Base de Datos**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176347701969952778/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Entidad Inventories (POST)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176348445641031690/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Inventories (GET BY ID)**
+
+<tr>
+    <td">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176348910218915880/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Entidad Users (POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530402784956426/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530471810617464/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (GET)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169531555924951072/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (PUT)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532219602260028/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532621538209852/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (DELETE)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169533514346135593/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (POST)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725855740739624/image.png"></div>
+    </td>
+</tr><br>
+
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725903346090086/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (GET)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726396042580071/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (DELETE)**
+
+<tr>
+    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726748376698990/image.png"></div>
+    </td>
+</tr><br>
+
+
 
 ## 5.3. Validation Interviews.
 
