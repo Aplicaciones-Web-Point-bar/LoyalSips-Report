@@ -3770,7 +3770,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Evidencia de la actualizacion de Frontend de la Aplicacion**
 
  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735022572478546/image.png"></div>
     </td>
@@ -3779,7 +3779,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Eleccion de segmento objetivo**
 
  <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735483610365952/image.png"></div>
     </td>
@@ -3788,7 +3788,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Login Sector cliente**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735520700608583/image.png"></div>
     </td>
@@ -3797,7 +3797,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Register Sector cliente**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735550736015400/image.png"></div>
     </td>
@@ -3807,7 +3807,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Login Sector Empresario**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735644982026321/image.png"></div>
     </td>
@@ -3816,7 +3816,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Register Sector Empresario**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735681384394802/image.png"></div>
     </td>
@@ -3826,7 +3826,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Section Profile**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735919063011328/image.png"></div>
     </td>
@@ -3836,7 +3836,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Section Support**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169737118092898475/image.png"></div>
     </td>
@@ -3856,21 +3856,21 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Evidencia de la actualizacion del Frontend de la aplicacion**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169731335250780160/image.png"></div>
     </td>
 </tr><br>
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169731782128717975/image.png"></div>
     </td>
 </tr><br>
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169732625871679548/image.png"></div>
     </td>
@@ -3881,7 +3881,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 **Evidencia de la implementacion del Backend de la aplicacion**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169730597996986461/image.png"></div>
     </td>
@@ -3889,7 +3889,7 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
 
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169732940536754307/image.png"></div>
     </td>
@@ -3981,7 +3981,7 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Evidencia de Backend LoyalSips**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
       <img src="https://media.discordapp.net/attachments/1146639921830973516/1176347371647553536/image.png"></div>
     </td>
@@ -3990,7 +3990,7 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Evidencia de Backend en la Base de Datos**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973516/1176347701969952778/image.png"></div>
     </td>
@@ -4009,7 +4009,7 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Entidad Inventories (GET BY ID)**
 
 <tr>
-    <td">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973516/1176348910218915880/image.png"></div>
     </td>
@@ -4019,14 +4019,14 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Entidad Users (POST)**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530402784956426/image.png"></div>
     </td>
 </tr><br>
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530471810617464/image.png"></div>
     </td>
@@ -4035,7 +4035,7 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Entidad Users (GET)**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169531555924951072/image.png"></div>
     </td>
@@ -4044,14 +4044,14 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Entidad Users (PUT)**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532219602260028/image.png"></div>
     </td>
 </tr><br>
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532621538209852/image.png"></div>
     </td>
@@ -4060,16 +4060,114 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Entidad Users (DELETE)**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169533514346135593/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Pubs (POST)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176729096559013888/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176728751032250419/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Pubs (GET)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176729737985523813/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176730123781816420/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176730984444604466/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Entidad Pubs (GET BY ID)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176731446224900216/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176731446224900216/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Pubs (PUT)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176732895361114122/Captura_de_pantalla_2023-11-21_225550.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176733076068499506/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Pubs (DELETE)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176733582425849896/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Entidad Registros (POST)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176734764129063013/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176734839811092540/image.png"></div>
     </td>
 </tr><br>
 
 **Entidad Support (POST)**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725855740739624/image.png"></div>
     </td>
@@ -4077,7 +4175,7 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'>
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725903346090086/image.png"></div>
     </td>
@@ -4086,7 +4184,7 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Entidad Support (GET)**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726396042580071/image.png"></div>
     </td>
@@ -4095,7 +4193,7 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
 **Entidad Support (DELETE)**
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
     <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726748376698990/image.png"></div>
     </td>
