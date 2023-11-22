@@ -3974,7 +3974,7 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 |---------------------|---------------------|
 
 
-#### 5.2.3.5. Execution Evidence for Sprint Review.
+#### 5.2.4.5. Execution Evidence for Sprint Review.
 
 En el sprint 3, se logró implementar la primera versión del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support, los cuales se muestran a continuacion:
 
@@ -4199,7 +4199,186 @@ En el sprint 3, se logró implementar la primera versión del Backend de la apli
     </td>
 </tr><br>
 
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
+Para la entrega del Sprint 4, se tuvo pensado alcanzar la actualización del Backend de la aplicacion que se presentó en el Sprint 3. Además, se realizó la conexión entre el Backend y Frontend de la aplicación, para poder visualizar los datos que se encuentran en el Backend de la aplicacion, agregando varios endpoints para el backend que son necesarios para la aplicacion.
+
+|       Endpoint	       |  Acción   | Verbo HTTP |             Parámetros             |                                                                                  Ejemplo de Request                                                                                  |            Respuesta             |  Captura   |                          
+|:---------------------:|:---------:|:----------:|:----------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------:|:----------:|
+|     /api/v1/pubs      |  Listar   |    GET     |              Ninguno               |                                                                                                                                                                                      |     Listado de publicaciones     | <img src=""> |
+|     /api/v1/pubs      |   Crear   |    POST    |              Ninguno               |  | Publicación creada  exitosamente |<img src=""> |
+|   /api/v1/pubs/{id}   |  Obtener  |    GET     | Mentorid(int):Id de la publicación |                                                                                    /api/v1/pubs/5                                                                                    |     Detalle del bar con id 3     |<img src="">  |
+|   /api/v1/pubs/{Id}   | Modificar |    PUT     |    id(int):Id de la publicación    |                                                                                    /api/v1/pubs/5                                                                                    |    Actualizar el bar con id 3    | <img src="">  |
+|   /api/v1/pubs/{Id}   | Eliminar  |   DELETE   |    id(int):Id de la publicación    |                                                                                    /api/v1/pubs/5                                                                                    |     Eliminar el bar con id 3     | <img src="">  |
+|      /api/v1/support       |  Listar   |    GET     |              Ninguno               |                                                                                                                                                                                      |        Lista de supports         | <img src="">  |
+|   /api/v1/support    |   Crear   |    POST    |              Ninguno               |                                                                                                                                                                                      |       Creación de supports       | <img src="">  |
+| /api/v1/support/{Id} |    Eliinar    |     Delete     |       id(int):Id del support       |                                                                                  /api/v1/support/1                                                                                   |    Eliminar support con id 1     | <img src="">  |
+| /api/v1/inventories |    Crear    |     POST     |       Ninguno       |                                                                                                                                                                     |    Creación de Producto para el inventario del bar.     | <img src="">  |
+| /api/v1/inventories |    Listar    |     GET     |       Ninguno       |                                                                                                                                                                     |    Listar los productos del inventario del bar.     | <img src="">  |
+| /api/v1/inventories/{id} |    Listar    |     GET     |       id(int):Id del inventario       |                                                                                         /api/v1/inventories/1                                                                            |    Listar 1 producto del inventario del bar.     | <img src="">  |
+| /api/v1/inventories/{id} |    Modificar    |     PUT     |       id(int):Id del inventario       |                                                                                         /api/v1/inventories/2                                                                            |    Modificar 1 producto del inventario del bar.     | <img src="">  |
+| /api/v1/inventories/{id} |    Eliminar    |     DELETE     |       id(int):Id del inventario       |                                                                                         /api/v1/inventories/2                                                                            |    Eliminar 1 producto del inventario del bar dado el Id.     | <img src="">  |
+| /api/v1/points |    Listar    |     GET     |       Ninguno       |                                                                                                                                                                     |    Agregar 1 punto al usuario.     | <img src="">  |
+| /api/v1/points/{id} |    Modificar    |     PUT     |       id(int):Id del point       |                                                                                         /api/v1/points/2                                                                            |    Modificar o actualizar 1 punto del usuario.     | <img src="">  |
+| /api/v1/registros |    Crear    |     POST     |       Ninguno       |                                                                                                                                                                     |    Agregar 1 registro.     | <img src="">  |
+| /api/v1/registros |    Listar    |     GET     |       Ninguno       |                                                                                                                                                                     |    Listar registros.     | <img src="">  |
+| /api/v1/users |    Listar    |     GET     |       Ninguno       |                                                                                                                                                                     |    Listar todos los usuarios.     | <img src="">  |
+| /api/v1/users |    Crear    |     POST     |       Ninguno       |                                                                                                                                                                     |    Listar todos los usuarios.     | <img src="">  |
+| /api/v1/users/{id} |    Modificar    |     PUT     |       id(int):Id del usuario       |                                                                                         /api/v1/users/2                                                                            |    Modificar 1 usuario con un respectivo Id.     | <img src="">  |
+| /api/v1/users/{id} |    Eliminar    |     DELETE     |       id(int):Id del usuario       |                                                                                         /api/v1/users/2                                                                            |    Eliminar 1 usuario con un respectivo Id.     | <img src="">  |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint 4, se alcanzó la actualizacion del Backend de la aplicación, la implementación de Security para el Sign In y Sign Out del usuario y que este pueda visualizar los distintos endpoints creados en la aplicación.
+
+**Evidencia de la actualizacion de Frontend de la Aplicacion**
+
+ <tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735022572478546/image.png"></div>
+    </td>
+</tr><br>
+
+**Eleccion de segmento objetivo**
+
+ <tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735483610365952/image.png"></div>
+    </td>
+</tr><br>
+
+**Login Sector cliente**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735520700608583/image.png"></div>
+    </td>
+</tr><br>
+
+**Register Sector cliente**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735550736015400/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Login Sector Empresario**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735644982026321/image.png"></div>
+    </td>
+</tr><br>
+
+**Register Sector Empresario**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735681384394802/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Section Profile**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735919063011328/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Section Support**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169737118092898475/image.png"></div>
+    </td>
+</tr><br>
+
+**Section Bares o Pubs**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176773129624895498/image.png"></div>
+    </td>
+</tr><br>
+
+**Section Backend - (PUBS O BARES)**
+- Obtención del bar con **Id 2** (Bar Jocais)
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176776358215548958/image.png"></div>
+    </td>
+</tr><br>
+
+- Obtención del bar con **Id 3** (Bar Luces)
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176777183683948594/image.png"></div>
+    </td>
+</tr><br>
+
+- Obtención del bar con **Id 4** (Xbio Bar)
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176778262932889610/image.png"></div>
+    </td>
+</tr><br>
+
+- Obtención del bar con **Id 5** (Valetodo Bar)
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176778506328363129/image.png"></div>
+    </td>
+</tr><br>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+|Nombre|Rol|
+|------|---|
+|Alarcón Rondón, Sandro Fourfive| Mejoras de la seccion Points para el Backend de la aplicación y Securiy.|
+|Ampudia Flores, José Carlos Isaac|Mejoras de la sección Support e implementacion de la seccion Inventories, en la que el usuario añade un producto al inventario para el Backend de la aplicacion.|
+|Lopez Huarcaya, Leonardo Paul|Mejoras de la sección Users & Pubs para el Backend de la aplicación. Además de ello, la conexión entre el Backend y Frontend de la aplicación.|
+|Morin Fuentes, Jean Pierre|Mejoreas de la sección Points para el Backend de la aplicación y Security.|
+
+**Evidencia de la actualizacion del Backend de la aplicacion**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176781096797622333/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176781586470019072/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176782169616695346/image.png"></div>
+    </td>
+</tr><br>
 
 ## 5.3. Validation Interviews.
 
