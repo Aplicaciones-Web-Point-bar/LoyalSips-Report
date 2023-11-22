@@ -146,6 +146,31 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TF.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Implementacion del endpoint Inventories y la mejora del endpoint Support.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Mejora del endpoint de Points e implementacion de Security para el backend de la aplicacion.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Mejora del endpoint de Points e implementacion de Security para el backend de la aplicacion.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Lopez Huarcaya</td>
+    <td style="text-align: justify;">Mejora de los endpoints de Users, Pubs, Registros del Backend de la aplicacion, encargado de conectar el Frontend con el Backend respectivamente.</td>
+  </tr>
+</table>
+<br>
 
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
@@ -163,10 +188,19 @@ Miembros:
 En el siguiente gráfico se muestra la cantidad de commits realizados por cada integrante del equipo.
 </div><br>
 
+**Para el Reporte**
+- Primera Entrega:
 <div align='center'>
 <img src="https://media.discordapp.net/attachments/1146639922271363083/1155387592016142376/image.png?">
 </div>
 <br>
+
+- Ultima Entrega:
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973516/1176785618068574208/image.png">
+</div>
+<br>
+
 
 <div align='justify'>
 Gracias a GitHub, se puede visualizar las ramas creadas para la implementación del proyecto. Tomando en cuenta lo investigado sobre el uso de GitFlow, se ha creado una rama principal llamada "main" y de esta rama se han creado las ramas "develop" y "feature", que cada feature creado, correspondía a alguna característica añadida, es decir a cada capítulo añadido por cada integrante del equipo, esto con el fin de poder mantener un orden a la hora de ralizar los commits. 
@@ -285,14 +319,24 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
         <br>
     - [5.2.3. Sprint 3](#523-sprint-3)
-        - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-2)
-        - [5.2.3.2. Sprint Backlog 2](#5232-sprint-backlog-2)
+        - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 2](#5232-sprint-backlog-3)
         - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
         - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
         - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](5238-team-collaboration-insights-during-sprint)
+            <br>
+    - [5.2.4. Sprint 4](#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+        - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+        - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+        - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](5248-team-collaboration-insights-during-sprint)
 
 
 
@@ -320,6 +364,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB2:</strong><br>
           Para la entrega del TB2, se presenta la implementación del Sprint 3, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
           - Colaboró con la implementacion de actualizaciones en el Frontend de la aplicación y el desarrollo del Backend para la secccion Support de la aplicacion.<br><br>
+          <strong>TF:</strong><br>
+          Para la entrega del TF, se presenta la implementación del Sprint 4, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
+          - Colaboró con la implementacion de actualizaciones en el Backend de la aplicación y mejora de algunos endpoints.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
@@ -330,6 +377,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB2:</strong><br>
           Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
           - Colaboro con la implementacion del codigo en general y si alguno de mis compañeros necesitan ayuda los apoyo, backend, fronted, colabore con la creacion del DB.json.<br><br>
+          <strong>TF:</strong><br>
+          Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
+          - Colaboro con la implementacion del codigo en general mejorando algunos endpoints y la implementacion de Security para el backend de la aplicacion.<br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
@@ -340,6 +390,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB2:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
           - Para la siguiente entrega se realiazaron las entrevistas de los 2 segmentos de usuarios clientes y empresarios. Asimismo, en la integración de Testin suite evidence for sprint review y Execution evidence for sprint review..<br><br>
+          <strong>TF:</strong><br>
+          Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
+          - Colaboro con la implementacion del codigo en general mejorando algunos endpoints y la implementacion de Security para el backend de la aplicacion.<br><br>
           <strong>López, Leonardo</strong><br>
           <strong>TB1:</strong><br>
           Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
@@ -350,6 +403,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB2:</strong><br>
           Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
           -Colaboró con la implementación del Backend de la aplicacion, especialmente en la creacion de las entidades de Users & Pubs o Bares.<br><br>
+          <strong>TF:</strong><br>
+          Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
+          - Encargado de realizar los endpoints principales de la aplicacion, como Users & Bares, además, la conexión del Backend con el Frontend de la aplicacion.<br><br>
         </td>
         <td><strong></strong><br>
         Para la elaboración de nuestro proyecto, fue necesaria la comunicación en equipo, una de las herramientas claves fue Discord y WhatsApp, en el que se designó los temas para cada integrante del equipo.</td>
@@ -363,6 +419,8 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, de tal modo que la capacidad de aplicar habilidades y conocimientos para la implementación del mismo, es muy importante.<br><br>
           <strong>TB2:</strong><br>
           En la siguiente entrega, es importante poseer conocimientos previos en el lenguaje de C# y el uso de la herramienta Postman, para la implementación del backend de la aplicación.<br><br> 
+          <strong>TF:</strong><br>
+          En la siguiente entrega, es esencial poseer un conocimiento mas amplio sobre logicas de negocio con respecto al backend de la aplicacion y las relglas del producto, todo esto desarrollado en el lenguaje de programacion C#.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1</strong><br>
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, como también C++, python y otros.
@@ -371,6 +429,8 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, por lo que el conocimiento de lenguajes como html, css y javascript es importante para la implementación del mismo.<br><br>
           <strong>TB2</strong><br>
           Para esta entrega de la TB2, se implementara el Backend de la aplicacion por lo que es importante el conocimiento y manejo de C# y metodos de testing como Postman.<br><br>
+          <strong>TF:</strong><br>
+          En la siguiente entrega, el uso del lenguaje de programacion C# es bastante importante y sobre todo la implementacion de logicas de negocio relacionado al producto de la aplicacion.<br><br>
           <br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1</strong><br>
@@ -381,6 +441,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <br><br>
           <strong>TB2</strong><br>
           En esta seccion se necesitara el conocimiento de C# para la implementacion del Backend de la aplicacion, lo cual facilitara la implementacion del mismo.
+          <br><br>
+          <strong>TF:</strong><br>
+          En la siguiente entrega, las pruebas unitarias y el uso de C# es bastante primordial para la culminación del producto, lo cual facilita de alguna manera la logica de negocio.<br><br>
           <br><br>
           <strong>Alfaro, Louis</strong><br>
           <strong>TB1</strong><br>
@@ -395,6 +458,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <br><br>
           <strong>TB2</strong><br>
           Para esta entrega es importante el conocimiento de C# para la elaboracion del Backend de la aplicacion, lo cual facilitara la implementacion del mismo.
+          <br><br>
+          <strong>TF:</strong><br>
+          En la siguiente entrega, es importante poseer conocimientos de C# intermedio para poder realizar las logicas de negocio con buenas practicas, usando Domain Driven Design para obtener mejor entendimiento de codigo, ademas la conexion de backend y frontend es primordial.<br><br>
           <br><br>
     </td>
     <td><strong></strong><br>La capacidad de manejar varios lenguajes de programación es bastante importante, lo cual influyó mucho para la elaboración del trabajo, dentro de ellos está el conocimiento de los lenguajes de HTML, CSS y Java Script, para la implementación de la Landing Page de manera correcta, por otro lado, la capacidad de poder manejar os diagramas de modelado C4, lo cual nos ayudó a mostrar de diferentes maneras el enfoque que tendrá nuestro proyecto final, no dejemos de lado la herramienta Figma, que nos sirvió para realizar el diseño del proyecto, y de esta manera poder ayudarnos para la implementación de la Landing Page.</td>
