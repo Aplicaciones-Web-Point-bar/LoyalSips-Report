@@ -4297,13 +4297,21 @@ Para la entrega del Sprint 4, se tuvo pensado alcanzar la actualización del Bac
 
 Para la entrega del Sprint 4, se alcanzó la actualizacion del Backend de la aplicación, la implementación de Security para el Sign In y Sign Out del usuario y que este pueda visualizar los distintos endpoints creados en la aplicación.
 
+**Evidencia de la landing page deployada**
+<td>
+    <div align='center'> 
+<img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177101920297553961/image.png?ex=65714897&is=655ed397&hm=cc88c4774f6edc1d3d5476adcc474ecda19f47aab6ecd1274055c1ed12bb8790&">
+</div>
+</td>
 **Evidencia de la actualizacion de Frontend de la Aplicacion**
 
  <tr>
     <td>
     <div align='center'> 
-    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735022572478546/image.png"></div>
-    </td>
+<img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177101977059082360/image.png?ex=657148a4&is=655ed3a4&hm=a9090cc8c7f5bd7a021b74f619fbd4f4c47c5fff65dc9060065abe49cb06dafb&">
+</div>
+</td>
+
 </tr><br>
 
 **Eleccion de segmento objetivo**
@@ -4380,7 +4388,36 @@ Para la entrega del Sprint 4, se alcanzó la actualizacion del Backend de la apl
     <img src="https://media.discordapp.net/attachments/1146639921830973516/1176773129624895498/image.png"></div>
     </td>
 </tr><br>
-
+**Catálogo de bebidas de los bares**
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177078779550638100/image.png?ex=6571330a&is=655ebe0a&hm=002a7559e51f2844ca88e20c5bc9dbcdb4fefaf422ab580c3a62ca36e36b1955&"></div>
+    </td>
+<td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177078813516103770/image.png?ex=65713312&is=655ebe12&hm=f98e94e6b900fa22182c1cb60c0044c784c1549cbbef73231c62de3ed610a6c9&"></div>
+    </td>
+</tr><br>
+**Carrito de compras del cliente**
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177078888640282684/image.png?ex=65713324&is=655ebe24&hm=1c673f0906b28e939f08e88eb9168901d8f8db4258b2235ac9974ea966313bef&"></div>
+    </td>
+<td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177078971054161990/image.png?ex=65713337&is=655ebe37&hm=2681db98e39d9f26b4b6ee1f95789c93a8c2e4a2fae138455ccda6f37ba21e29&"></div>
+    </td>
+<td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177079023134838794/image.png?ex=65713344&is=655ebe44&hm=29831f8a2528e7cd8247601c5a7dd18e42517ef08aeeb0d9cde6c38de0b81b83&"></div>
+    </td>
+<td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177079060724203641/image.png?ex=6571334d&is=655ebe4d&hm=f866a64199ddb6e08988a099a6db0cfdd6ccbd2b7c36913523b0c561565ef5ed&"></div>
+    </td>
+</tr><br>
 **Section Backend - (PUBS O BARES)**
 - Obtención del bar con **Id 2** (Bar Jocais)
 <tr>
@@ -4413,6 +4450,7 @@ Para la entrega del Sprint 4, se alcanzó la actualizacion del Backend de la apl
     <img src="https://media.discordapp.net/attachments/1146639921830973516/1176778506328363129/image.png"></div>
     </td>
 </tr><br>
+
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
