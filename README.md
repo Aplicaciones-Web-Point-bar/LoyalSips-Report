@@ -15,8 +15,8 @@
 
 ## Informe de Trabajo Final
 
-- **Nombre del grupo:** TeachSolutions
-- **Nombre de la Startup:** LoyalSlip
+- **Nombre del grupo:** TechSolutions
+- **Nombre de la Startup:** LoyalSips
 
 ## Integrantes
 | Alumno                           | Código     |
@@ -46,7 +46,14 @@
 |    2    | 19/09/2023 | Louis Alfaro Coveñas                 | - Corrección del apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos.                                 |
 |    2    | 22/09/2023 | Leonardo López Huarcaya              | - Corrección del Sprint Planing 1, como el Sprint Backlog 1 y el Development Evidence for Sprint Review.                                                                         |
 |    2    | 20/09/2023 | Leonardo López <br/> Ampudia Flores <br/>Alarcon Rondon<br/>Morin Fuentes<br/>Louis Alfaro Coveñas  | Primera versión del frontend, agregando los componentes mas escenciales.<br/>Correvión de la landing page                                                                        |
-
+|    3    | 10/10/2023 | Ampudia Flores                       | - Implementacion del endpoint Supports de Backend de la aplicacion.                                                    |
+|    3    | 20/10/2023 | Alarcon Rondon                       | - Implementacion del endpoint Points de Backend de la aplicacion. |
+|    3    | 22/10/2023 | Morin Fuentes                        | - Implementacion del endpoint Points de Backend de la aplicacion.                                                       |
+|    3    | 22/10/2023 | Leonardo López Huarcaya              | - Implementacion del endpoint Users, Pubs de Backend de la aplicacion.                                                                         |
+|    4    | 10/11/2023 | Ampudia Flores                       | - Mejora del endpoint Supports e implementacion del endpoint Inventories para el Backend de la aplicacion.                                                    |
+|    4    | 12/11/2023 | Alarcon Rondon                       | - Mejora del endpoint Points e implementacion de Security para el Backend de la aplicacion. |
+|    4    | 15/11/2023 | Morin Fuentes                        | - Mejora del endpoint Points e implementacion de Security para el Backend de la aplicacion.                                                       |
+|    4    | 15/11/2023 | Leonardo López Huarcaya              | - Mejora del endpoint Users y Pubs e implementacion del endpoint Registros para el Backend de la aplicacion. Además la conexión del Backend con el Frontend de la aplicación, de esta manera que nuestro backend sea consumida por nuestro Frontend de la aplicación.                                                                         |
 
 <br>
 
@@ -146,6 +153,32 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TF.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Implementacion del endpoint Inventories y la mejora del endpoint Support.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Mejora del endpoint de Points e implementacion de Security para el backend de la aplicacion.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Mejora del endpoint de Points e implementacion de Security para el backend de la aplicacion.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Lopez Huarcaya</td>
+    <td style="text-align: justify;">Mejora de los endpoints de Users, Pubs, Registros del Backend de la aplicacion, encargado de conectar el Frontend con el Backend respectivamente.</td>
+  </tr>
+</table>
+<br>
+
 
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
@@ -163,10 +196,20 @@ Miembros:
 En el siguiente gráfico se muestra la cantidad de commits realizados por cada integrante del equipo.
 </div><br>
 
+**Para el Reporte**
+- Primera Entrega:
 <div align='center'>
 <img src="https://media.discordapp.net/attachments/1146639922271363083/1155387592016142376/image.png?">
 </div>
 <br>
+
+- Ultima Entrega:
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973516/1177140305372401794/image.png">
+</div>
+<br>
+
+
 
 <div align='justify'>
 Gracias a GitHub, se puede visualizar las ramas creadas para la implementación del proyecto. Tomando en cuenta lo investigado sobre el uso de GitFlow, se ha creado una rama principal llamada "main" y de esta rama se han creado las ramas "develop" y "feature", que cada feature creado, correspondía a alguna característica añadida, es decir a cada capítulo añadido por cada integrante del equipo, esto con el fin de poder mantener un orden a la hora de ralizar los commits. 
