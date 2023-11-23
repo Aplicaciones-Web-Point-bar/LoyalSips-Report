@@ -45,7 +45,9 @@
 |    2    | 22/09/2023 | Morin Fuentes                        | - Corrección de los Style Guidelines el cual sirvió para la elaboración del diseño del prototipo con la herramienta Figma.                                                       |
 |    2    | 19/09/2023 | Louis Alfaro Coveñas                 | - Corrección del apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos.                                 |
 |    2    | 22/09/2023 | Leonardo López Huarcaya              | - Corrección del Sprint Planing 1, como el Sprint Backlog 1 y el Development Evidence for Sprint Review.                                                                         |
-|    2    | 20/09/2023 | Leonardo López <br/> Ampudia Flores <br/>Alarcon Rondon<br/>Morin Fuentes<br/>Louis Alfaro Coveñas  | Primera versión del frontend, agregando los componentes mas escenciales.<br/>Correvión de la landing page                                                                        |
+|    2    | 20/09/2023 | Leonardo López <br/> Ampudia Flores <br/>Alarcon Rondon<br/>Morin Fuentes<br/>Louis Alfaro Coveñas  | Primera versión del frontend, agregando los componentes mas escenciales.<br/>Correvión de la landing page        
+|    3   | 22/11/2023 | Morin Fuentes                        | - Actualizacion y elaboracion del security en el backend.|
+                                                                |
 
 
 <br>
