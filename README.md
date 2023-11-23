@@ -3275,13 +3275,13 @@ Para el despliegue del Landing Page se ha utilizado las siguientes herramientas:
 | Jean Pierre Morin Fuentes        | U202115348 |
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://cdn.discordapp.com/attachments/969784880017842216/1149785189308969130/image.png?raw=true" width="925" height="463"">
+    <td>
+      <img src="https://cdn.discordapp.com/attachments/969784880017842216/1149785189308969130/image.png?raw=true">
     </td>
 </tr>
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8px;">
+    <td>
       <img src="https://raw.githubusercontent.com/Jeanpi-MF/Pictures/main/Capture1.PNG">
     </td>
 </tr>
@@ -4033,7 +4033,24 @@ Como parte de la revisión del segundo sprint y para proporcionar pruebas tangib
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
-Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend de la aplicación. Por el momento no se pudo desplegar el Backend de la aplicacion, pero para la siguiente entrega lo tendremos listo.
+Para la entrega del Sprint 4, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en los Sprints anteriores. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 4, consiste en la actualizacion y mejora de la primera version de la implementacion del Backend de la aplicación. Por el momento no se pudo desplegar el Backend de la aplicacion, pero para la siguiente entrega lo tendremos listo.
+
+- ***A continuación adjuntaremos todos los repositorios usados para el Sprint final.*** <br><br>
+
+- Repositorio LandingPage LoyalSips: 
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-LandingPage](https://github.com/IsaacAmp24/LoyalSips-LandingPage.git) | main | feat(Initial)     | Initial commit | Se creó el proyecto | 04/09/2023|
+
+- Repositorio Frontend LoyalSips: 
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Frontend](https://github.com/Aplicaciones-Web-Point-bar/Frontend-LoyalSips-Origin.git) | main | feat(Initial)     | Initial commit | Se creó el proyecto | 09/10/2023|
+
+
+- Repositorio Backend LoyalSips: 
 
 | Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
@@ -4041,11 +4058,18 @@ Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Lan
 
 <br>
 
-| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips-44e19.web.app/home)                | 
+
+
+| Landing Page Desplegada                                          |[Landing Page Loyal Sips](https://isaacamp24.github.io/LoyalSips-LandingPage)                | 
 |---------------------|---------------------|
 
 | Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
 |---------------------|---------------------|
+
+| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips-44e19.web.app/home)                | 
+|---------------------|---------------------|
+
+
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
