@@ -15,8 +15,8 @@
 
 ## Informe de Trabajo Final
 
-- **Nombre del grupo:** TeachSolutions
-- **Nombre de la Startup:** LoyalSlip
+- **Nombre del grupo:** TechSolutions
+- **Nombre de la Startup:** LoyalSips
 
 ## Integrantes
 | Alumno                           | Código     |
@@ -46,7 +46,14 @@
 |    2    | 19/09/2023 | Louis Alfaro Coveñas                 | - Corrección del apartado del sistema de busquedas y navegación de nuestra website, del mismo modo los diagramas de clases con la base de datos.                                 |
 |    2    | 22/09/2023 | Leonardo López Huarcaya              | - Corrección del Sprint Planing 1, como el Sprint Backlog 1 y el Development Evidence for Sprint Review.                                                                         |
 |    2    | 20/09/2023 | Leonardo López <br/> Ampudia Flores <br/>Alarcon Rondon<br/>Morin Fuentes<br/>Louis Alfaro Coveñas  | Primera versión del frontend, agregando los componentes mas escenciales.<br/>Correvión de la landing page                                                                        |
-
+|    3    | 10/10/2023 | Ampudia Flores                       | - Implementacion del endpoint Supports de Backend de la aplicacion.                                                    |
+|    3    | 20/10/2023 | Alarcon Rondon                       | - Implementacion del endpoint Points de Backend de la aplicacion. |
+|    3    | 22/10/2023 | Morin Fuentes                        | - Implementacion del endpoint Points de Backend de la aplicacion.                                                       |
+|    3    | 22/10/2023 | Leonardo López Huarcaya              | - Implementacion del endpoint Users, Pubs de Backend de la aplicacion.                                                                         |
+|    4    | 10/11/2023 | Ampudia Flores                       | - Mejora del endpoint Supports e implementacion del endpoint Inventories para el Backend de la aplicacion.                                                    |
+|    4    | 12/11/2023 | Alarcon Rondon                       | - Mejora del endpoint Points e implementacion de Security para el Backend de la aplicacion. |
+|    4    | 15/11/2023 | Morin Fuentes                        | - Mejora del endpoint Points e implementacion de Security para el Backend de la aplicacion.                                                       |
+|    4    | 15/11/2023 | Leonardo López Huarcaya              | - Mejora del endpoint Users y Pubs e implementacion del endpoint Registros para el Backend de la aplicacion. Además la conexión del Backend con el Frontend de la aplicación, de esta manera que nuestro backend sea consumida por nuestro Frontend de la aplicación.                                                                         |
 
 <br>
 
@@ -146,6 +153,32 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
 </table>
 <br>
 
+A continuación, se muestra las tareas asignadas a cada integrante del equipo para la elaboración del informe TF.
+
+<table style="margin: 0 auto;">
+  <tr>
+    <th>Miembro</th>
+    <th>Responsabilidad</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Jose Ampudia</td>
+    <td style="text-align: justify;">Implementacion del endpoint Inventories y la mejora del endpoint Support.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Alarcon Rondon</td>
+    <td style="text-align: justify;">Mejora del endpoint de Points e implementacion de Security para el backend de la aplicacion.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Morin Fuentes</td>
+    <td style="text-align: justify;">Mejora del endpoint de Points e implementacion de Security para el backend de la aplicacion.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Lopez Huarcaya</td>
+    <td style="text-align: justify;">Mejora de los endpoints de Users, Pubs, Registros del Backend de la aplicacion, encargado de conectar el Frontend con el Backend respectivamente.</td>
+  </tr>
+</table>
+<br>
+
 
 <div align='justify'>
 Para el desarrollo del informe, se realizaron commits respectivos a la tarea asignada para cada integrante del equipo. A continuacón, se muestran los usuarios de github que corresponden a cada integrante del equipo.
@@ -163,10 +196,20 @@ Miembros:
 En el siguiente gráfico se muestra la cantidad de commits realizados por cada integrante del equipo.
 </div><br>
 
+**Para el Reporte**
+- Primera Entrega:
 <div align='center'>
 <img src="https://media.discordapp.net/attachments/1146639922271363083/1155387592016142376/image.png?">
 </div>
 <br>
+
+- Ultima Entrega:
+<div align='center'>
+<img src="https://media.discordapp.net/attachments/1146639921830973516/1177140305372401794/image.png">
+</div>
+<br>
+
+
 
 <div align='justify'>
 Gracias a GitHub, se puede visualizar las ramas creadas para la implementación del proyecto. Tomando en cuenta lo investigado sobre el uso de GitFlow, se ha creado una rama principal llamada "main" y de esta rama se han creado las ramas "develop" y "feature", que cada feature creado, correspondía a alguna característica añadida, es decir a cada capítulo añadido por cada integrante del equipo, esto con el fin de poder mantener un orden a la hora de ralizar los commits. 
@@ -285,14 +328,24 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
         - [5.2.2.8. Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
         <br>
     - [5.2.3. Sprint 3](#523-sprint-3)
-        - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-2)
-        - [5.2.3.2. Sprint Backlog 2](#5232-sprint-backlog-2)
+        - [5.2.3.1. Sprint Planning 2](#5231-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 2](#5232-sprint-backlog-3)
         - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
         - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
         - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](5238-team-collaboration-insights-during-sprint)
+            <br>
+    - [5.2.4. Sprint 4](#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+        - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+        - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+        - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](5248-team-collaboration-insights-during-sprint)
 
 
 
@@ -320,6 +373,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB2:</strong><br>
           Para la entrega del TB2, se presenta la implementación del Sprint 3, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
           - Colaboró con la implementacion de actualizaciones en el Frontend de la aplicación y el desarrollo del Backend para la secccion Support de la aplicacion.<br><br>
+          <strong>TF:</strong><br>
+          Para la entrega del TF, se presenta la implementación del Sprint 4, por lo que engloba los procesos de desarrollo y los insights realizados para el desarrollo de dicho Sprint.<br><br>
+          - Colaboró con la implementacion de actualizaciones en el Backend de la aplicación y mejora de algunos endpoints.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
@@ -330,6 +386,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB2:</strong><br>
           Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
           - Colaboro con la implementacion del codigo en general y si alguno de mis compañeros necesitan ayuda los apoyo, backend, fronted, colabore con la creacion del DB.json.<br><br>
+          <strong>TF:</strong><br>
+          Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
+          - Colaboro con la implementacion del codigo en general mejorando algunos endpoints y la implementacion de Security para el backend de la aplicacion.<br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
@@ -340,6 +399,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB2:</strong><br>
           Asistió a todas las reuniones organizadas por el equipo de trabajo, aportando ideas claras para el desarrollo del proyecto. Realizó todas sus tareas encomendadas por el Team Leader cumpliendo a tiempo.<br><br>
           - Para la siguiente entrega se realiazaron las entrevistas de los 2 segmentos de usuarios clientes y empresarios. Asimismo, en la integración de Testin suite evidence for sprint review y Execution evidence for sprint review..<br><br>
+          <strong>TF:</strong><br>
+          Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
+          - Colaboro con la implementacion del codigo en general mejorando algunos endpoints y la implementacion de Security para el backend de la aplicacion.<br><br>
           <strong>López, Leonardo</strong><br>
           <strong>TB1:</strong><br>
           Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
@@ -350,6 +412,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <strong>TB2:</strong><br>
           Asistió a las reuniones claves organizadas por el equipo de trabajo, aportando ideas para la solución del proyecto. Realizó sus tareas establecidas a tiempo.<br><br>
           -Colaboró con la implementación del Backend de la aplicacion, especialmente en la creacion de las entidades de Users & Pubs o Bares.<br><br>
+          <strong>TF:</strong><br>
+          Asistio a todas las reuniones organizadas por mi team, aportando todo tipo de ideas para mejorar nuestro trabajo. Realizo todas las tareas que nos dejamos en el grupo.<br><br>
+          - Encargado de realizar los endpoints principales de la aplicacion, como Users & Bares, además, la conexión del Backend con el Frontend de la aplicacion.<br><br>
         </td>
         <td><strong></strong><br>
         Para la elaboración de nuestro proyecto, fue necesaria la comunicación en equipo, una de las herramientas claves fue Discord y WhatsApp, en el que se designó los temas para cada integrante del equipo.</td>
@@ -363,6 +428,8 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, de tal modo que la capacidad de aplicar habilidades y conocimientos para la implementación del mismo, es muy importante.<br><br>
           <strong>TB2:</strong><br>
           En la siguiente entrega, es importante poseer conocimientos previos en el lenguaje de C# y el uso de la herramienta Postman, para la implementación del backend de la aplicación.<br><br> 
+          <strong>TF:</strong><br>
+          En la siguiente entrega, es esencial poseer un conocimiento mas amplio sobre logicas de negocio con respecto al backend de la aplicacion y las relglas del producto, todo esto desarrollado en el lenguaje de programacion C#.<br><br>
           <strong>Morin, Jean</strong><br>
           <strong>TB1</strong><br>
           Tiene conocimiento de varios lenguajes de programación, entre ellos está, HTML, CSS, JAVA SCRIPT, como también C++, python y otros.
@@ -371,6 +438,8 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           En la siguiente entrega, es importante destacar que se deberá desarrollar el front-end de la aplicación, por lo que el conocimiento de lenguajes como html, css y javascript es importante para la implementación del mismo.<br><br>
           <strong>TB2</strong><br>
           Para esta entrega de la TB2, se implementara el Backend de la aplicacion por lo que es importante el conocimiento y manejo de C# y metodos de testing como Postman.<br><br>
+          <strong>TF:</strong><br>
+          En la siguiente entrega, el uso del lenguaje de programacion C# es bastante importante y sobre todo la implementacion de logicas de negocio relacionado al producto de la aplicacion.<br><br>
           <br><br>
           <strong>Alarcon, Sandro</strong><br>
           <strong>TB1</strong><br>
@@ -381,6 +450,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <br><br>
           <strong>TB2</strong><br>
           En esta seccion se necesitara el conocimiento de C# para la implementacion del Backend de la aplicacion, lo cual facilitara la implementacion del mismo.
+          <br><br>
+          <strong>TF:</strong><br>
+          En la siguiente entrega, las pruebas unitarias y el uso de C# es bastante primordial para la culminación del producto, lo cual facilita de alguna manera la logica de negocio.<br><br>
           <br><br>
           <strong>Alfaro, Louis</strong><br>
           <strong>TB1</strong><br>
@@ -395,6 +467,9 @@ La rama "develop" sirvió para actualizar las ultimas versiones de cada feature,
           <br><br>
           <strong>TB2</strong><br>
           Para esta entrega es importante el conocimiento de C# para la elaboracion del Backend de la aplicacion, lo cual facilitara la implementacion del mismo.
+          <br><br>
+          <strong>TF:</strong><br>
+          En la siguiente entrega, es importante poseer conocimientos de C# intermedio para poder realizar las logicas de negocio con buenas practicas, usando Domain Driven Design para obtener mejor entendimiento de codigo, ademas la conexion de backend y frontend es primordial.<br><br>
           <br><br>
     </td>
     <td><strong></strong><br>La capacidad de manejar varios lenguajes de programación es bastante importante, lo cual influyó mucho para la elaboración del trabajo, dentro de ellos está el conocimiento de los lenguajes de HTML, CSS y Java Script, para la implementación de la Landing Page de manera correcta, por otro lado, la capacidad de poder manejar os diagramas de modelado C4, lo cual nos ayudó a mostrar de diferentes maneras el enfoque que tendrá nuestro proyecto final, no dejemos de lado la herramienta Figma, que nos sirvió para realizar el diseño del proyecto, y de esta manera poder ayudarnos para la implementación de la Landing Page.</td>
@@ -3895,6 +3970,533 @@ Para la entrega del Sprint 3, se alcanzó la actualizacion de la Landing page, l
     </td>
 </tr><br>
 
+### 5.2.4. Sprint 4
+
+
+#### 5.2.4.1 Sprint Planning 4
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo la mejora respectiva de la primera versión del Backend de la aplicacion, teniendo en cuenta la implementación de security y la mejora de la primera versión del Frontend de la aplicacion.
+
+|            Sprint #             |                                                                                                                Sprint 4                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-11-01                                                                                                               |
+|              Time               |                                                                                                                08:25 PM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                     Ampudia Flores, José Carlos Isaac / Alarcón Rondón Sandro Fourfive / Morin Fuentes. Jean Pierre / López Huarcaya, Leonardo Paul                                      |
+|     Sprint 4 Review Summary     |                                                                                     En resumen se alcanzo actualizar la version del Frontend que se tenía realizado. Por otro lado, se realizó la actualización del Backend de la aplicacion, con las tablas principales para la idea de negocio de la aplicación, además se tuvo pensado implementar la sección de **Security** para el backend de la aplicacion, y se tuvo como mejora, la conexión entre el backend y frontend de la aplicacion.                                                                                      |
+| Sprint 4 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 4 Goal          |                                                       Goal: Tener la  versión del backend actualizada y terminada <br> Metrica de cumplimiento:Se muestra la version del backend actualizada y la conexion de backend con frontend.                                                        |
+|        Sprint 4 Velocity        |                                                                                              Para esta entrega se aeptara 10 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
+
+#### 5.2.4.2 Sprint Backlog 4
+
+El objetivo principal del Sprint 3 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+
+
+|   Sprint #    |     Sprint 4     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US015     |        T1        |Implementacion del Backend, en especial la tabla Inventories |3 h |      Ampudia Jose       | Done|
+|     US006     |        T2        |Implementar la secccion Support para realizar alguna pregunta |3 h |      Ampudia Jose       | Done|
+|     US011     |        T3        |Poder visualizar la descripcion de los bares. |3 h | Leonardo Lopez | In-Process|
+|     US003     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Alarcon Sandro       | Done|
+|     US009     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Ampudia Jose       | Done|
+|     US013     |        T8        | Implementar la seccion de Points para el Backend |5 h |            Morin Fuentes            | Done|
+|     US018     |        T9        | Implementar la seccion de Point para el Backend |5 h |            Alarcon Sandro            | Done|
+|     US015     |        T10        | Implementar la seccion de Support para el Backend |5 h |            Ampudia Jose            | Done|
+|     US006     |        T11        | Implementar la seccion de Users & Pubs para el backend |5 h |            Leonardo Lopez            | Done|
+
+
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+Como parte de la revisión del segundo sprint y para proporcionar pruebas tangibles de nuestro progreso, hemos documentado todos los cambios realizados en forma de commits para el desarrollo de la actualizacion de nuestro Frontend Web Application respecto a nuestro Startup y además la actualizacion del Backend de la aplicacion. Los commits registrados en el repositorio reflejan el trabajo realizado en estas áreas en específico.
+
+|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  Leonardo/Backend-LoyalSips  |     feature/User     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(User): add table User                 |         Agregar la tabla User para el backend de la aplicacion,          |     21/10/2023     |
+|  Leonardo/Backend-LoyalSips  |     feature/Pubs     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(Pubs): add table Pubs               | Se agrego la tabla Pubs para el backend de la aplicacion |     21/10/2023     |
+| IsaacAmp24/Backend-LoyalSips |    feature(Support)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(Support): add table Support            |                      Se agrego la tabla Support para el backend de la aplicacion                       |     26/10/2023     |
+| IsaacAmp24/Backend-LoyalSips |  feature(Inventories)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(Inventories): add table Inventories and atributes       |                    Se agrego la tabla Inventario para el backend de la aplicacion                    |     26/10/2023     |
+|   JeanPmf/Backend-LoyalSips   | feature/Points |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(Points): add table Points    |                   Se agrego la tabla Points para el backend de la aplicacion                   |     25/10/2023     |
+|   AlarSandro/Backend-LoyalSips   | feature/Points |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(Points): add table Points         |                           Incorporación de la tabla Points para el backend de la aplicacion                            |     25/10/2023     |
+| IsaacAmp24/Backend-LoyalSips  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| IsaacAmp24/Frontend-LoyalSips  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+| AlarSandro/Frontend-LoyalSips  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(LoyalSips-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+Para la entrega del Sprint 3, se tuvo pensado alcanzar la actualización del Landing Page que se presentó en el Sprint 1. Además se actualizó la version que se tenia inicialmente del Frontend de la aplicacion. Por otro lado, la parte esencial del Sprint 3, consiste en la primera version de la implementacion del Backend de la aplicación. Por el momento no se pudo desplegar el Backend de la aplicacion, pero para la siguiente entrega lo tendremos listo.
+
+| Repository                                          | Branch                | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|----------------------------------------------------|-----------------------|-----------|----------------|---------------------|---------------------|
+| [LoyalSips-Backend](https://github.com/Aplicaciones-Web-Point-bar/LoyalSips.Api.git) | main | feat(Initial)     | Initial commit | Se creó el proyecto | 23/10/2023|
+
+<br>
+
+| Loyal Sips Backend Desplegada                                          |[LoyalSips-Backend-Swagger](https://loyalsips-44e19.web.app/home)                | 
+|---------------------|---------------------|
+
+| Loyal Sips Frontend Actualizada                                          |[LoyalSips-Frontend](https://loyalsips-44e19.web.app)                | 
+|---------------------|---------------------|
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+En el sprint 4, se logró implementar la primera versión del Backend de la aplicacion, analizando los requisitos, para las colecciones y clases que se tuvo pensado crear, como primera version, hemos cumplido con la creacion de algunas colecciones como Users, Pubs y Support, los cuales se muestran a continuacion:
+
+**Evidencia de Backend LoyalSips**
+
+<tr>
+    <td>
+    <div align='center'>
+      <img src="https://media.discordapp.net/attachments/1146639921830973516/1176347371647553536/image.png"></div>
+    </td>
+</tr><br>
+
+**Evidencia de Backend en la Base de Datos**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176347701969952778/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Entidad Inventories (POST)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176348445641031690/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Inventories (GET BY ID)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176348910218915880/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Entidad Users (POST)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530402784956426/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169530471810617464/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (GET)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169531555924951072/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (PUT)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532219602260028/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169532621538209852/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Users (DELETE)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169533514346135593/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Pubs (POST)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176729096559013888/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176728751032250419/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Pubs (GET)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176729737985523813/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176730123781816420/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176730984444604466/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Entidad Pubs (GET BY ID)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176731446224900216/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176731446224900216/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Pubs (PUT)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176732895361114122/Captura_de_pantalla_2023-11-21_225550.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176733076068499506/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Pubs (DELETE)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176733582425849896/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Entidad Registros (POST)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176734764129063013/image.png"></div>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176734839811092540/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (POST)**
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725855740739624/image.png"></div>
+    </td>
+</tr><br>
+
+
+<tr>
+    <td>
+    <div align='center'>
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169725903346090086/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (GET)**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726396042580071/image.png"></div>
+    </td>
+</tr><br>
+
+**Entidad Support (DELETE)**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169726748376698990/image.png"></div>
+    </td>
+</tr><br>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Para la entrega del Sprint 4, se tuvo pensado alcanzar la actualización del Backend de la aplicacion que se presentó en el Sprint 3. Además, se realizó la conexión entre el Backend y Frontend de la aplicación, para poder visualizar los datos que se encuentran en el Backend de la aplicacion, agregando varios endpoints para el backend que son necesarios para la aplicacion.
+
+|       Endpoint	       |  Acción   | Verbo HTTP |             Parámetros             |                                                                                  Ejemplo de Request                                                                                  |            Respuesta             |  Captura   |                          
+|:---------------------:|:---------:|:----------:|:----------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------:|:----------:|
+|     /api/v1/pubs      |  Listar   |    GET     |              Ninguno               |                                                                                                                                                                                      |     Listado de publicaciones     | <img src=""> |
+|     /api/v1/pubs      |   Crear   |    POST    |              Ninguno               |  | Publicación creada  exitosamente |<img src=""> |
+|   /api/v1/pubs/{id}   |  Obtener  |    GET     | Mentorid(int):Id de la publicación |                                                                                    /api/v1/pubs/5                                                                                    |     Detalle del bar con id 3     |<img src="">  |
+|   /api/v1/pubs/{Id}   | Modificar |    PUT     |    id(int):Id de la publicación    |                                                                                    /api/v1/pubs/5                                                                                    |    Actualizar el bar con id 3    | <img src="">  |
+|   /api/v1/pubs/{Id}   | Eliminar  |   DELETE   |    id(int):Id de la publicación    |                                                                                    /api/v1/pubs/5                                                                                    |     Eliminar el bar con id 3     | <img src="">  |
+|      /api/v1/support       |  Listar   |    GET     |              Ninguno               |                                                                                                                                                                                      |        Lista de supports         | <img src="">  |
+|   /api/v1/support    |   Crear   |    POST    |              Ninguno               |                                                                                                                                                                                      |       Creación de supports       | <img src="">  |
+| /api/v1/support/{Id} |    Eliinar    |     Delete     |       id(int):Id del support       |                                                                                  /api/v1/support/1                                                                                   |    Eliminar support con id 1     | <img src="">  |
+| /api/v1/inventories |    Crear    |     POST     |       Ninguno       |                                                                                                                                                                     |    Creación de Producto para el inventario del bar.     | <img src="">  |
+| /api/v1/inventories |    Listar    |     GET     |       Ninguno       |                                                                                                                                                                     |    Listar los productos del inventario del bar.     | <img src="">  |
+| /api/v1/inventories/{id} |    Listar    |     GET     |       id(int):Id del inventario       |                                                                                         /api/v1/inventories/1                                                                            |    Listar 1 producto del inventario del bar.     | <img src="">  |
+| /api/v1/inventories/{id} |    Modificar    |     PUT     |       id(int):Id del inventario       |                                                                                         /api/v1/inventories/2                                                                            |    Modificar 1 producto del inventario del bar.     | <img src="">  |
+| /api/v1/inventories/{id} |    Eliminar    |     DELETE     |       id(int):Id del inventario       |                                                                                         /api/v1/inventories/2                                                                            |    Eliminar 1 producto del inventario del bar dado el Id.     | <img src="">  |
+| /api/v1/points |    Listar    |     GET     |       Ninguno       |                                                                                                                                                                     |    Agregar 1 punto al usuario.     | <img src="">  |
+| /api/v1/points/{id} |    Modificar    |     PUT     |       id(int):Id del point       |                                                                                         /api/v1/points/2                                                                            |    Modificar o actualizar 1 punto del usuario.     | <img src="">  |
+| /api/v1/registros |    Crear    |     POST     |       Ninguno       |                                                                                                                                                                     |    Agregar 1 registro.     | <img src="">  |
+| /api/v1/registros |    Listar    |     GET     |       Ninguno       |                                                                                                                                                                     |    Listar registros.     | <img src="">  |
+| /api/v1/users |    Listar    |     GET     |       Ninguno       |                                                                                                                                                                     |    Listar todos los usuarios.     | <img src="">  |
+| /api/v1/users |    Crear    |     POST     |       Ninguno       |                                                                                                                                                                     |    Listar todos los usuarios.     | <img src="">  |
+| /api/v1/users/{id} |    Modificar    |     PUT     |       id(int):Id del usuario       |                                                                                         /api/v1/users/2                                                                            |    Modificar 1 usuario con un respectivo Id.     | <img src="">  |
+| /api/v1/users/{id} |    Eliminar    |     DELETE     |       id(int):Id del usuario       |                                                                                         /api/v1/users/2                                                                            |    Eliminar 1 usuario con un respectivo Id.     | <img src="">  |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint 4, se alcanzó la actualizacion del Backend de la aplicación, la implementación de Security para el Sign In y Sign Out del usuario y que este pueda visualizar los distintos endpoints creados en la aplicación.
+
+**Evidencia de la landing page deployada**
+<td>
+    <div align='center'> 
+<img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177101920297553961/image.png">
+</div>
+</td><br>
+
+
+**Evidencia de la actualizacion de Frontend de la Aplicacion**
+
+ <tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735022572478546/image.png"></div>
+    </td>
+</tr><br>
+
+**Eleccion de segmento objetivo**
+
+ <tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735483610365952/image.png"></div>
+    </td>
+</tr><br>
+
+**Login Sector cliente**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735520700608583/image.png"></div>
+    </td>
+</tr><br>
+
+**Register Sector cliente**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735550736015400/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Login Sector Empresario**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735644982026321/image.png"></div>
+    </td>
+</tr><br>
+
+**Register Sector Empresario**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735681384394802/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Section Profile**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169735919063011328/image.png"></div>
+    </td>
+</tr><br>
+
+
+**Section Support**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169737118092898475/image.png"></div>
+    </td>
+</tr><br>
+
+**Section Bares o Pubs**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176773129624895498/image.png"></div>
+    </td>
+</tr><br>
+
+**Catálogo de bebidas de los bares**
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177078779550638100/image.png"></div>
+    </td>
+<td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177078813516103770/image.png"></div>
+    </td>
+</tr><br>
+
+**Carrito de compras del cliente**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177078888640282684/image.png"></div>
+    </td>
+<td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177078971054161990/image.png"></div>
+    </td>
+<td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177079023134838794/image.png"></div>
+    </td>
+<td>
+    <div align='center'> 
+    <img src="https://cdn.discordapp.com/attachments/1146639921830973516/1177079060724203641/image.png"></div>
+    </td>
+</tr><br>
+
+---
+
+**Section Backend - (PUBS O BARES)**
+
+- Obtención del bar con **Id 2** (Bar Jocais)
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176776358215548958/image.png"></div>
+    </td>
+</tr><br>
+
+- Obtención del bar con **Id 3** (Bar Luces)
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176777183683948594/image.png"></div>
+    </td>
+</tr><br>
+
+- Obtención del bar con **Id 4** (Xbio Bar)
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176778262932889610/image.png"></div>
+    </td>
+</tr><br>
+
+- Obtención del bar con **Id 5** (Valetodo Bar)
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176778506328363129/image.png"></div>
+    </td>
+</tr><br>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+|Nombre|Rol|
+|------|---|
+|Alarcón Rondón, Sandro Fourfive| Mejoras de la seccion Points para el Backend de la aplicación y Securiy.|
+|Ampudia Flores, José Carlos Isaac|Mejoras de la sección Support e implementacion de la seccion Inventories, en la que el usuario añade un producto al inventario para el Backend de la aplicacion.|
+|Lopez Huarcaya, Leonardo Paul|Mejoras de la sección Users & Pubs para el Backend de la aplicación. Además de ello, la conexión entre el Backend y Frontend de la aplicación.|
+|Morin Fuentes, Jean Pierre|Mejoreas de la sección Points para el Backend de la aplicación y Security.|
+
+**Evidencia de la actualizacion del Backend de la aplicacion**
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176781096797622333/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176781586470019072/image.png"></div>
+    </td>
+</tr><br>
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1176782169616695346/image.png"></div>
+    </td>
+</tr><br>
 
 
 ## 5.3. Validation Interviews.
@@ -4285,7 +4887,7 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 
 <hr><br>
 
-<p><strong>Problema #4:</strong> Se desconoce quienes son los miembros del equipo que conforman el startup.</p>
+<p><strong>Problema #4:</strong> La identidad de los integrantes del equipo que constituye la startup aún no ha sido revelada o no está disponible..</p>
 
 <p><strong>Severidad:</strong> 3</p>
 
@@ -4321,7 +4923,7 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 <br>
 
 <strong>Recomendacion:</strong>
-<p>Se recomienda añadir más información que detalle un poco más de los insumos que contienen los bares y dichas promociones para dar un mejor panorama en la elección de lo que el mismo usuario desee consumir.</p>
+<p>Se sugiere incorporar información adicional que amplíe los detalles sobre los ingredientes presentes en los bares, así como las promociones disponibles. Esto proporcionará al usuario una visión más detallada y completa al tomar decisiones sobre qué consumir.</p>
 
 <br>
 
