@@ -83,10 +83,7 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
     <td style="text-align: center;">López Huarcaya</td>
     <td style="text-align: justify;">Lean UX Proccess, Lean UX Problem Statements, Registro de entrevistas, Análisis de entrevistas, Class Dictionary, Database Design, Database Diagram, Sprint Planning 1, Sprint Backlog 1, Development Evidence for Sprint Review.</td>
   </tr>
-  <tr>
-    <td style="text-align: center;">Alfaro Coveñas</td>
-    <td style="text-align: justify;">Lean UX Canvas, Segmento Objetivo, User Journey Mapping, Empathy Mapping, As-is Scenario Mapping, Product Backlog, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Software Object-Oriented Design, Class Diagrams, Source Code Style Guide & Conventions, Software Deployment Configuration, Landing Page, Services & Applications Implementation.</td>
-  </tr>
+
 </table>
 <br>
 
@@ -113,10 +110,7 @@ A continuación, se muestra las tareas asignadas a cada integrante del equipo pa
     <td style="text-align: center;">Lopez Huarcaya</td>
     <td style="text-align: justify;">Corrección y actualización del Problem Statements, Actualización de plantilla de entrevistas, Corrección de nomenclaturas del DataBase Diagram, Implementación de la sección About us del Web Application.</td>
   </tr>
-  <tr>
-    <td style="text-align: center;">Alfaro Coveñas</td>
-    <td style="text-align: justify;">Actualización y corrección del As-is Scenario Mapping y otros mapas, Actualización del Product Backlog, Actualización del Class Diagrams, Actualización Conclusiones y Anexos.</td>
-  </tr>
+
 </table>
 <br>
 
