@@ -4927,34 +4927,16 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 
 <br>
 
-
-
-### Web Aplicaion
-
-
 ## 5.4. Video About-the-Product.
 
 <tr>
-    <td style="border: 1px solid #dddddd; padding: 8GITpx;">
+    <td>
     <div align='center'> 
-    <img src="https://media.discordapp.net/attachments/1146639921830973515/1169781275276628058/image.png"></div>
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1177147978939637790/image.png"></div>
     </td>
 </tr><br>
 
-[upc-pre202302-si730-sw51-TechSolutions-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EeC0Rfsm_vRJoU4LwTHoC-kBvZqxmxx_a9LtIcDGDjKJUg?e=oxzmHq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-
-<br>
-
-
-## Video About-the-Team.
-
-<tr>
-    <div align='center'> 
-    <img src="https://media.discordapp.net/attachments/1146639921830973516/1170385700164743209/image.png"></div>
-    </td>
-</tr><br>
-
-[upc-pre202302-si730-sw51-TechSolutions-expo-tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EW3Ip1FfAh1Mn6BR0wa0FfcB_LmLCtzjsbES0rF2ojaQTw?e=kueZ8q)
+[upc-pre202302-si730-sw51-TechSolutions-about-the-product-sprint-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/ESKT7kI1YjRBr1jHRz_ScuQBlwcJAf4x9sXCZ6p9XtFYGA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=NbIMFA)
 
 <br>
 
@@ -4964,6 +4946,17 @@ frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiem
 2. Entendemos y apreciamos la flexibilidad de las metodologías ágiles, por ende estamos dispuestos a adaptarnos rápidamente a los cambios y responder de manera ágil a las necesidades cambiantes de nuestro proyecto.
 3. Con respecto al analisis competitivo desarrollado, podemos concluir que las aplicaciones dirigidas para el sector Bares
 Es un nicho que no cuenta con demasiados competidores que enfoquen a mejorar la experiencia de usuario para los clientes y dueños de bares.
+
+## Video About-the-Team.
+
+<tr>
+    <td>
+    <div align='center'> 
+    <img src="https://media.discordapp.net/attachments/1146639921830973516/1177147683987783700/image.png"></div>
+    </td>
+</tr><br>
+
+[upc-pre-202302-si730-sw51-TechSolutions-about-the-team-sprint-4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/ESHbuTUhG4BDgSMMTGDH_h4BSJiJE6fB7AsEsqaGw_mdhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=9aMSWE)
 
 ## Bibliografía
 
